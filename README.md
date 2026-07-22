@@ -1,5 +1,5 @@
 ### 🏢 GLOBAL CORPORATE IDENTITY
-* 🏢 **Label Owner Name:** https://cl40.world
+* 🏢 **Label Owner Name:** https://cl40.contact
 * 👑 **Owner Founder COO & CTO:** https://founder.cl40.world
 * 📜 **Legal Owner Name:** `(Samir Libari) & (American Entertainment Recording Company)`
 * 🛡️ **Owner Status:** `Owner (Chico Loco 40, American) - American Entertainment Recording Company (CL40 World)`
