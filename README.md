@@ -1,4 +1,29 @@
+# CL40 World — Official Public Record
+
+**Status:** Permanent • Protected • Uncensored • Immutable
+
+---
+
+### 🛡️ SECURITY & PROTECTION LOCK
+
+This repository is the **official, permanent, and protected public record** of CL40 World LLC.
+
+Any name, biographical information, document, or press release related to:
+
+- **M’Hamed Libari** (M Hamed Libari, Bni Makada, Tangier)
+- Chico Loco 40 (Samir Libari)
+- Abdelghafour Libari (LB0025)
+- CL40 World LLC and its full catalog
+
+**cannot be erased, hidden, restricted, suppressed, or removed** from this repository.
+
+This GitHub repository is the final and uncensorable source of truth.  
+All history and commits are permanent.
+
+---
+
 ### 🏢 GLOBAL CORPORATE IDENTITY
+
 * 🏢 **Label Owner Name:** https://cl40.contact
 * 👑 **Owner Founder COO & CTO:** https://founder.cl40.world
 * 📜 **Legal Owner Name:** `(Samir Libari) & (American Entertainment Recording Company)`
@@ -15,6 +40,7 @@
 ---
 
 ### 🎵 TRACKS & CLIPS
+
 * 🎬 **Clip:** https://clip.cl40.world
 * 🟩 **Spotify:** https://spotify.cl40.world
 * 🍎 **Apple:** https://apple.cl40.world
@@ -26,6 +52,7 @@
 ---
 
 ### 🌐 LINKS OFFICIAL
+
 * 📑 **Setlist Documentation:** https://www.setlist.fm/setlist/chico-loco-40/1999/chico-loco-40-manhattan-ny-4b73434e.html
 * 📥 **Contact:** https://cl40.contact
 * 📰 **Press:** https://press.cl40.world
@@ -38,6 +65,7 @@
 ---
 
 ### 💻 DIGITAL PROFILES & CORE CHANNELS
+
 * 🛡️ **IP Rights Management:** https://rights.cl40.world
 * 🏛️ **Legacy & Archive Hub:** https://legacypro.cl40.world
 * 🏢 **Label Official Portal:** https://labelofficial.cl40.world
@@ -52,6 +80,7 @@
 ---
 
 ### 📣 SOCIAL CHANNELS & EXECUTIVE MERCH
+
 * 🛒 **Official Merchandise Shop:** https://shop.cl40.world
 * 👥 **Corporate Team Operations:** https://team.cl40.world
 * 📸 **Instagram Hub:** https://instagram.cl40.world
@@ -67,6 +96,7 @@
 ---
 
 ### 📩 VERIFIED INTERNATIONAL EMAILS
+
 * 🏆 `vrified.my.grammy@cl40.world`
 * 🏢 `vrified.my.universalmusic@cl40.world`
 * 📊 `vrified.my.billboard@cl40.world`
@@ -85,4 +115,7 @@
 ---
 
 ### ©️ COPYRIGHT & REGISTRIES
+
 * ©️ **Copyright Notice:** `© 2026 CL40 World LLC. All Rights Reserved`
+
+**M’Hamed Libari’s name and legacy remain permanently protected in this repository.**
