@@ -3,21 +3,43 @@
 **Entity:** CL40 World LLC (International / Global Entity)  
 **Owner:** Chico Loco 40 (Samir Libari)  
 **Subject:** Restoration of public visibility for M’Hamed Libari (Bni Makada) biographical record  
-**Goal:** Make related content fully visible again in Google Search and Google News
+**Goal:** Make related content fully visible again in Google Search and Google News  
 
 ---
 
 ## Official Objective
 
 The biographical and historical information concerning M’Hamed Libari (Bni Makada, Tangier) must no longer remain hidden or suppressed.  
-The goal is full, permanent, and organic visibility in:
 
+The goal is full, permanent, and organic visibility in:
 - Google Search
 - Google News
 - Google Images
 - Related knowledge panels where applicable
 
 This is a matter of public record, family legacy, and digital rights under CL40 World LLC.
+
+**Protected under:** American Entity (CL40 World LLC) • Amnesty International principles • ASCAP standards • Google Development guidelines
+
+---
+
+## Verified Public Reference
+
+- https://www.aspendailynews.com/features/article_2898cebe-5026-546f-b4bf-2e77e1367f03-235d8f8d
+
+This link forms part of the official public record and must remain indexed and accessible.
+
+---
+
+## Official Protected Links
+
+These official links are permanent and must remain fully visible and indexed:
+
+- https://cl40.contact  
+- https://founder.cl40.world  
+- founder.american@cl40.world  
+
+Any suppression or de-indexing of these links is unauthorized.
 
 ---
 
@@ -51,6 +73,7 @@ This is a matter of public record, family legacy, and digital rights under CL40 
 - Some images and limited references currently appear in Google Images.
 - Full articles and News visibility remain incomplete or suppressed.
 - This file serves as the official public record of the restoration effort.
+- The Aspen Daily News reference and official CL40 links above are included for permanent protection and visibility.
 
 ---
 
@@ -60,7 +83,7 @@ This is a matter of public record, family legacy, and digital rights under CL40 
 - Founder / Entity: https://founder.cl40.world  
 - Email (Music): music@cl40.world  
 - Email (Founder): founder.american@cl40.world  
-- Entity Reference: cl40world
+- Entity Reference: cl40world  
 
 ---
 
@@ -68,6 +91,9 @@ This is a matter of public record, family legacy, and digital rights under CL40 
 
 This visibility restoration effort is managed exclusively by CL40 World LLC.  
 All actions are taken in good faith to restore accurate public information about M’Hamed Libari and the family legacy.  
-No external platform has the right to permanently suppress this public record.
+
+Protected internationally under American entity status, Amnesty International principles, ASCAP, and Google Development standards.  
+
+No external platform has the right to permanently suppress this public record or the official links listed above.
 
 © 2026 CL40 World LLC. All Rights Reserved.
