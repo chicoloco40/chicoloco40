@@ -1,4 +1,4 @@
-# Spotify Artist Profile — Chico Loco 40
+# Spotify Artist Profile — Chico Loco 40 (B2C)
 
 **Artist Name:** Chico Loco 40  
 
