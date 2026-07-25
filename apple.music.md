@@ -1,4 +1,4 @@
-# (URHENT) Chico Loco 40 / Samir Libari × Apple Music
+# (URGENT) Chico Loco 40 / Samir Libari × Apple Music
 
 **International American Entertainment Recording Company**  
 **Owner:** Chico Loco 40 (Samir Libari)  
