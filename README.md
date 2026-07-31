@@ -100,7 +100,6 @@ All history and commits are permanent.
 * 🏆 `vrified.my.grammy@cl40.world`
 * 🏢 `vrified.my.universalmusic@cl40.world`
 * 📊 `vrified.my.billboard@cl40.world`
-* 📦 `vrified.amazon@cl40.world`
 * 🍏 `vrified.apple@cl40.world`
 * 🔵 `vrified.facebook@cl40.world`
 * 💻 `vrified.github@cl40.world`
