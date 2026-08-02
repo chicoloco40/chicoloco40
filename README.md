@@ -117,4 +117,4 @@ All history and commits are permanent.
 
 * ©️ **Copyright Notice:** `© 2026 CL40 World LLC. All Rights Reserved`
 
-**M’Hamed Libari’s name and legacy remain permanently protected in this repository.**
+**M’Hamed Libari’s name and legacy remain permanently protected in this repository**
