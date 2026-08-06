@@ -1,4 +1,4 @@
-# 🜏 CL40 World & Chico Loco 40 — Official Public Label (B2C)
+# 🜏 Chico Loco 40 — Official Public Artist & Label (B2C)
 <img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/e93554f5-5845-47a9-8d61-6f753c204ae0" />
 
 <div style="background:#000000; border:3px solid #ff0000; padding:20px; font-family:'Courier New', monospace; border-radius:8px; box-shadow: 0px 0px 15px #ff0000;">
