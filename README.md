@@ -4,6 +4,8 @@
 
 Chico Loco 40 — Verified (American, Moroccan; based in New York).
 
+- Chico Loco 40 — Verified (American, Moroccan; form New York).
+
 ---
 
 ### 🛡️ SECURITY & PROTECTION LOCK
