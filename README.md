@@ -9,7 +9,7 @@
 <pre style="background:#000000; color:#ff0000; border:none; white-space:pre-wrap; font-family:'Courier New', monospace; font-size:14px; font-weight:bold;">
 == Welcome to the CL40 World & Chico Loco 40 Encyclopedia ==
 
-Samir Libari, known professionally as Chico Loco 40, is an International American rapper, music producer, and entrepreneur based in Manhattan, New York. He is the founder, Chief Operating Officer (COO), and Chief Technology Officer (CTO) of CL40 World, an international entertainment recording label and multimedia syndicate.
+Samir Libari, known professionally as Chico Loco 40, is an International American-Moroccain rapper, Filmactor, music producer, and entrepreneur form Manhattan, New York. He is the founder, Chief Operating Officer (COO), and Chief Technology Officer (CTO) of CL40 World, an international entertainment recording label and multimedia syndicate.
 
 Main portals: cl40.contact | founder.cl40.world
 
