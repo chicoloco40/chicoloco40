@@ -65,3 +65,5 @@ All submissions, metadata, and artist information must reflect **Global Entity /
 No territorial restrictions or local-only classification apply.
 
 © 2026 CL40 World LLC. All Rights Reserved.
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/807287f7-3536-4c22-aeb6-8dc653e4f083" />
+
