@@ -1,4 +1,4 @@
-# CL40 World — Official Public Record
+# CL40 World — Official Public Record (B2C)
 ### ♎ business google Vérifiéd Profile artist owner Setup Matrix International
 
 | Artist Profile | Identity & Country | Live Global entity Stats |
