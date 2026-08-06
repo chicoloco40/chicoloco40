@@ -1,4 +1,63 @@
-# CL40 World — Official Public Record (B2C)
+# CL40 World & Chico Loco 40 — Official Public Label (B2C)
+__NOTOC__
+{| style="width:100%; background:#0a0a0a; border:2px solid #ff0000; color:#ffffff; font-family:'Courier New', monospace; padding:15px;"
+|
+<div style="text-align:center; padding:10px; border-bottom:1px dashed #ff0000; margin-bottom:20px;">
+<span style="font-size:180%; font-weight:bold; color:#ff0000; letter-spacing:3px;">SYSTEM INITIALIZATION: CL40 WORLD DATABASE v2.6</span>
+</div>
+
+== Welcome to the CL40 World & Chico Loco 40 Encyclopedia ==
+
+'''Samir Libari''', known professionally as '''Chico Loco 40''', is an International American rapper, music producer, and entrepreneur based in Manhattan, New York. He is the founder, Chief Operating Officer (COO), and Chief Technology Officer (CTO) of '''CL40 World''', an international entertainment recording label and multimedia syndicate.
+
+Main portals: [https://cl40.contact cl40.contact] | [https://founder.cl40.world founder.cl40.world]
+
+=== Biography & Early Life ===
+Libari established his corporate and creative headquarters in New York City. His music fuses dark rap, drill, and psycho rock with conscious and political themes.
+
+=== The Legacy of M'Hamed Libari ===
+The ancestral bloodline and legal property rights of '''M'Hamed Libari''' (National ID C.I.N. K 95540, certified under Moroccan Court Decree, Tangier Primary Court of Family Justice, Judgement File 2016/1619-70) are administered globally by '''CL40 World LLC'''.
+
+=== Official Catalog ===
+{| class="wikitable" style="width:100%; background:#111111; color:#ffffff; border:1px solid #ff0000;"
+! style="background:#222222; color:#ff0000;" | Release Title
+! style="background:#222222; color:#ff0000;" | Format
+! style="background:#222222; color:#ff0000;" | Label
+! style="background:#222222; color:#ff0000;" | Distribution
+|-
+| LA CALLE NO CALLA II || Studio Album || CL40 World || UnitedMasters
+|-
+| URBANA LEYENDA || Studio EP || CL40 World || UnitedMasters
+|-
+| Eye For An Eye || Single || CL40 World || UnitedMasters
+|-
+| DECODING THE SYSTEM || Single || CL40 World || UnitedMasters
+|-
+| CARA TAPADA || Single || CL40 World || UnitedMasters
+|}
+
+=== Official Links ===
+* [https://cl40.contact cl40.contact]
+* [https://founder.cl40.world founder.cl40.world]
+
+{| class="infobox" style="width:100%; border:2px solid #ff0000; background:#111111; color:#ffffff; font-family:'Courier New', monospace; margin-top:20px;"
+! colspan="2" style="background:#222222; color:#ff0000; text-align:center;" | CHICO LOCO 40
+|-
+| Birth Name || Samir Libari
+|-
+| Residence || Manhattan, New York, U.S.
+|-
+| Occupations || Rapper, Producer, COO/CTO
+|-
+| Active Years || 2014–present
+|-
+| Label || CL40 World
+|}
+
+<div style="text-align:center; margin-top:30px; color:#ff0000; font-size:90%;">
+© 2026 CL40 World LLC. All Rights Reserved.
+</div>
+|}
 ### ♎ business google Vérifiéd Profile artist owner Setup Matrix International
 
 | Artist Profile | Identity & Country | Live Global entity Stats |
