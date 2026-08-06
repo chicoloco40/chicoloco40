@@ -12,7 +12,7 @@
 
 **Origin:** American-Moroccan  
 
-**Label:** International (CL40 World) of (American)
+**Label:** International (CL40 World) of (NSW)
 
 ---
 
