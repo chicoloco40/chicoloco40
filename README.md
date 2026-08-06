@@ -84,7 +84,7 @@ The ancestral bloodline and legal property rights of M'Hamed Libari (National ID
     </tr>
     <tr>
       <td style="padding:10px; border:1px solid #ff0000; font-weight:bold; color:#ff0000;">Occupations</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold;">Rapper, Producer, COO/CTO</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold;">Rapper, Producer, Filmactor, COO/CTO</td>
     </tr>
     <tr>
       <td style="padding:10px; border:1px solid #ff0000; font-weight:bold; color:#ff0000;">Active Years</td>
