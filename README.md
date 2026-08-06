@@ -4,8 +4,6 @@
 
 - Chico Loco 40 — Verified (American, Moroccan; form New York).
 
----
-
 ### 🛡️ SECURITY & PROTECTION LOCK
 
 This repository is the **official, permanent, and protected public record** of CL40 World LLC.
