@@ -100,6 +100,13 @@ The ancestral bloodline and legal property rights of M'Hamed Libari (National ID
 
 <div style="text-align:center; margin-top:30px; color:#ff0000; font-size:90%; font-weight:bold; letter-spacing:1px;">
   © 2026 CL40 World LLC. All Rights Reserved.
+
+  ### 📝 Extended Description
+Below are two versions of the extended biography for use on business google (Panel Global Entity) / Artist Connect.
+
+Raw extended bio (as provided):
+
+> Known @ChicoLoco40 the American-Moroccain, Driven by the Legacy of and the 2010 Global Vision (M'Hamed Libari) Founder COO & CTO CL40 World Driving Global Entity Music Syndicate Label 🜃 Legal @GoogleFlow Official Rights @amnesty Strategic, Musicain Produced, Journalist , PR Operations Global Digital Asset Management 140B+ Reach visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +170 With a growing cult following and a playlist reach exceeding +180k listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,25M+ His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production American and NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) (Abdelghafour Libari)
 </div>
 
 </div>
