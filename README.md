@@ -1,4 +1,5 @@
 # 🜏 CL40 World & Chico Loco 40 — Official Public Label (B2C)
+<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/e93554f5-5845-47a9-8d61-6f753c204ae0" />
 
 <div style="background:#000000; border:3px solid #ff0000; padding:20px; font-family:'Courier New', monospace; border-radius:8px; box-shadow: 0px 0px 15px #ff0000;">
 
@@ -7,7 +8,7 @@
 </div>
 
 <pre style="background:#000000; color:#ff0000; border:none; white-space:pre-wrap; font-family:'Courier New', monospace; font-size:14px; font-weight:bold;">
-== Welcome to the CL40 World & Chico Loco 40 Encyclopedia ==
+== Welcome to the CL40 World & Chico Loco 40 Wikipedia ==
 
 Samir Libari, known professionally as Chico Loco 40, is an International American-Moroccain rapper, Filmactor, music producer, and entrepreneur form Manhattan, New York. He is the founder, Chief Operating Officer (COO), and Chief Technology Officer (CTO) of CL40 World, an international entertainment recording label and multimedia syndicate.
 
