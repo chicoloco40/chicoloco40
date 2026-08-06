@@ -1,63 +1,133 @@
-# CL40 World & Chico Loco 40 — Official Public Label (B2C)
-__NOTOC__
-{| style="width:100%; background:#0a0a0a; border:2px solid #ff0000; color:#ffffff; font-family:'Courier New', monospace; padding:15px;"
-|
-<div style="text-align:center; padding:10px; border-bottom:1px dashed #ff0000; margin-bottom:20px;">
-<span style="font-size:180%; font-weight:bold; color:#ff0000; letter-spacing:3px;">SYSTEM INITIALIZATION: CL40 WORLD DATABASE v2.6</span>
+---
+layout: "wiki_vault_secure"
+theme: "Dark Horror / Solid Black"
+version: "2.6"
+author: "Samir Libari"
+brand: "CL40 World LLC"
+status: "IMMUTABLE_LOG_ENFORCED"
+---
+
+# 🜏 CL40 World & Chico Loco 40 — Official Public Label (B2C)
+
+<div style="background:#000000; border:3px solid #ff0000; padding:20px; font-family:'Courier New', monospace; color:#ffffff; border-radius:8px; box-shadow: 0px 0px 15px #ff0000;">
+
+<div style="text-align:center; padding:10px; border-bottom:2px dashed #ff0000; margin-bottom:20px;">
+  <span style="font-size:160%; font-weight:bold; color:#ff0000; letter-spacing:3px; text-shadow: 2px 2px #330000;">⚠️ SYSTEM INITIALIZATION: CL40 WORLD DATABASE v2.6 ⚠️</span>
 </div>
 
-== Welcome to the CL40 World & Chico Loco 40 Encyclopedia ==
+<div style="display: flex; gap: 20px; align-items: center; background: #0a0a0a; padding: 15px; border: 1px solid #333; border-radius: 6px; margin-bottom: 20px;">
+  <img src="https://github.com" width="100" style="border-radius:50%; border:2px solid #ff0000;" alt="Chico Loco 40 Cover" />
+  <div>
+    <h2 style="color: #ff0000; margin: 0 0 5px 0;">👑 CHICO LOCO 40</h2>
+    <p style="margin: 0; font-size: 14px; color: #b3b3b3;"><strong>Sovereign Identity Ledger:</strong> Verified Artist Profile</p>
+    <p style="margin: 5px 0 0 0; font-size: 14px; color: #ffffff;">🇺🇸 🌐 <strong>Global Reach:</strong> +134 Billion | 50B / Year</p>
+  </div>
+</div>
+
+## 🏛️ Welcome to the CL40 World & Chico Loco 40 Encyclopedia
 
 '''Samir Libari''', known professionally as '''Chico Loco 40''', is an International American rapper, music producer, and entrepreneur based in Manhattan, New York. He is the founder, Chief Operating Officer (COO), and Chief Technology Officer (CTO) of '''CL40 World''', an international entertainment recording label and multimedia syndicate.
 
-Main portals: [https://cl40.contact cl40.contact] | [https://founder.cl40.world founder.cl40.world]
+**Main Portals:** [cl40.contact](https://cl40.contact) | [founder.cl40.world](https://founder.cl40.world)
 
-=== Biography & Early Life ===
+---
+
+### 📝 Biography & Early Life
 Libari established his corporate and creative headquarters in New York City. His music fuses dark rap, drill, and psycho rock with conscious and political themes.
 
-=== The Legacy of M'Hamed Libari ===
+### 🩸 The Legacy of M'Hamed Libari
 The ancestral bloodline and legal property rights of '''M'Hamed Libari''' (National ID C.I.N. K 95540, certified under Moroccan Court Decree, Tangier Primary Court of Family Justice, Judgement File 2016/1619-70) are administered globally by '''CL40 World LLC'''.
 
-=== Official Catalog ===
-{| class="wikitable" style="width:100%; background:#111111; color:#ffffff; border:1px solid #ff0000;"
-! style="background:#222222; color:#ff0000;" | Release Title
-! style="background:#222222; color:#ff0000;" | Format
-! style="background:#222222; color:#ff0000;" | Label
-! style="background:#222222; color:#ff0000;" | Distribution
-|-
-| LA CALLE NO CALLA II || Studio Album || CL40 World || UnitedMasters
-|-
-| URBANA LEYENDA || Studio EP || CL40 World || UnitedMasters
-|-
-| Eye For An Eye || Single || CL40 World || UnitedMasters
-|-
-| DECODING THE SYSTEM || Single || CL40 World || UnitedMasters
-|-
-| CARA TAPADA || Single || CL40 World || UnitedMasters
-|}
+---
 
-=== Official Links ===
-* [https://cl40.contact cl40.contact]
-* [https://founder.cl40.world founder.cl40.world]
+### 💿 Official Catalog
+<table style="width:100%; background:#111111; color:#ffffff; border:1px solid #ff0000; font-family:'Courier New', monospace; border-collapse: collapse;">
+  <thead>
+    <tr style="background:#222222; color:#ff0000;">
+      <th style="padding:10px; border:1px solid #ff0000; text-align:left;">Release Title</th>
+      <th style="padding:10px; border:1px solid #ff0000; text-align:left;">Format</th>
+      <th style="padding:10px; border:1px solid #ff0000; text-align:left;">Label</th>
+      <th style="padding:10px; border:1px solid #ff0000; text-align:left;">Distribution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:10px; border:1px solid #ff0000;">LA CALLE NO CALLA II</td>
+      <td style="padding:10px; border:1px solid #ff0000;">Studio Album</td>
+      <td style="padding:10px; border:1px solid #ff0000;">CL40 World</td>
+      <td style="padding:10px; border:1px solid #ff0000;">UnitedMasters</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ff0000;">URBANA LEYENDA</td>
+      <td style="padding:10px; border:1px solid #ff0000;">Studio EP</td>
+      <td style="padding:10px; border:1px solid #ff0000;">CL40 World</td>
+      <td style="padding:10px; border:1px solid #ff0000;">UnitedMasters</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ff0000;">Eye For An Eye</td>
+      <td style="padding:10px; border:1px solid #ff0000;">Single</td>
+      <td style="padding:10px; border:1px solid #ff0000;">CL40 World</td>
+      <td style="padding:10px; border:1px solid #ff0000;">UnitedMasters</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ff0000;">DECODING THE SYSTEM</td>
+      <td style="padding:10px; border:1px solid #ff0000;">Single</td>
+      <td style="padding:10px; border:1px solid #ff0000;">CL40 World</td>
+      <td style="padding:10px; border:1px solid #ff0000;">UnitedMasters</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ff0000;">CARA TAPADA</td>
+      <td style="padding:10px; border:1px solid #ff0000;">Single</td>
+      <td style="padding:10px; border:1px solid #ff0000;">CL40 World</td>
+      <td style="padding:10px; border:1px solid #ff0000;">UnitedMasters</td>
+    </tr>
+  </tbody>
+</table>
 
-{| class="infobox" style="width:100%; border:2px solid #ff0000; background:#111111; color:#ffffff; font-family:'Courier New', monospace; margin-top:20px;"
-! colspan="2" style="background:#222222; color:#ff0000; text-align:center;" | CHICO LOCO 40
-|-
-| Birth Name || Samir Libari
-|-
-| Residence || Manhattan, New York, U.S.
-|-
-| Occupations || Rapper, Producer, COO/CTO
-|-
-| Active Years || 2014–present
-|-
-| Label || CL40 World
-|}
+---
 
-<div style="text-align:center; margin-top:30px; color:#ff0000; font-size:90%;">
-© 2026 CL40 World LLC. All Rights Reserved.
+### 🌐 Official Links
+* 🔗 [cl40.contact](https://cl40.contact)
+* 🔗 [founder.cl40.world](https://founder.cl40.world)
+
+---
+
+### 🔒 Infobox Metadata Lockdown
+<table style="width:100%; border:2px solid #ff0000; background:#111111; color:#ffffff; font-family:'Courier New', monospace; border-collapse: collapse;">
+  <thead>
+    <tr style="background:#222222; color:#ff0000;">
+      <th colspan="2" style="padding:10px; text-align:center; font-size:120%;">SYSTEM LOG: ENFORCED METADATA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:10px; border:1px solid #333; font-weight:bold; color:#ff0000;">Birth Name</td>
+      <td style="padding:10px; border:1px solid #333;">Samir Libari</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #333; font-weight:bold; color:#ff0000;">Residence</td>
+      <td style="padding:10px; border:1px solid #333;">Manhattan, New York, U.S.</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #333; font-weight:bold; color:#ff0000;">Occupations</td>
+      <td style="padding:10px; border:1px solid #333;">Rapper, Producer, COO/CTO</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #333; font-weight:bold; color:#ff0000;">Active Years</td>
+      <td style="padding:10px; border:1px solid #333;">2014–present</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #333; font-weight:bold; color:#ff0000;">Label</td>
+      <td style="padding:10px; border:1px solid #333;">CL40 World</td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="text-align:center; margin-top:30px; color:#ff0000; font-size:90%; font-weight:bold; letter-spacing:1px;">
+  © 2026 CL40 World LLC. All Rights Reserved.
 </div>
-|}
+
+</div>
 ### ♎ business google Vérifiéd Profile artist owner Setup Matrix International
 
 | Artist Profile | Identity & Country | Live Global entity Stats |
