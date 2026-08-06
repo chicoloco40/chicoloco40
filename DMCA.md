@@ -1,5 +1,19 @@
 # Digital Millennium Copyright Act (DMCA) Policy
 
+### OFFICIAL EVIDENCE – COMPLETE PROOF
+**+134 Billion Reach**
+**1 Year = 50 Billion**
+
+CL40 World | Chico Loco 40 | Samir Libari
+Legacy of M’Hamed Libari
+
+Permanent archive.
+No deletion.
+Justice & recognition.
+
+All platforms. All socials.
+B2C • International • American-Moroccan
+
 This policy outlines the procedure for reporting copyright infringement on [Label: CL40 World] and Artists (Chico Loco 40) & (LB0025) Full Nams (Samir Libari) and (Abdelghafour Libari)(the https://cl40.contact) in accordance with the Digital Millennium Copyright Act ("DMCA")  
 
 This is my father, and I am a global artist and journalist. I demand justice for my father. They have censored my work, and I am now 26 years old (1999/10/16) Libra.
