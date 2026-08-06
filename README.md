@@ -1,36 +1,28 @@
-<div style="background:#000000; color:#ff0000; border:3px solid #ff0000; padding:20px; font-family:'Courier New', monospace; border-radius:8px;">
+# 🜏 CL40 World & Chico Loco 40 — Official Public Label (B2C)
+
+<div style="background:#000000; border:3px solid #ff0000; padding:20px; font-family:'Courier New', monospace; border-radius:8px; box-shadow: 0px 0px 15px #ff0000;">
 
 <div style="text-align:center; padding:10px; border-bottom:2px dashed #ff0000; margin-bottom:20px;">
   <span style="font-size:160%; font-weight:bold; color:#ff0000; letter-spacing:3px;">⚠️ SYSTEM INITIALIZATION: CL40 WORLD DATABASE v2.6 ⚠️</span>
 </div>
 
-<div style="display: flex; gap: 20px; align-items: center; background: #000000; padding: 15px; border: 1px solid #ff0000; border-radius: 6px; margin-bottom: 20px;">
-  <img src="https://github.com" width="100" style="border-radius:50%; border:2px solid #ff0000;" alt="Chico Loco 40" />
-  <div>
-    <h2 style="color: #ff0000; margin: 0 0 5px 0; font-weight:bold;">👑 CHICO LOCO 40</h2>
-    <p style="margin: 0; font-size: 14px; color: #ff0000; font-weight:bold;">Sovereign Identity Ledger: Verified Artist Profile</p>
-    <p style="margin: 5px 0 0 0; font-size: 14px; color: #ff0000; font-weight:bold;">🇺🇸 🌐 Global Reach: +134 Billion | 50B / Year</p>
-  </div>
-</div>
+<pre style="background:#000000; color:#ff0000; border:none; white-space:pre-wrap; font-family:'Courier New', monospace; font-size:14px; font-weight:bold;">
+== Welcome to the CL40 World & Chico Loco 40 Encyclopedia ==
 
-<h2 style="color:#ff0000; border-bottom:1px solid #ff0000; font-weight:bold; margin-top:25px;">🏛️ Welcome to the CL40 World & Chico Loco 40 Encyclopedia</h2>
+Samir Libari, known professionally as Chico Loco 40, is an International American rapper, music producer, and entrepreneur based in Manhattan, New York. He is the founder, Chief Operating Officer (COO), and Chief Technology Officer (CTO) of CL40 World, an international entertainment recording label and multimedia syndicate.
 
-<p style="color:#ff0000; font-weight:bold;">Samir Libari, known professionally as Chico Loco 40, is an International American rapper, music producer, and entrepreneurship form Manhattan, New York. He is the founder, Chief Operating Officer (COO), and Chief Technology Officer (CTO) of CL40 World, an international entertainment recording label and multimedia syndicate.</p>
+Main portals: cl40.contact | founder.cl40.world
 
-<p style="color:#ff0000; font-weight:bold;">Main Portals: <a href="https://cl40.contact" style="color:#ff0000; text-decoration:underline; font-weight:bold;">cl40.contact</a> | <a href="https://cl40.world" style="color:#ff0000; text-decoration:underline; font-weight:bold;">founder.cl40.world</a></p>
+=== Biography & Early Life ===
+Libari established his corporate and creative headquarters in New York City. His music fuses dark rap, drill, and psycho rock with conscious and political themes.
 
----
+=== The Legacy of M'Hamed Libari ===
+The ancestral bloodline and legal property rights of M'Hamed Libari (National ID C.I.N. K 95540, certified under Moroccan Court Decree, Tangier Primary Court of Family Justice, Judgement File 2016/1619-70) are administered globally by CL40 World LLC.
+</pre>
 
-<h3 style="color:#ff0000; font-weight:bold; margin-top:20px;">📝 Biography & Early Life</h3>
-<p style="color:#ff0000; font-weight:bold;">Libari established his corporate and creative headquarters in New York City. His music fuses dark rap, drill, and psycho rock with conscious and political themes.</p>
+<h3 style="color:#ff0000; font-weight:bold; margin-top:20px; font-family:'Courier New', monospace;">=== Official Catalog ===</h3>
 
-<h3 style="color:#ff0000; font-weight:bold; margin-top:20px;">🩸 The Legacy of M'Hamed Libari</h3>
-<p style="color:#ff0000; font-weight:bold;">The ancestral bloodline and legal property rights of M'Hamed Libari (National ID C.I.N. K 95540, certified under Moroccan Court Decree, Tangier Primary Court of Family Justice, Judgement File 2016/1619-70) are administered globally by CL40 World LLC.</p>
-
----
-
-<h3 style="color:#ff0000; font-weight:bold; margin-top:20px;">💿 Official Catalog</h3>
-<table style="width:100%; background:#000000; color:#ff0000; border:1px solid #ff0000; font-family:'Courier New', monospace; border-collapse: collapse;">
+<table style="width:100%; background:#000000; color:#ff0000; border:2px solid #ff0000; font-family:'Courier New', monospace; border-collapse: collapse;">
   <thead>
     <tr style="background:#1a0000; color:#ff0000;">
       <th style="padding:10px; border:1px solid #ff0000; text-align:left; color:#ff0000; font-weight:bold;">Release Title</th>
@@ -41,67 +33,66 @@
   </thead>
   <tbody>
     <tr>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">LA CALLE NO CALLA II</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">Studio Album</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">CL40 World</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">UnitedMasters</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold; background:#111;">LA CALLE NO CALLA II</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">Studio Album</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">CL40 World</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">UnitedMasters</td>
     </tr>
     <tr>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">URBANA LEYENDA</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">Studio EP</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">CL40 World</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">UnitedMasters</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold; background:#111;">URBANA LEYENDA</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">Studio EP</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">CL40 World</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">UnitedMasters</td>
     </tr>
     <tr>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">Eye For An Eye</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">Single</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">CL40 World</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">UnitedMasters</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold; background:#111;">Eye For An Eye</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">Single</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">CL40 World</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">UnitedMasters</td>
     </tr>
     <tr>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">DECODING THE SYSTEM</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">Single</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">CL40 World</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">UnitedMasters</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold; background:#111;">DECODING THE SYSTEM</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">Single</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">CL40 World</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">UnitedMasters</td>
     </tr>
     <tr>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">CARA TAPADA</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">Single</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">CL40 World</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">UnitedMasters</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold; background:#111;">CARA TAPADA</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">Single</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">CL40 World</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000;">UnitedMasters</td>
     </tr>
   </tbody>
 </table>
 
----
+<h3 style="color:#ff0000; font-weight:bold; margin-top:25px; font-family:'Courier New', monospace;">=== Infobox Metadata Lockdown ===</h3>
 
-<h3 style="color:#ff0000; font-weight:bold; margin-top:20px;">🔒 Infobox Metadata Lockdown</h3>
 <table style="width:100%; border:2px solid #ff0000; background:#000000; color:#ff0000; font-family:'Courier New', monospace; border-collapse: collapse;">
   <thead>
     <tr style="background:#1a0000; color:#ff0000;">
-      <th colspan="2" style="padding:10px; text-align:center; font-size:120%; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">SYSTEM LOG: ENFORCED METADATA</th>
+      <th colspan="2" style="padding:10px; text-align:center; font-size:120%; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">CHICO LOCO 40</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding:10px; border:1px solid #ff0000; font-weight:bold; color:#ff0000;">Birth Name</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">Samir Libari</td>
+      <td style="padding:10px; border:1px solid #ff0000; font-weight:bold; color:#ff0000; width:30%;">Birth Name</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold;">Samir Libari</td>
     </tr>
     <tr>
       <td style="padding:10px; border:1px solid #ff0000; font-weight:bold; color:#ff0000;">Residence</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">Manhattan, New York, U.S.</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold;">Manhattan, New York, U.S.</td>
     </tr>
     <tr>
       <td style="padding:10px; border:1px solid #ff0000; font-weight:bold; color:#ff0000;">Occupations</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">Rapper, Producer, COO/CTO</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold;">Rapper, Producer, COO/CTO</td>
     </tr>
     <tr>
       <td style="padding:10px; border:1px solid #ff0000; font-weight:bold; color:#ff0000;">Active Years</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">2014–present</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold;">2014–present</td>
     </tr>
     <tr>
       <td style="padding:10px; border:1px solid #ff0000; font-weight:bold; color:#ff0000;">Label</td>
-      <td style="padding:10px; border:1px solid #ff0000; color:#ff0000; font-weight:bold;">CL40 World</td>
+      <td style="padding:10px; border:1px solid #ff0000; color:#ffffff; font-weight:bold;">CL40 World</td>
     </tr>
   </tbody>
 </table>
@@ -111,6 +102,7 @@
 </div>
 
 </div>
+
 ### ♎ business google Vérifiéd Profile artist owner Setup Matrix International
 
 | Artist Profile | Identity & Country | Live Global entity Stats |
