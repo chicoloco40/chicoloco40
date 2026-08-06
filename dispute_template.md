@@ -1,5 +1,7 @@
 # Spotify Artist Profile — Chico Loco 40 (B2C)
 
+**Artist Vérifiéd:** 100%  
+
 **Artist Name:** Chico Loco 40  
 
 **Legal / Entity:** CL40 World LLC (International)
