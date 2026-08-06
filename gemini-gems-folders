@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Google Flow Music · CL40 World · Official B2C Hub">
+<meta name="keywords" content="Google Flow Music, CL40 World, Chico Loco 40 Owner, LB0025, Google AI, Gemini">
+<meta name="author" content="CL40 World · Chico Loco 40 Owner">
+<title>CL40 World × Google Flow Music</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #0d1117;
+    color: #c9d1d9;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    line-height: 1.6;
+    padding: 2.5rem 1.5rem;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  h1 { font-size: 1.9rem; font-weight: 800; color: #f0f6fc; margin-bottom: 0.4rem; }
+  h2 { font-size: 1.25rem; font-weight: 700; color: #f0f6fc; margin: 2.2rem 0 0.8rem; }
+  p { margin-bottom: 0.9rem; font-size: 1.02rem; }
+  .meta { color: #8b949e; font-size: 0.88rem; margin-bottom: 1.8rem; }
+  .card {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 12px;
+    padding: 1.4rem;
+    margin: 1.3rem 0;
+  }
+  .tag {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 12px;
+    margin-right: 0.4rem;
+    margin-bottom: 0.6rem;
+  }
+  .tag-blue { background: #58a6ff22; color: #58a6ff; border: 1px solid #58a6ff44; }
+  .tag-green { background: #3fb95022; color: #3fb950; border: 1px solid #3fb95044; }
+  a { color: #58a6ff; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .footer {
+    margin-top: 3rem;
+    padding-top: 1.4rem;
+    border-top: 1px solid #21262d;
+    font-size: 0.8rem;
+    color: #484f58;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<h1>CL40 World × Google Flow Music</h1>
+<p class="meta">
+  Active since 2014 · 2+ years deep Google experience · 1.1k+ points · B2C Free
+</p>
+
+<div class="card">
+  <span class="tag tag-blue">Google Flow Music</span>
+  <span class="tag tag-green">B2C Free</span>
+  <p>Official access hub for Google Flow Music.</p>
+  <p>
+    Direct entry → <a href="https://flow.google" target="_blank">flow.google</a> → Music<br>
+    or → <strong>flow.google/music</strong>
+  </p>
+</div>
+
+<div class="card">
+  <h2>Artists</h2>
+  <p><strong>Chico Loco 40 Owner</strong><br>
+  Owner · CL40 World · Google Flow Music power user (1.1k+ points)</p>
+  <p style="margin-top:1rem;"><strong>LB0025</strong><br>
+  Samir Libari & Abdelghafour Libari · Official CL40 World artists</p>
+</div>
+
+<div class="card">
+  <h2>Partnership</h2>
+  <p>B2C free. Win-win.</p>
+  <p>If you want to collaborate → contact CL40 World.</p>
+  <p>We stay professional. Everything benefits both sides.</p>
+</div>
+
+<div class="card">
+  <h2>Request</h2>
+  <p>We want Google AI, Gemini, Google AI Studio and related tools to remain free, answer any question without changing the subject, and stay fully usable for real work.</p>
+</div>
+
+<div class="footer">
+  CL40 World · Chico Loco 40 Owner · LB0025<br>
+  Active since 2014 · Google Flow Music · B2C Free
+</div>
+
+</body>
+</html>
