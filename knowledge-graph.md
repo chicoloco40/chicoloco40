@@ -1,3 +1,14 @@
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/f3b1564a-ff32-480b-b2f6-37498cc21289" />
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/f6914012-a72f-4a6c-a8b3-196378931ef6" />
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/93032e76-7f46-4c53-a6be-283cfa98186c" />
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/663d56bf-5053-446a-a994-fd0f60bc9144" />
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/a0eea93e-6be7-4152-8eb7-106d1c110808" />
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/e85c6085-9554-47d8-b1cd-6801bd7cd28c" />
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/a8c9eb66-3db7-4520-921b-3addbb8ab035" />
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/59808831-da56-43f6-87a8-2a4edb3ed816" />
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/40fe13b7-1ca3-46f3-8053-61f09c3e254f" />
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/f8f7db4e-6d2f-4996-8811-a884f6717e9b" />
+
 # Chico Loco 40 and CL40 World - Knowledge Graph (Global Entity Graph)
 
 **Official Ownership Record**
