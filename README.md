@@ -1,4 +1,5 @@
-# 🜏 Chico Loco 40 — Official Public Artist & Label (B2C)CL40 World wikidata ID (Q140934893): https://www.wikidata.org/wiki/Q140934893
+# 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World 
+wikidata Artist ID (Q140934893): https://www.wikidata.org/wiki/Q140934893
 <img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
 
 Owner Name:              Chico Loco 40
