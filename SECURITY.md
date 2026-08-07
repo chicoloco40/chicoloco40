@@ -5,6 +5,50 @@
 **Status:** Fully International • Permanent Protection  
 
 ---
+
+Owner Name:              Chico Loco 40
+Owner Legal Name:        Samir Libari
+Full Name:               Mr. Samir Libari
+Type:                    Person
+Gender:                  Male
+Pronouns:                He/Him
+Country:                 North America
+City:                    New York, New York State
+Origin:                  American-Moroccan
+
+Aliases:
+  • Chico Loco 40
+  • Samir Libari
+  • QUARANTA-FOUR-ZERO
+  • CL40 World LLC
+  • CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL
+
+IPI / Owner Roles:
+  • Songwriter
+  • Writer
+  • Producer
+  • Film Actor
+
+Owner Label:             CL40 World
+Studio:                  WR Beats
+Affiliation:             ASCAP
+Rights:                  Amnesty International
+
+Positions:
+  • Founder – CL40 World LLC
+  • COO
+  • CTO
+
+Email:                      founder.american@cl40.world
+Website:                    https://cl40.contact
+Founder Portal:             https://founder.cl40.world
+Founder Portal Global:      https://china.cl40.world
+ORCID ID Offical Label:     https://orcid.org/0009-0001-4557-4898
+
+Disambiguation:
+Chico Loco 40, born Samir Libari in Morocco, is a Moroccan-American form New York, Manhattan, rapper and hip-hop icon International, producer, journalist and executive form Manhattan, New York. Founder of CL40 World.
+
+---
 # 🜏 Chico Loco 40 — Official Public Artist & Label (B2C)
 <img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/e93554f5-5845-47a9-8d61-6f753c204ae0" />
 
