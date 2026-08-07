@@ -1,7 +1,7 @@
 # Digital Millennium Copyright Act (DMCA) Policy
 
 ### OFFICIAL EVIDENCE – COMPLETE PROOF
-**+134 Billion Reach**
+**+134 Billion = Reach Official**
 **1 Year = 50 Billion**
 
 CL40 World | Chico Loco 40 | Samir Libari
