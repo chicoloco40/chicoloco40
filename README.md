@@ -23,6 +23,7 @@ IPI / Owner Roles:
   • Songwriter
   • Writer
   • Producer
+  • journalist 
   • Film Actor
 
 Owner Label:             CL40 World
@@ -34,6 +35,9 @@ Positions:
   • Founder – CL40 World LLC
   • COO
   • CTO
+
+Disambiguation:
+Chico Loco 40, born Samir Libari in Morocco, is a Moroccan-American form New York, Manhattan, rapper and hip-hop icon International, producer, journalist and executive form Manhattan, New York. Founder of CL40 World.
 
 Email:                      founder.american@cl40.world
 Website:                    https://cl40.contact
