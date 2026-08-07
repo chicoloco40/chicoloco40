@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="CL40 dark horror logo">
+  <!-- Black background -->
+  <rect width="100%" height="100%" fill="#000000" />
+
+  <defs>
+    <!-- rough/distressed effect -->
+    <filter id="grit">
+      <feTurbulence baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="14" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+
+    <!-- red glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- subtle vignette -->
+    <radialGradient id="vignette" cx="50%" cy="40%" r="65%">
+      <stop offset="45%" stop-color="#00000000"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+  </defs>
+
+  <!-- emblem: dark red circle with rough filter -->
+  <g filter="url(#grit)">
+    <circle cx="400" cy="300" r="220" fill="#120000" stroke="#8b0000" stroke-width="6" />
+    <!-- faint jagged outline -->
+    <g fill="#ff1a1a" transform="translate(400,300)" opacity="0.10">
+      <path d="M0,-240 L18,-160 L60,-180 L30,-120 L120,-80 L40,-40 L200,0 L40,40 L120,80 L30,120 L60,180 L18,160 L0,240 L-18,160 L-60,180 L-30,120 L-120,80 L-40,40 L-200,0 L-40,-40 L-120,-80 L-30,-120 L-60,-180 L-18,-160 Z"/>
+    </g>
+  </g>
+
+  <!-- main text with glow and drips -->
+  <g filter="url(#glow)">
+    <text x="50%" y="360" text-anchor="middle" font-family="Impact, 'Segoe UI', Arial, sans-serif" font-size="140" fill="#ff1a1a" stroke="#4a0000" stroke-width="3" letter-spacing="6">CL40</text>
+    <text x="50%" y="430" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#ff6b6b" opacity="0.95" letter-spacing="4">WORLD</text>
+
+    <!-- dripping shapes below the text to give 'bleeding' look -->
+    <g fill="#ff1a1a" transform="translate(400,460)">
+      <ellipse cx="-70" cy="36" rx="12" ry="28"/>
+      <ellipse cx="0" cy="62" rx="14" ry="36"/>
+      <ellipse cx="86" cy="34" rx="12" ry="26"/>
+      <path d="M-140,18 q18,46 46,36 q-12,22 -46,44 q8,-36 -6,-80z" opacity="0.95"/>
+      <path d="M140,20 q-16,44 -44,38 q14,20 44,40 q-10,-34 6,-78z" opacity="0.95"/>
+    </g>
+  </g>
+
+  <!-- faint background vignette -->
+  <rect width="100%" height="100%" fill="url(#vignette)" opacity="0.6"/>
+</svg>
