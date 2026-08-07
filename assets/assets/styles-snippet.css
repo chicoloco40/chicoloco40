@@ -1,0 +1,12 @@
+/* metadata: black background, red text */
+.meta {
+  background: #000000;            /* black background */
+  color: #ff1a1a;                 /* bright red text */
+  margin: 8px 0 16px;
+  padding: 12px 14px;            /* spacing so it reads like a badge */
+  border: 1px solid #4d0000;     /* dark red border for separation */
+  border-radius: 6px;
+  box-shadow: 0 0 18px rgba(255, 26, 26, 0.06); /* subtle glow */
+  font-weight: 600;
+  line-height: 1.4;
+}
