@@ -1,0 +1,9 @@
+body {
+  background-color: #000;
+  background-image: url('assets/logo.svg');
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 360px;
+  color: #ff1a1a;
+}
+.container { background: transparent; }
