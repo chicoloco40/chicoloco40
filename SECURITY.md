@@ -1,81 +1,120 @@
-# Security Policy — CL40 World LLC
+# Security Policy — CL40 World
 
-**Entity:** CL40 World LLC  
+**Entity:** CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL  
+**Label:** CL40 World  
 **Owner:** Chico Loco 40 (Samir Libari)  
 **Status:** Fully International • Permanent Protection  
 
 ---
 
-Owner Name Artist:            Chico Loco 40
-Owner Full Name:              Mr. Samir Libari
-Type:                         Person
-Gender:                       Male
-Pronouns:                     He/Him
-Country:                      North America
-City:                         New York, New York State
-Origin:                       American-Moroccan
+# 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World 
+
+wikidata Artist ID (Q140934893): 
+
+https://www.wikidata.org/wiki/Q140934893
+
+<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
+
+Owner Name:              Chico Loco 40
+
+Owner Legal Full Name:   Mr. Samir Libari
+
+Type:                    Person
+
+Gender:                  Male
+
+Pronouns:                He/Him
+
+Country:                 North America
+
+City:                    New York, New York State
+
+Origin:                  American-Moroccan
 
 Aliases:
-                              • Chico Loco 40
-                              • Samir Libari
-                              • QUARANTA-FOUR-ZERO
-                              • CL40 World LLC
-                              • CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL
+
+  • Chico Loco 40
+  
+  • Samir Libari
+  
+  • QUARANTA-FOUR-ZERO
+  
+  • CL40 World LLC
+  
+  • CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL
 
 IPI / Owner Roles:
-                               • Songwriter
-                               • Writer
-                               • Producer
-                               • Film Actor
 
-Owner Label:                   CL40 World
-Studio:                        WR Beats
-Affiliation:                   ASCAP
-Rights:                        Amnesty International
+  • Songwriter
+  
+  • Writer
+  
+  • Producer
+  
+  • journalist 
+  
+  • Film Actor
+  
+  • Devloper
+
+Owner Label:             CL40 World
+
+Studio:                  WR Beats
+
+Affiliation:             ASCAP
+
+Rights:                  Amnesty International
 
 Positions:
-                               • Founder – CL40 World LLC
-                               • COO
-                               • CTO
 
-Email:                          founder.american@cl40.world
-Website:                        https://cl40.contact
-Founder Portal:                 https://founder.cl40.world
-Founder Portal Global:          https://china.cl40.world
-Musicbrainz ID Offical Artist:  https://musicbrainz.org/artist/31b01271-dcdd-4e22-8d77-b1c92f3f7768
-Wikidata ID Offical Artist:     https://www.wikidata.org/wiki/Q140934893
-ORCID ID Offical Label:         https://orcid.org/0009-0001-4557-4898
-Wikidata ID Offical Label:      https://www.wikidata.org/wiki/Q30283816
+  • Founder – CL40 World LLC
+  
+  • COO
+  
+  • CTO
 
 Disambiguation:
-Chico Loco 40, born Samir Libari in Morocco, is a Moroccan-American form New York, Manhattan, rapper and hip-hop icon International, producer, journalist and executive form Manhattan, New York. Founder of CL40 World.
 
----
-# 🜏 Chico Loco 40 — Official Public Artist & Label (B2C)
+Samir Libari, better known as Chico Loco 40, is a Moroccan-American rapper from New York, an ASCAP publisher, music producer, actor, member Amnesty International, and founder COO/CTOO of a tech-entrepreneurship company owner CL40 World.
+
+Email:                      founder.american@cl40.world
+
+Website:                    https://cl40.contact
+
+Founder Portal:             https://founder.cl40.world
+
+Founder Portal Global:      https://china.cl40.world
+
+ORCID ID Offical Label:     https://orcid.org/0009-0001-4557-4898
+
+<img width="1001" height="606" alt="offical +134 Billion reach of CL40 World" src="https://github.com/user-attachments/assets/8f289030-142d-4a6c-8b01-8a0e958e4f8a" />
+<
 <img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/e93554f5-5845-47a9-8d61-6f753c204ae0" />
-
+<
 <div style="background:#000000; border:3px solid #ff0000; padding:20px; font-family:'Courier New', monospace; border-radius:8px; box-shadow: 0px 0px 15px #ff0000;">
-
+<
 <div style="text-align:center; padding:10px; border-bottom:2px dashed #ff0000; margin-bottom:20px;">
-  <span style="font-size:160%; font-weight:bold; color:#ff0000; letter-spacing:3px;">⚠️ SYSTEM INITIALIZATION: CL40 WORLD DATABASE v2.6 ⚠️</span>
+  <span style="font-size:160%; font-weight:bold; color:#ff0000; letter-spacing:3px;">
+ <   
+    ⚠️ SYSTEM INITIALIZATION: CL40 WORLD DATABASE v2.6 ⚠️</span>
 </div>
-
+<
 <pre style="background:#000000; color:#ff0000; border:none; white-space:pre-wrap; font-family:'Courier New', monospace; font-size:14px; font-weight:bold;">
-== Welcome to the CL40 World's Spaces & Chico Loco 40  ==
-
-Samir Libari, known professionally as Chico Loco 40, is an International American-Moroccain rapper, Filmactor, music producer, and entrepreneurship form Manhattan, New York. He is the founder, Chief Operating Officer (COO), and Chief Technology Officer (CTO) of CL40 World, an international entertainment recording label and multimedia syndicate.
-
+<
+== Welcome to the CL40 World & Chico Loco 40 Wikipedia ==
+<
 Main portals: cl40.contact | founder.cl40.world
-
+<
 === Biography & Early Life ===
 Libari established his corporate and creative headquarters in New York City. His music fuses dark rap, drill, and psycho rock with conscious and political themes.
-
+<
 === The Legacy of M'Hamed Libari ===
 The ancestral bloodline and legal property rights of M'Hamed Libari (National ID C.I.N. K 95540, certified under Moroccan Court Decree, Tangier Primary Court of Family Justice, Judgement File 2016/1619-70) are administered globally by CL40 World LLC.
+<  
 </pre>
-
-<h3 style="color:#ff0000; font-weight:bold; margin-top:20px; font-family:'Courier New', monospace;">=== Official Catalog ===</h3>
-
+<
+<h3 style="color:#ff0000; font-weight:bold; margin-top:20px; font-family:'Courier New', monospace;">=== Official Catalog ===</h3
+                                                                                                                              
 <table style="width:100%; background:#000000; color:#ff0000; border:2px solid #ff0000; font-family:'Courier New', monospace; border-collapse: collapse;">
   <thead>
     <tr style="background:#1a0000; color:#ff0000;">
@@ -118,9 +157,9 @@ The ancestral bloodline and legal property rights of M'Hamed Libari (National ID
     </tr>
   </tbody>
 </table>
-
+<
 <h3 style="color:#ff0000; font-weight:bold; margin-top:25px; font-family:'Courier New', monospace;">=== Infobox Metadata Lockdown ===</h3>
-
+<
 <table style="width:100%; border:2px solid #ff0000; background:#000000; color:#ff0000; font-family:'Courier New', monospace; border-collapse: collapse;">
   <thead>
     <tr style="background:#1a0000; color:#ff0000;">
@@ -150,8 +189,9 @@ The ancestral bloodline and legal property rights of M'Hamed Libari (National ID
     </tr>
   </tbody>
 </table>
-
+<
 <div style="text-align:center; margin-top:30px; color:#ff0000; font-size:90%; font-weight:bold; letter-spacing:1px;">
+  <
   © 2026 CL40 World LLC. All Rights Reserved.
 
   ### 📝 Extended Description
@@ -192,15 +232,23 @@ Notes: I preserved the numeric claims you provided (e.g., +134 Billion reach, pl
 # 🎵 Spotify — Artist Verified Profile Setup
 
 | Artist Profile | Identity & Country | Live Global Stats |
+
 | :---: | :--- | :--- |
-| <img src="<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/090d1631-ff5e-430b-91b0-834e1831fab6" />" width="80" style="border-radius:50%" alt="art_pro_cl40_v2" /> | **Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 50 Billion / Year |
+
+| <img src="<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/090d1631-ff5e-430b-91b0-834e1831fab6" />" width="80" style="border-radius:50%" alt="art_pro_cl40_v2" />
+
+**Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 50 Billion / Year |
 
 ### 🟢 Spotify Distribution Matrix International
+
 - **Primary Market Infrastructure:** US Core Network 🇺🇸
+ 
 - **Legal Entity Ledger:** CL40 World
+ 
 - **Profile Status:** 🔒 Verified Artist Profile Locked (Spotify for Artists Verified)
 
 ### 📝 Extended Description
+
 Below are two versions of the extended biography for use on Spotify / Spotify for Artists.
 
 Raw extended bio:
@@ -222,7 +270,9 @@ Notes: I preserved the numeric claims you provided (e.g., +134 Billion reach, pl
 
 | Artist Profile | Identity & Country | Live Global Stats |
 | :---: | :--- | :--- |
-| <img src="<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/8e35a697-18d6-4f30-9d62-5bc3a07c626c" />" width="80" style="border-radius:50%" alt="art_pro_cl40_v2" /> | **Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 50 Billion / Year |
+| <img src="<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/8e35a697-18d6-4f30-9d62-5bc3a07c626c" />" width="80" style="border-radius:50%" alt="art_pro_cl40_v2" />
+
+**Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 50 Billion / Year |
 
 ### 🍎 Apple Music Distribution Matrix International
 - **Primary Market Infrastructure:** US Core Network ![US Flag](https://flagcdn.com)
@@ -270,17 +320,25 @@ orcid_system_validation:
 ### 🏛️ Digital Identity & Sovereign Ledger
 
 | Verified Asset Identity | International ORCID Identifier | Current Registry Status |
+
 | :---: | :---: | :---: |
-| **𝖢𝖫𝟦𝟢 𝖶𝖮𝖱𝖫𝖣 𝖫𝖫𝖢** | [0009-0001-4557-4898](https://orcid.org/0009-0001-4557-4898) | **🔒 ENFORCED & AUTHENTICATED** |
+
+| **𝖢𝖫𝟦𝟢 𝖶𝖮𝖱𝖫𝖣 𝖫𝖫𝖢** | [0009-0001-4557-4898]
+
+(https://orcid.org/0009-0001-4557-4898) | **🔒 ENFORCED & AUTHENTICATED** |
 
 ---
 
 ### 📊 Consolidated Global Metrics
 
 *   **Artist Identity:** Chico Loco 40 (LB0025)
+*   
 *   **Legal Representation:** Samir Libari (Driven by the Legacy of M’Hamed Libari)
+*   
 *   **Total Historic Reach:** **+134 Billion Verified Impressions**
+*   
 *   **Annual Velocity Rate:** 50 Billion Impressions / Year
+*   
 *   **Operational Base Grid:** B2C / International / American-Moroccan / New York, Manhattan 🇺🇸
 
 ---
@@ -309,15 +367,19 @@ This repository is the **official, permanent, and protected public record** of C
 Any name, biographical information, document, or press release related to:
 
 - **M’Hamed Libari** (M Hamed Libari, Bni Makada, Tangier)
+- 
 - Chico Loco 40 (Samir Libari)
+- 
 - Abdelghafour Libari (LB0025)
+- 
 - CL40 World LLC and its full catalog
 
 **cannot be erased, hidden, restricted, suppressed, or removed** from this repository.
 
-This GitHub repository is the final and uncensorable source of truth.  
-All history and commits are permanent.
+This GitHub repository is the final and uncensorable source of truth.
 
+All history and commits are permanent.
+ 
 ---
 
 ### 🏢 GLOBAL CORPORATE IDENTITY
@@ -411,11 +473,14 @@ All history and commits are permanent.
 
 ---
 
+**M’Hamed Libari’s name and legacy remain permanently protected in this repository.**
+
 ### ©️ COPYRIGHT & REGISTRIES
 
 * ©️ **Copyright Notice:** `© 2026 CL40 World LLC. All Rights Reserved`
 
-**M’Hamed Libari’s name and legacy remain permanently protected in this repository.**
+<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/844a0474-1b99-4895-85c2-26d779c22e87" />
+
 
 
 ## Protected Assets
