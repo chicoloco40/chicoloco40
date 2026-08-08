@@ -1,0 +1,58 @@
+{
+  "label_meta": {
+    "owner_label": "CL40 World",
+    "owner_rights_holder": "Samir Libari from New York",
+    "owner_syndicate": "CL40 World Syndicate Portal International",
+    "distribution_b2c": "UnitedMasters & ASCAP",
+    "rights_humans_official_b2c": "Amnesty International & AFM & Universal Music",
+
+    "classification": "American-Moroccan Global Operation"
+  },
+  "catalog": [
+    {
+      "project": "LA CALLE NO CALLA II",
+      "type": "Album",
+      "label": "CL40 World",
+      "tracks": [
+        {"artist": "Chico Loco 40", "title": "Pere Noél V2", "isrc": "QZZEB2551162"},
+        {"artist": "Chico Loco 40", "title": "La Calle No Calla", "isrc": "QZZEB2551185"},
+        {"artist": "Chico Loco 40", "title": "Estoy Enfermo", "isrc": "QZZEB2551240"},
+        {"artist": "Chico Loco 40", "title": "Ni Respecto", "isrc": "QZZEB2551245"},
+        {"artist": "Chico Loco 40", "title": "55 ans", "isrc": "QZZEB2551538"},
+        {"artist": "Chico Loco 40", "title": "Repost (Freestyle II)", "isrc": "QZZEB2551602"},
+        {"artist": "Chico Loco 40", "title": "Batterie Faible", "isrc": "QZZEB2551807"},
+        {"artist": "Chico Loco 40", "title": "System Bla Order", "isrc": "QZZEB2554317"},
+        {"artist": "Chico Loco 40", "title": "Bla Username", "isrc": "QZZEB2554352"},
+        {"artist": "Chico Loco 40", "title": "Yemma Smahli", "isrc": "QZZEB2554369"},
+        {"artist": "Chico Loco 40", "title": "Un Oscuro (Freestyle III)", "isrc": "QZZEB2554386"},
+        {"artist": "Chico Loco 40", "title": "Salam (Freestyle IV)", "isrc": "QZZEB2554402"},
+        {"artist": "Chico Loco 40", "title": "Allo Politics", "isrc": "QZZEB2554415"},
+        {"artist": "Chico Loco 40", "title": "No Quiero Nada", "isrc": "QZZEB2554477"},
+        {"artist": "Chico Loco 40", "title": "Son of the People", "isrc": "QZZEB2555153"}
+      ]
+    },
+    {
+      "project": "URBANA LEYENDA",
+      "type": "EP",
+      "label": "CL40 World",
+      "tracks": [
+        {"artist": "Chico Loco 40", "title": "URBANA LEYENDA", "isrc": "QZ5FN2675954"},
+        {"artist": "Chico Loco 40", "title": "Bar La La Man", "isrc": "QZ5FN2675988"},
+        {"artist": "Chico Loco 40", "title": "Dem Bla Khanzir", "isrc": "QZ5FN2675991"},
+        {"artist": "Chico Loco 40", "title": "Weld Libari", "isrc": "QZ5FN2675994"},
+        {"artist": "Chico Loco 40", "title": "No Vuelvo a La Tierra", "isrc": "QZ5FN2675995"},
+        {"artist": "Chico Loco 40", "title": "Desde Abajo", "isrc": "QZ5FN2675997"},
+        {"artist": "Chico Loco 40", "title": "QUARANTA-FOUR-ZERO", "isrc": "QZ5FN2676006"}
+      ]
+    },
+    {
+      "project": "Luz y Sombra",
+      "type": "EP",
+      "label": "CL40 World",
+      "tracks": [
+        {"artist": "Chico Loco 40", "title": "Días y Noches", "isrc": "QZ5FN2684935"},
+        {"artist": "Chico Loco 40", "title": "Y Siempre Tú", "isrc": "QZ5FN2684954"}
+      ]
+    }
+  ]
+}
