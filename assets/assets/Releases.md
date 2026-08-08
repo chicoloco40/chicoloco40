@@ -49,17 +49,20 @@
     "@graph": [
       {
         "@type": "MusicGroup",
-        "name": "Chico Loco 40",
+        "owner name": "Chico Loco 40",
+        "owner full name": "Samir Libari",
+        "full name label": "CL40 World",
         "sameAs": ""
       },
       {
         "@type": "MusicAlbum",
         "name": "LA CALLE NO CALLA II",
+        "full name label": "CL40 World",
         "datePublished": "2026-06-03",
         "byArtist": { "@type": "MusicGroup", "name": "Chico Loco 40" },
         "genre": "Hip-Hop/Rap",
         "duration": "PT35M25S",
-        "publisher": { "@type": "Organization", "name": "CL40 World" },
+        "publisher": { "@type": "Organization", " full name label": "CL40 World" },
         "identifier": { "@type": "PropertyValue", "propertyID": "UPC", "value": "199891222674" },
         "track": [
           { "@type": "MusicRecording", "position": 1, "name": "Pere Noél V2", "duration": "PT1M8S", "isrcCode": "QZZEB2551162" },
@@ -83,6 +86,7 @@
       {
         "@type": "MusicRelease",
         "name": "URBANA LEYENDA",
+        "full name label": "CL40 World",
         "datePublished": "2026-05-28",
         "byArtist": { "@type": "MusicGroup", "name": "Chico Loco 40" },
         "genre": "Hip-Hop/Rap",
@@ -101,6 +105,7 @@
       {
         "@type": "MusicRelease",
         "name": "Luz y Sombra",
+        "full name label": "CL40 World",
         "datePublished": "2026-05-21",
         "byArtist": { "@type": "MusicGroup", "name": "Chico Loco 40" },
         "genre": "Latin / Reggaeton & Latin Hip-Hop",
@@ -113,7 +118,7 @@
       },
       {
         "@type": "Organization",
-        "name": "CL40 World",
+        "full name label": "CL40 World",
         "url": "https://cl40.contact",
         "sameAs": [
           "https://founder.cl40.world",
@@ -127,14 +132,15 @@
 <body>
   <div class="container">
     <header>
-      <img src="../assets/logo.svg" alt="CL40 logo" />
-      <h1>CL40 World Catalogue</h1>
+      <img src="../assets/logo.svg" alt="CL40 World logo" />
+      <h1> Label: CL40 World Catalogue</h1>
       <p class="subtitle">Dark horror catalogue for albums, EPs and singles — black background, red text, pro layout.</p>
     </header>
 
     <section class="release" id="la-calle-no-calla-ii">
       <h2>LA CALLE NO CALLA II</h2>
-      <p class="meta">Album | Release Date: June 3, 2026 | UPC: 199891222674 | Label: CL40 World</p>
+      "full name label": "CL40 World",
+      <p class="meta">Album | Release Date: June 3, 2026 | UPC: 199891222674 | Label: CL40 World </p>
       <ul class="tracks">
         <li><strong>1.</strong> Pere Noél V2 — Chico Loco 40 / Samir Libari — 1:08 — <strong>ISRC:</strong> QZZEB2551162</li>
         <li><strong>2.</strong> La Calle No Calla — Chico Loco 40 / Samir Libari — 2:23 — <strong>ISRC:</strong> QZZEB2551185</li>
@@ -157,7 +163,7 @@
 
     <section class="release" id="urbana-leyenda">
       <h2>URBANA LEYENDA</h2>
-      <p class="meta">EP | Release Date: May 28, 2026 | UPC: 199891651603 | Label: CL40 World</p>
+      <p class="meta">EP | Release Date: May 28, 2026 | UPC: 199891651603 | Label: CL40 World </p>
       <ul class="tracks">
         <li><strong>1.</strong> URBANA LEYENDA — Chico Loco 40 / Samir Libari — 2:01 — <strong>ISRC:</strong> QZ5FN2675954</li>
         <li><strong>2.</strong> Bar La La Man — Chico Loco 40 / Samir Libari — 1:36 — <strong>ISRC:</strong> QZ5FN2675988</li>
@@ -171,7 +177,8 @@
 
     <section class="release" id="luz-y-sombra">
       <h2>Luz y Sombra</h2>
-      <p class="meta">Single / Mini-EP | Release Date: May 21, 2026 | UPC: 199891691104 | Label: CL40 World</p>
+      "full name label": "CL40 World",
+      <p class="meta">Single / Mini-EP | Release Date: May 21, 2026 | UPC: 199891691104 | Label: CL40 World </p>
       <ul class="tracks">
         <li><strong>1.</strong> Días y Noches — Chico Loco 40 / Samir Libari — 2:27 — <strong>ISRC:</strong> QZ5FN2684935</li>
         <li><strong>2.</strong> Y Siempre Tú — Chico Loco 40 / Samir Libari — 3:28 — <strong>ISRC:</strong> QZ5FN2684954</li>
@@ -180,8 +187,9 @@
 
     <section class="release" id="singles-catalogue">
       <h2>Singles Catalogue</h2>
-      <p class="meta">All singles are under label CL40 World</p>
+      <p class="meta">All singles are under label: CL40 World</p>
       <ul class="tracks">
+      "full name label": "CL40 World",
         <li><strong>Liberi Tutti</strong> — 1:21 — UPC: 199748282974 — ISRC: QT6E72572732</li>
         <li><strong>Eye For An Eye</strong> — 2:27 — UPC: 824296325889 — ISRC: GBRKQ2635817</li>
         <li><strong>No Soy Un Ladrón</strong> — 2:08 — UPC: 199891616541 — ISRC: QZ5FN2668569</li>
@@ -208,7 +216,7 @@
     <footer>
       <strong>Label Report</strong>
       <p style="margin:8px 0 0; color:#ffb3b3;">
-        Label: CL40 World — Distributor: UnitedMasters — Producer: QUARANTA-FOUR-ZERO — Songwriter: Chico Loco 40 — Writer: Samir Libari — Publishing / Rights: ASCAP &amp; Amnesty International
+        Full Name Label: CL40 World — Distributor: UnitedMasters — Producer: QUARANTA-FOUR-ZERO — Songwriter: Chico Loco 40 — Writer: Samir Libari — Publishing / Rights: ASCAP &amp; Amnesty International
       </p>
     </footer>
   </div>
