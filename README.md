@@ -1,68 +1,76 @@
 # 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World 
 
-wikidata Artist ID (Q140934893): 
+Wikidata Artist, Label, Legacy, ID's: 
+
+Chico Loco 40: 
 
 https://www.wikidata.org/wiki/Q140934893
+https://www.wikidata.org/wiki/User:Cl40world
 
 <img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
 
-Owner Name:              Chico Loco 40
+Bio Artist Chico Loco 40:
 
-Owner Legal Full Name:   Mr. Samir Libari
+Samir Libari, better known as Chico Loco 40, is a Moroccan-American rapper from New York, an ASCAP publisher, music producer, actor, member Amnesty International, and founder COO/CTOO of a tech-entrepreneurship company owner CL40 World
 
-Type:                    Person
-
-Gender:                  Male
-
-Pronouns:                He/Him
-
-Country:                 North America
-
-City:                    New York, New York State
-
-Origin:                  American-Moroccan
+Owner Name:                   Chico Loco 40
+Owner Legal Full Name:        Samir Libari
+Full Name:                    Mr. Samir Libari
+Type:                         Person
+Gender:                       Male
+Pronouns:                     He/Him
+Country:                      North America
+City:                         New York, New York State
+Origin:                       American-Moroccan
 
 Aliases:
 
   • Chico Loco 40
-  
   • Samir Libari
-  
   • QUARANTA-FOUR-ZERO
-  
   • CL40 World LLC
-  
   • CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL
 
 IPI / Owner Roles:
 
   • Songwriter
-  
   • Writer
-  
   • Producer
-  
   • journalist 
-  
   • Film Actor
-  
-  • Devloper
-
+  • Devloper 
+ 
 Owner Label:             CL40 World
-
 Studio:                  WR Beats
-
 Affiliation:             ASCAP
-
 Rights:                  Amnesty International
 
 Positions:
 
   • Founder – CL40 World LLC
-  
   • COO
-  
   • CTO
+  • Devloper
+
+A biography father's: 
+Dedicated to the memory of the late M'Hamed Hamed Libari, whose identity was verified in Morocco. We demand an immediate investigation into the identity of Mohamed Libari and who is responsible for the marginalization of his family
+
+There is no room for debate; all the evidence is in the hands of Samir Libari and his production partner. We have conclusive proof; he is a human being, not a fictional character. We seek to uncover the truth, or to enrich and document art online. If he is a politician, what has been said about his son? Is he a criminal, a marginalized businessman, a repressed journalist, or a distorted legacy? We do not want to marginalize Samir's father. If you fear future problems for the Libari family, they have already suffered more marginalization than you can imagine, faced greater problems, and been imprisoned
+He was arrested on September 18, 2019, and sentenced to five years in prison
+
+The sentence was reduced to four years, and he received a royal pardon from His Majesty King Mohammed VI, may God grant him victory. He has only three months left. If his legacy is distorted or erased, their lives will be stolen and imitated. As the artist Samir Libari said, he doesn't believe he had the best childhood; on the contrary, he suffered the most trauma—in the street, at work, in prison, and at the hands of the regime. His father Hamed Libari's friends are the reason Samir became a Moroccan-American artist. He wants to know the truth: he is a father, and he has a son, a daughter, and a wife. If he is a politician and you fear him, why did you smear the children of the artist Hamed Libari? Anything journalists publish or say about him is immediately deleted
+
+We only want the truth. We don't support those who supported Hamed Libari's father. That's what he told me. I was also in prison. I don't like anyone else being in prison. When you're in prison, you don't think about the meaning of freedom. That's why everyone makes mistakes. I want my father by my side. I remember his history and the tangible things I did with him when I was young. When he died, I was a young man at sea. He told me over the phone, "I'm coming, my son." Since that day in 2010, I haven't seen him, and now I want to speak about him. The Moroccan regime is oppressing me. We make history, we don't falsify or distort it. We want justice. Only Samir Libari's rights will be protected. We love the law, and justice is what endures in the world. Samir Libari is a conscious man who loves people more than himself
+
+About Us:
+
+Samir Libari American-Maroccain, who embodies a global legacy and vision, and who was born in 2010 on the day of Mohamed Libari's father's death.
+
+Chico Loco 40, since active of 2014 founder of CL40 World, a leading global music distribution company and a 2026 music production company, has been working in the music industry. He established the company globally, relying entirely on the support of journalists and businesspeople from America, Morocco Australia, China, Latin America, and Spain. CL40 World spans the continent.
+
+Legal:
+
+Google Flow Music, Official Rights Amnesty International, Strategic Musicain Produced, Journalist , PR Operations Global Digital Asset Management 140 Billion Reach Official of reddit, visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +170 With a growing cult following and a playlist reach exceeding +180K listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,25 Million, His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production form NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) Full Name Legal: (Abdelghafour Libari) & (Samir Libari) & (M'HAMED HAMED LIBARI)
 
 Disambiguation:
 
