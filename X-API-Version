@@ -1,0 +1,39 @@
+Versioning
+
+---
+updatedAt: 2025-06-02T23:11:44.000Z
+---
+
+Fetch the complete documentation index at: https://docs.reprtoir.com/llms.txt. Use this file to discover all available pages before exploring further.
+
+# Versioning
+
+Each release of our API is associated with a specific date, providing a clear and intuitive way to reference different versions by simply specifying the desired version in the `X-API-Version` HTTP header of your requests. This gives you the flexibility to upgrade to newer versions at your own pace, without worrying about breaking existing functionality.
+
+If you would like to ensure which version of our API has been used by a given request, you can inspect the `X-API-Version` HTTP header of the response.
+
+Your API version controls the API behaviour you see (for example, what properties you see in responses, what parameters you’re permitted to send in requests, and so on). Your version gets set the first time you make an API request. When a breaking change is introduced to the Reprtoir API, a new dated version is released. To avoid breaking your code, we don’t change your version until you’re ready to upgrade.
+
+When backwards-incompatible changes are made to the API, we release a new, dated version.
+
+## Backwards-Compatible Changes
+
+Reprtoir considers the following changes to be backwards-compatible:
+
+* Adding new API resources.
+* Adding new optional request parameters to existing API methods.
+* Adding new properties to existing API responses.
+* Changing the order of properties in existing API responses.
+* Changing the length or format of opaque strings, such as object IDs, error messages, and other human-readable strings.
+
+## Upgrade Your API Version
+
+In your Reprtoir account settings, you will see which API version is used for each of your API keys
+
+<Image align="center" src="https://files.readme.io/828f8df-api_key_api_version.png" />
+
+If you’re running an older version of the API, upgrade to the latest version to take advantage of new functionality or to streamline responses so the API is faster for you.
+
+Upgrading your API version affects the API calls you make without a `X-API-Version` header: the parameters you can send and the structure of objects returned.
+
+When performing an API upgrade, make sure that you specify the API version that you’re integrating against in your code instead of relying on your API key API version. To test a newer version for API calls, set the `X-API-Version` header.
