@@ -1,5 +1,5 @@
        ┌────────────────────────────────────────┐
-       │        Owners & Data security         │   ◄── Global Parent Company
+       │        Owners & Data security          │   ◄── Global Parent Company
        │  (Developer & Software & Crunchbasse)  │   ◄── Financial Vault
        └───────────────────┬────────────────────┘
                            │
@@ -10,8 +10,8 @@
    │ (Developer App) │           │  (Software App) │ ◄── Brand Assets
    └─────────────────┘           └─────────────────┘
        ┌────────────────────────────────────────┐
-       │     Publisher Founders Crunchbasse    │    ◄── Global Parent Company
-       │ (Full Name & Persons & Jobs & Artists) │    ◄── Financial Vault
+       │     Publisher Founders Crunchbasse     │  ◄── Global Parent Company
+       │ (Full Name & Persons & Jobs & Artists) │  ◄── Financial Vault
        └───────────────────┬────────────────────┘
                            │
             ┌──────────────┴──────────────┐
@@ -21,8 +21,8 @@
    │     (Job)       │           │      (Job)      │  ◄── Brand Assets
    └─────────────────┘           └─────────────────┘
        ┌────────────────────────────────────────┐
-       │    Publisher Songwiters Crunchbasse   │     ◄── Global Parent Company
-       │           Full Name Company            │     ◄── Financial Vault
+       │    Publisher Songwiters Crunchbasse    │   ◄── Global Parent Company
+       │           Full Name Company            │   ◄── Financial Vault
        └───────────────────┬────────────────────┘
                            │
             ┌──────────────┴──────────────┐
