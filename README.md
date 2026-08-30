@@ -1,4 +1,4 @@
-# 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World 
+# 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World & WR Beats
 
 Wikidata Artist, Label, Legacy, ID's: 
 
@@ -11,46 +11,44 @@ https://www.wikidata.org/wiki/User:Cl40world
 
 Bio Artist Chico Loco 40:
 
-Samir Libari, better known as Chico Loco 40, is a Moroccan-American rapper from New York, an ASCAP publisher, music producer, actor, member Amnesty International, and founder COO/CTOO of a tech-entrepreneurship company owner CL40 World
+Founder COO/CTO/Developer/Journalist Moroccan-American Rapper Hip-hiop International
 
-Owner Name:                   Chico Loco 40
-Owner Legal Full Name:        Samir Libari
-Full Name:                    Mr. Samir Libari
-Type:                         Person
-Gender:                       Male
-Pronouns:                     He/Him
-Country:                      North America
-City:                         New York, New York State
-Origin:                       American-Moroccan
+Owner Full Name: Samir Libari
+Type: Person
+Gender: Male
+Pronouns: He/Him
+Country: North America
+City: New York, New York State
+Origin: American-Moroccan
 
-Aliases:
+Owner Aliases:
+• Songwriter: Chico Loco 40
+• Writer:     Samir Libari
+• Producer:   QUARANTA-FOUR-ZERO
+• Film Actor: CL40 World
+• journalist: CL40 World
+• Studio:     WR Beats
+• Label:      CL40 World
+• Devloper:   CL40 World
+• Syndicate:  CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL
 
-  • Chico Loco 40
-  • Samir Libari
-  • QUARANTA-FOUR-ZERO
-  • CL40 World LLC
-  • CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL
-
-IPI / Owner Roles:
-
-  • Songwriter
-  • Writer
-  • Producer
-  • journalist 
-  • Film Actor
-  • Devloper 
- 
-Owner Label:             CL40 World
-Studio:                  WR Beats
-Affiliation:             ASCAP
-Rights:                  Amnesty International
+Owner Label:   CL40 World
+Owner Studio:   WR Beats
+Studio:        WR Beats
+Publisher:     ASCAP
+Member Rights: Amnesty International
+B2C Platform:  UnitedMasters
 
 Positions:
+• Founder (CL40 World)
+• COO
+• CTO
 
-  • Founder – CL40 World LLC
-  • COO
-  • CTO
-  • Devloper
+Biografy:
+Samir Libari, better known as Chico Loco 40, is a Moroccan-American rapper from New York, an ASCAP publisher, music producer, actor, developer, member Amnesty International, and founder COO/CTO/Developer/Journalist of a tech-entrepreneurship company ownership (CL40 World) The saying that brought about awareness:
+
+My philosophy:
+"No hablo mucho, ya he explicado mi vida"
 
 A biography father's: 
 Dedicated to the memory of the late M'Hamed Hamed Libari, whose identity was verified in Morocco. We demand an immediate investigation into the identity of Mohamed Libari and who is responsible for the marginalization of his family
@@ -419,15 +417,13 @@ All history and commits are permanent.
 * 💬 **Discord Operations:** https://discord.gg/Vvgmt4PFk
 * 🩹 **Trauma Documentation:** https://traumas.cl40.world
 * 🌊 **Tidal Executive Profile:** https://tidalprof.cl40.world
-* 📑 **Fandom Matrix Index:** https://finfandom.cl40.world
-
 ---
 
 ### 💻 DIGITAL PROFILES & CORE CHANNELS
 
 * 🛡️ **IP Rights Management:** https://rights.cl40.world
 * 🏛️ **Legacy & Archive Hub:** https://legacypro.cl40.world
-* 🏢 **Label Official Portal:** https://labelofficial.cl40.world
+* 🏢 **Label Official Portal:** https://labeloffical.cl40.world
 * 🎹 **Beatwave Platform:** https://beatswav.cl40.world
 * 🖥️ **Central Core Portal:** https://portal.cl40.world
 * 📁 **Entity Management:** https://entity.cl40.world
@@ -497,6 +493,4 @@ The documentation of the corporate footprint of Chico Loco 40 and the legacy of 
 ### ©️ COPYRIGHT & REGISTRIES
 
 * ©️ **Copyright Notice:** `© 2026 CL40 World LLC. All Rights Reserved`
-
-<img width="1024" height="607" alt="image" src="https://github.com/user-attachments/assets/844a0474-1b99-4895-85c2-26d779c22e87" />
-
+<img width="1024" height="606" alt="image" src="https://github.com/user-attachments/assets/dde2c4fe-0413-4f1c-b79b-869da50ef480" />
