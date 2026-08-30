@@ -1,4 +1,4 @@
-     [ 3: CL40 World / WR Beats ]
+     [ 3: CL40 World /\WR Beats ]
                     /  \
                    / الهواء\
                   /       \
