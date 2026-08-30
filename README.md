@@ -1,6 +1,6 @@
 # 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World & WR Beats
 
-Chico Loco 40: 
+Chico Loco 40 / Samir Libari 
 https://myjob.cl40.world
 
 Wikidata Artist, Label, Legacy, ID's: 
