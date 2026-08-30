@@ -1,9 +1,9 @@
 # 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World & WR Beats
 
-Wikidata Artist, Label, Legacy, ID's: 
-
 Chico Loco 40: 
+https://myjob.cl40.world
 
+Wikidata Artist, Label, Legacy, ID's: 
 https://www.wikidata.org/wiki/Q140934893
 https://www.wikidata.org/wiki/User:Cl40world
 
