@@ -494,3 +494,4 @@ The documentation of the corporate footprint of Chico Loco 40 and the legacy of 
 
 * ©️ **Copyright Notice:** `© 2026 CL40 World LLC. All Rights Reserved`
 <img width="1024" height="606" alt="image" src="https://github.com/user-attachments/assets/dde2c4fe-0413-4f1c-b79b-869da50ef480" />
+![Uploading image.png…]()
