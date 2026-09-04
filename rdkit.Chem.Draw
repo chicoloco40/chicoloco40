@@ -1,0 +1,29 @@
+from rdkit import Chem
+from rdkit.Chem import AllChem
+
+# High-velocity international dataset mapping
+molecular_batch = {
+    "Ethanol": "CCO",
+    "Methane": "C",
+    "Propane": "CCC"
+}
+
+print(f"⏩ Processing Multi-Batch Infrastructure Pipeline at Global Speed...")
+
+for name, smiles in molecular_batch.items():
+    # 1. High-speed string translation
+    mol = Chem.MolFromSmiles(smiles)
+    if mol:
+        # 2. Add explicit hydrogen matrices for total structural safety
+        mol_3d = AllChem.AddHs(mol)
+        
+        # 3. Direct 3D Conformer Embed Execution
+        AllChem.EmbedMolecule(mol_3d, randomSeed=42)
+        
+        # 4. Extract underlying 3D coordinate matrices instantly
+        conformer = mol_3d.GetConformer()
+        positions = conformer.GetPositions()
+        
+        print(f"\n✅ {name} [Standardized InChI Key: {Chem.MolToInChI(mol)}]")
+        print(f"   Spatial 3D Matrix Nodes Calculated (Total Atoms: {mol_3d.GetNumAtoms()}):")
+        print(positions[:2])  # Prints first two atomic X, Y, Z spatial positions
