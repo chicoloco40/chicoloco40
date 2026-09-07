@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">LB0025 Official ecosystem flow</title>
+  <desc id="desc">Animated coordination flow for LB0025 Official, Abdelghafour Libari.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171021"/>
+      <stop offset="1" stop-color="#32182d"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .box { stroke-width: 2; rx: 12; }
+      .title { font: 700 20px Arial, sans-serif; fill: #fff; }
+      .role { font: 14px Arial, sans-serif; fill: #f1dce8; }
+      .pipe { fill: none; stroke: #ff8a65; stroke-width: 3; stroke-linecap: round; opacity: .75; }
+      .pulse { fill: #fff; filter: url(#glow); }
+    </style>
+  </defs>
+  <rect width="1200" height="520" fill="url(#bg)"/>
+  <text x="600" y="42" text-anchor="middle" class="title" font-size="26">LB0025 OFFICIAL</text>
+  <text x="600" y="68" text-anchor="middle" class="role">Abdelghafour Libari | coordination profile</text>
+
+  <path class="pipe" d="M600 150 V215 M250 280 V345 M600 280 V345 M950 280 V345"/>
+  <g class="pulse">
+    <circle r="6"><animateMotion dur="2.8s" repeatCount="indefinite" path="M600 150 V215 H250 V280"/></circle>
+    <circle r="6"><animateMotion dur="3.1s" repeatCount="indefinite" path="M600 150 V280"/></circle>
+    <circle r="6"><animateMotion dur="2.9s" repeatCount="indefinite" path="M600 150 V215 H950 V280"/></circle>
+  </g>
+
+  <g transform="translate(430 82)"><rect width="340" height="72" class="box" fill="#a43d68" stroke="#ff9dc0"/><text x="170" y="31" text-anchor="middle" class="title">LB0025 Official</text><text x="170" y="53" text-anchor="middle" class="role">Abdelghafour Libari</text></g>
+  <g transform="translate(105 215)"><rect width="290" height="72" class="box" fill="#75427f" stroke="#c99be0"/><text x="145" y="31" text-anchor="middle" class="title">Creative Direction</text><text x="145" y="53" text-anchor="middle" class="role">Identity / artwork / media</text></g>
+  <g transform="translate(455 215)"><rect width="290" height="72" class="box" fill="#75427f" stroke="#c99be0"/><text x="145" y="31" text-anchor="middle" class="title">Music Operations</text><text x="145" y="53" text-anchor="middle" class="role">Production / releases</text></g>
+  <g transform="translate(805 215)"><rect width="290" height="72" class="box" fill="#75427f" stroke="#c99be0"/><text x="145" y="31" text-anchor="middle" class="title">Digital Coordination</text><text x="145" y="53" text-anchor="middle" class="role">Platforms / catalog / archive</text></g>
+
+  <g transform="translate(105 345)"><rect width="290" height="72" class="box" fill="#a65c45" stroke="#ffb18b"/><text x="145" y="31" text-anchor="middle" class="title">Visual Assets</text><text x="145" y="53" text-anchor="middle" class="role">Brand and artwork system</text></g>
+  <g transform="translate(455 345)"><rect width="290" height="72" class="box" fill="#a65c45" stroke="#ffb18b"/><text x="145" y="31" text-anchor="middle" class="title">Release Metadata</text><text x="145" y="53" text-anchor="middle" class="role">Credits / identifiers / records</text></g>
+  <g transform="translate(805 345)"><rect width="290" height="72" class="box" fill="#a65c45" stroke="#ffb18b"/><text x="145" y="31" text-anchor="middle" class="title">Public Profile</text><text x="145" y="53" text-anchor="middle" class="role">Official presence and links</text></g>
+</svg>

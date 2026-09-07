@@ -12,7 +12,7 @@ https://www.wikidata.org/wiki/User:Cl40world
 ## CL40 World Ecosystem
 
 <p align="center">
-  <img src="assets/ecosystem-flow.svg" alt="Animated CL40 World ecosystem flow" width="100%" />
+  <img src="https://raw.githubusercontent.com/chicoloco40/chicoloco40/main/assets/ecosystem-flow.svg" alt="Animated CL40 World ecosystem flow" width="100%" />
 </p>
 
 > The flow connects creative leadership, technology, business development, music production, product management, and global distribution.
@@ -20,7 +20,7 @@ https://www.wikidata.org/wiki/User:Cl40world
 ### LB0025 Official
 
 <p align="center">
-  <img src="assets/lb0025-ecosystem-flow.svg" alt="Animated LB0025 Official ecosystem flow for Abdelghafour Libari" width="100%" />
+  <img src="https://raw.githubusercontent.com/chicoloco40/chicoloco40/main/assets/lb0025-ecosystem-flow.svg" alt="Animated LB0025 Official ecosystem flow for Abdelghafour Libari" width="100%" />
 </p>
 
 > Official name: **Abdelghafour Libari**. This profile flow is kept separate from the main CL40 World ecosystem.

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">CL40 World ecosystem flow</title>
+  <desc id="desc">Animated organizational flow connecting Chico Loco 40, CL40 World, Samir Libari, WR Beats, and operating teams.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08121f"/>
+      <stop offset="1" stop-color="#102c3c"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .box { stroke-width: 2; rx: 12; }
+      .title { font: 700 20px Arial, sans-serif; fill: #fff; }
+      .role { font: 14px Arial, sans-serif; fill: #d8e7ef; }
+      .pipe { fill: none; stroke: #38d9c5; stroke-width: 3; stroke-linecap: round; opacity: .7; }
+      .pulse { fill: #fff; filter: url(#glow); }
+    </style>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <text x="600" y="42" text-anchor="middle" class="title" font-size="26">CL40 WORLD ECOSYSTEM</text>
+  <text x="600" y="68" text-anchor="middle" class="role">Creative, technology, product and distribution network</text>
+
+  <path class="pipe" d="M600 138 V185 M250 250 V295 M600 250 V295 M950 250 V295 M250 365 V410 M600 365 V410 M950 365 V410"/>
+  <path class="pipe" d="M600 138 V170 H250 V185 M600 138 V170 H950 V185"/>
+  <g class="pulse">
+    <circle r="6"><animateMotion dur="2.8s" repeatCount="indefinite" path="M600 138 V170 H250 V250"/></circle>
+    <circle r="6"><animateMotion dur="3.2s" repeatCount="indefinite" path="M600 138 V250"/></circle>
+    <circle r="6"><animateMotion dur="3s" repeatCount="indefinite" path="M600 138 V170 H950 V250"/></circle>
+    <circle r="5"><animateMotion dur="2.4s" repeatCount="indefinite" path="M250 250 V365"/></circle>
+    <circle r="5"><animateMotion dur="2.6s" repeatCount="indefinite" path="M600 250 V365"/></circle>
+    <circle r="5"><animateMotion dur="2.8s" repeatCount="indefinite" path="M950 250 V365"/></circle>
+  </g>
+
+  <g transform="translate(460 90)"><rect width="280" height="72" class="box" fill="#1261a0" stroke="#56b8ff"/><text x="140" y="31" text-anchor="middle" class="title">Chico Loco 40</text><text x="140" y="53" text-anchor="middle" class="role">Founder / CEO / CTO</text></g>
+  <g transform="translate(105 185)"><rect width="290" height="72" class="box" fill="#198f79" stroke="#55e0c9"/><text x="145" y="31" text-anchor="middle" class="title">CL40 World</text><text x="145" y="53" text-anchor="middle" class="role">Leadership / label</text></g>
+  <g transform="translate(455 185)"><rect width="290" height="72" class="box" fill="#198f79" stroke="#55e0c9"/><text x="145" y="31" text-anchor="middle" class="title">Samir Libari</text><text x="145" y="53" text-anchor="middle" class="role">Management / business</text></g>
+  <g transform="translate(805 185)"><rect width="290" height="72" class="box" fill="#198f79" stroke="#55e0c9"/><text x="145" y="31" text-anchor="middle" class="title">WR Beats</text><text x="145" y="53" text-anchor="middle" class="role">Studio / engineering</text></g>
+
+  <g transform="translate(105 295)"><rect width="290" height="72" class="box" fill="#bd4561" stroke="#ff829a"/><text x="145" y="31" text-anchor="middle" class="title">Digital + Creative</text><text x="145" y="53" text-anchor="middle" class="role">Art direction / design</text></g>
+  <g transform="translate(455 295)"><rect width="290" height="72" class="box" fill="#bd4561" stroke="#ff829a"/><text x="145" y="31" text-anchor="middle" class="title">Business Development</text><text x="145" y="53" text-anchor="middle" class="role">Operations / partnerships</text></g>
+  <g transform="translate(805 295)"><rect width="290" height="72" class="box" fill="#bd4561" stroke="#ff829a"/><text x="145" y="31" text-anchor="middle" class="title">Product Management</text><text x="145" y="53" text-anchor="middle" class="role">Product / distribution</text></g>
+
+  <g transform="translate(105 410)"><rect width="290" height="72" class="box" fill="#405fb8" stroke="#8ea8ff"/><text x="145" y="31" text-anchor="middle" class="title">Technology</text><text x="145" y="53" text-anchor="middle" class="role">Web / platform delivery</text></g>
+  <g transform="translate(455 410)"><rect width="290" height="72" class="box" fill="#405fb8" stroke="#8ea8ff"/><text x="145" y="31" text-anchor="middle" class="title">Music Production</text><text x="145" y="53" text-anchor="middle" class="role">Recording / mixing / masters</text></g>
+  <g transform="translate(805 410)"><rect width="290" height="72" class="box" fill="#405fb8" stroke="#8ea8ff"/><text x="145" y="31" text-anchor="middle" class="title">Global Distribution</text><text x="145" y="53" text-anchor="middle" class="role">Catalog / rights / releases</text></g>
+
+  <text x="600" y="570" text-anchor="middle" class="role" fill="#38d9c5">SYSTEM STATUS: ACTIVE  |  FLOW: CREATIVE -> PRODUCT -> DISTRIBUTION</text>
+</svg>
