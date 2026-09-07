@@ -1,4 +1,6 @@
-{
+git add README.md assets/ecosystem-flow.svg assets/lb0025-ecosystem-flow.svg
+git commit -m "Add animated ecosystem flows"
+git push origin main{
   "label_meta": {
     "owner_label": "CL40 World",
     "owner_rights_holder": "Samir Libari from New York",
@@ -53,6 +55,17 @@
         {"artist": "Chico Loco 40", "title": "Días y Noches", "isrc": "QZ5FN2684935"},
         {"artist": "Chico Loco 40", "title": "Y Siempre Tú", "isrc": "QZ5FN2684954"}
       ]
+    },
+    {
+      "project": "Alby Hub",
+      "type": "Tool",
+      "description": "Alby Hub is your self-custodial bitcoin wallet with a built-in Lightning node. Choose where to run it, your bitcoin stays fully in your control.",
+      "setup": {
+        "title": "Set it up with AI",
+        "status": "New",
+        "instructions": "Paste this into your AI agent and it installs and sets up Alby Hub for you.",
+        "command": "npx skills add getAlby/hub-skill"
+      }
     }
   ]
 }
