@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://cl40.contact",
+      "name": "CL40 World Syndicate",
+      "url": "https://cl40.world",
+      "logo": "https://cl40.contact",
+      "employee": [
+        {
+          "@type": "Person",
+          "name": "Chico Loco 40",
+          "alternateName": "Samir Libari",
+          "jobTitle": "Chief Operating Officer / Chief Technology Officer"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://cl40.world",
+      "name": "WR Beats",
+      "url": "https://cl40.world",
+      "parentOrganization": {
+        "@id": "https://cl40.contact"
+      }
+    }
+  ]
+}
