@@ -1,0 +1,1 @@
+services:  albyhub:    container_name: albyhub    image: ghcr.io/getalby/hub:latest    volumes:      - ./albyhub-data:/data    ports:      - "8080:8080"    environment:      - WORK_DIR=/data/albyhub    stop_grace_period: 300s    # Optional: restart Alby Hub automatically when the instance reboots.    # restart: unless-stopped
