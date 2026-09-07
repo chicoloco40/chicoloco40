@@ -9,6 +9,24 @@ https://www.wikidata.org/wiki/User:Cl40world
 
 <img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
 
+## CL40 World Ecosystem
+
+<p align="center">
+  <img src="assets/ecosystem-flow.svg" alt="Animated CL40 World ecosystem flow" width="100%" />
+</p>
+
+> The flow connects creative leadership, technology, business development, music production, product management, and global distribution.
+
+### LB0025 Official
+
+<p align="center">
+  <img src="assets/lb0025-ecosystem-flow.svg" alt="Animated LB0025 Official ecosystem flow for Abdelghafour Libari" width="100%" />
+</p>
+
+> Official name: **Abdelghafour Libari**. This profile flow is kept separate from the main CL40 World ecosystem.
+
+<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
+
 Bio Artist Chico Loco 40:
 
 Founder COO/CTO/Developer/Journalist Moroccan-American Rapper Hip-hiop International
