@@ -4,6 +4,14 @@ Chico Loco 40 / Samir Libari
 
 https://myjob.cl40.world
 
+https://legacy.cl40.world
+
+https://legacypro.cl40.world
+
+https://vip.cl40.world
+
+https://tech.cl40.world
+
 Wikidata Artist, Label, Legacy, ID's: 
 
 https://www.wikidata.org/wiki/Q140934893
