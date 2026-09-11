@@ -1,9 +1,13 @@
 # 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World & WR Beats
 
 Chico Loco 40 / Samir Libari 
+
 https://myjob.cl40.world
+
 Wikidata Artist, Label, Legacy, ID's: 
+
 https://www.wikidata.org/wiki/Q140934893
+
 https://www.wikidata.org/wiki/User:Cl40world
 
 <img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
@@ -252,7 +256,7 @@ Notes: I preserved the numeric claims you provided (e.g., +134 Billion reach, pl
 
 | <img src="<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/090d1631-ff5e-430b-91b0-834e1831fab6" />" width="80" style="border-radius:50%" alt="art_pro_cl40_v2" />
 
-**Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 50 Billion / Year |
+**Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 100 Billion / Year |
 
 ### 🟢 Spotify Distribution Matrix International
 
@@ -833,6 +837,7 @@ All content, music, artwork, and documentation in this repository are protected 
 # Corporate & Algorithm Monitoring Report: Chico Loco and CL40 World Ecosystem
 
 Wikidata ID:    https://www.wikidata.org/w/index.php?title=Q140936022&oldid=2528640024
+
 ORCID ID:       https://orcid.org/0009-0001-4557-4898
 
 * **Tracking Registry Code:** ~2026-43569-21
