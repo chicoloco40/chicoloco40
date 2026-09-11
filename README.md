@@ -28,7 +28,7 @@ https://www.wikidata.org/wiki/User:Cl40world
 
 Bio Artist Chico Loco 40:
 
-Founder COO/CTO/Developer/Journalist Moroccan-American Rapper Hip-hiop International
+Founder COO/CTO/Developer/Journalist Publisher songwriter Moroccan-American Rapper Hip-hiop International
 
 Owner Full Name: Samir Libari
 Type: Person
@@ -39,7 +39,8 @@ City: New York, New York State
 Origin: American-Moroccan
 
 Owner Aliases:
-• Songwriter: Chico Loco 40
+• Publisher: Chico Loco 40
+• Songwriter: Samir Libari
 • Writer:     Samir Libari
 • Producer:   QUARANTA-FOUR-ZERO
 • Film Actor: CL40 World
@@ -405,7 +406,7 @@ All history and commits are permanent.
 ### Global Highlights
 
 - **Total Global Reach:** +134 Billion Impressions
-- **Annual Velocity:** 100 Billion Impressions / Year
+- **Total Target:** 100 Billion Impressions / Year
 - **Countries Covered:** +210
 - **Playlist Reach:** +180k Listeners
 - **Artist Rank Global:** #1,250,000+
@@ -470,7 +471,7 @@ All history and commits are permanent.
 - Founder (CL40 World)
 - COO (Chief Operating Officer)
 - CTO (Chief Technology Officer)
-- Developer & Journalist
+- Developer & Journalist & Publisher
 
 **Occupations:**  
 Rapper, Music Producer, Film Actor, Entrepreneur, Developer
@@ -503,7 +504,7 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 | Metric | Value |
 |--------|-------|
 | **Total Global Reach** | +134 Billion Impressions |
-| **Annual Velocity** | 100 Billion Impressions/Year |
+| **Total Target** | 100 Billion Impressions/Year |
 | **Countries Covered** | +210 Countries |
 | **Playlist Reach** | +180k Listeners |
 | **Artist Rank Global** | #1,25M+ |
@@ -544,7 +545,7 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 
 | Title | Format | Label | Studio | Creators | Feed |
 |---|---|---|---|---|---|
-| Samir Libari Podcast | Radio | CL40 World | WR Beats | Spotify Creators | Buzzsprout (RSS) |
+| Samir Libari Podcast | Radio | CL40 World | WR Beats | Spotify Creators | Buzzsprout (RSS) | Publisher |
 
 ---
 
@@ -568,7 +569,7 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 ✅ Journalism & PR Operations  
 ✅ Digital Asset Management  
 ✅ Rights Administration (ASCAP) & Amnesty International  
-✅ Technology & Development  
+✅ Technology & Development  & Publisher  
 
 ---
 
@@ -584,7 +585,7 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 
 ### Studio Partnerships
 - **Primary Label:** CL40 World
-- **Artist:** Chico Loco 40 (Samir Libari)
+- **Publisher Artist:** Chico Loco 40 (Samir Libari)
 - **Distribution Partner:** (UnitedMasters)
 - **Rights Administration:** (ASCAP) (Amnesty International)
 
