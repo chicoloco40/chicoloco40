@@ -238,7 +238,7 @@ Raw extended bio (as provided):
 | Artist Profile | Identity & Country | Live Global entity Stats |
 | :---: | :--- | :--- |
 | <img src="<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/cd2d3ae6-68e0-4ce3-be0a-36b4ac008f47" />
-" width="80" style="border-radius:50%"> | **Name:** Chico Loco 40 <br> **Origin:** 🇺🇸 United States / American-Maroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 50 Billion / Year
+" width="80" style="border-radius:50%"> | **Name:** Chico Loco 40 <br> **Origin:** 🇺🇸 United States / American-Maroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 100 Billion / Year
 
 ### 📝 Extended Description
 Below are two versions of the extended biography for use on business google (Panel Global Entity) / Artist Connect.
@@ -327,14 +327,22 @@ Active since 2014, Chico Loco 40’s profile emphasizes artistic dignity, creati
 
 Notes: I preserved the numeric claims you provided (e.g., +134 Billion reach, playlist reach, country coverage). If you want, I can normalize numbers (commas, units) or remove any items you don't want published.
 ---
+
 orcid_system_validation:
+
   uri: "https://orcid.org/0009-0001-4557-4898"
+  
   record_id: "0009-0001-4557-4898"
+  
   entity_status: "VERIFIED_LABEL_PRO"
+  
   sovereign_brand: "Chico Loco 40 / CL40 World"
+  
   legal_holder: "Samir Libari & Legacy of M’Hamed Libari"
+  
   authority_control: "Sovereign Search Engine Indexing Enforced"
   immutable: true
+  
 ---
 [Uploading ORCID.ORG-CL40-WORLD-LLC-SYNDICATE-PORTAL-INTERNATIONAL.pdf…]()
 
