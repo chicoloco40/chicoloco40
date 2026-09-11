@@ -2,6 +2,8 @@
 
 Chico Loco 40 / Samir Libari 
 
+https://founder.cl40.world
+
 https://myjob.cl40.world
 
 https://legacy.cl40.world
