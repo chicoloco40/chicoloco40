@@ -1,5 +1,7 @@
 # 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World & WR Beats
 
+![Uploading agrotyms-chicoloco40.jpg…]()
+
 Chico Loco 40 / Samir Libari 
 
 https://founder.cl40.world
