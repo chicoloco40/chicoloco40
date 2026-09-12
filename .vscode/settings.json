@@ -1,135 +1,51 @@
-const crypto = require('crypto');
-const express = require('express');
-const axios = require('axios');
-const app = express();
-
-// Hardened Operational Identity & Security Matrix - All 11 Nodes Consolidated
-const ENTERPRISE_REGISTRY = {
-    '1510466709553676358': { name: 'QUARANTA-FOUR-ZERO Beats 1', publicKey: 'ac8927739c93ab2e57ee6d5fb191e5e4a078b4eb55b804ab3a011c8f621b9da6', redirectUri: 'https://biography.lb0025.store' },
-    '1514809496449581086': { name: 'QUARANTA-FOUR-ZERO Beats 2', publicKey: '0896b8dc698a4fdef2d16561e0fd867d7ecae84ebfa46bacb1dd0f306822eed3', redirectUri: 'https://founder.cl40.world' },
-    '1510455630387740812': { name: 'CL40 World Main Infrastructure', publicKey: '70a303ad9674691099b98c793099dbfd97518bdfb30c0b8b48b1178883e79bed', redirectUri: 'https://cl40.contact' },
-    '1548154374176641075': { name: 'LB0025 Distribution Core', publicKey: '0da977e679c3c11c83f38394acad2aa171063f2b3cfa98507edb1a3dc7e1fdec', redirectUri: 'https://biography.lb0025.store' },
-    '1548216811529441351': { name: 'WR Beats Production Node', publicKey: 'ab7f376b93d65dfe1c69fd5499853160698d71833480cc2bc6309f9c41f52613', redirectUri: 'https://founder.cl40.world' },
-    '1548227968826867774': { name: 'Samir Libari Executive Token', publicKey: '40c49aa523b3f2924043157bcdfdde743816039e0b8722ebb4e07e38b6905b97', redirectUri: 'https://cl40.contact' },
-    '1548243574385279038': { name: 'Abdelghafour Libari Operations', publicKey: '910a5983cf02f6c640e3c61108f0496622ff949c5ac944a80de3d83b48af371c', redirectUri: 'https://biography.lb0025.store' },
-    '1548247941482025030': { name: 'chicoloco40 Artist Engine', publicKey: '0067039c51be7ceebc0cf1d0e770ac6dfabc680d99eee8ce490670fc43239425', redirectUri: 'https://founder.cl40.world' },
-    '1548254381919436871': { name: 'Global NSW Infrastructure', publicKey: 'adecfc64be1a3645d971615b27d0a6f52ee9cabb020be11b1561fbf356772b19', redirectUri: 'https://founder.cl40.world' },
-    '1548260203579973743': { name: 'state-world-news Syndication', publicKey: '68831f5359dd6a85e0270edd3547aabe468f8288ac44e6d719f1d0d4964ccc3f', redirectUri: 'https://founder.cl40.world' },
-    '1548272305598369834': { name: "CL40 World's Space Gaming Engine", publicKey: process.env.SPACE_GAMING_PUBLIC_KEY || 'adecfc64be1a3645d971615b27d0a6f52ee9cabb020be11b1561fbf356772b19', redirectUri: 'https://founder.cl40.world' }
-};
-
-app.use(express.json({
-    verify: (req, res, buf) => { req.rawBody = buf; }
-}));
-
-// PATHWAY I: Multi-Tenant Inbound Webhook Interaction Router (Discord)
-app.post('/interactions/:clientId', async (req, res) => {
-    const { clientId } = req.params;
-    const activeApp = ENTERPRISE_REGISTRY[clientId];
-
-    if (!activeApp) return res.status(404).json({ error: 'Target App ID context not found in registry.' });
-
-    const signature = req.get('X-Signature-Ed25519');
-    const timestamp = req.get('X-Signature-Timestamp');
-    
-    if (!signature || !timestamp || !req.rawBody) {
-        return res.status(401).end('Handshake terminated: Missing cryptographic headers.');
-    }
-
-    try {
-        const isVerified = crypto.verify(
-            null,
-            Buffer.concat([Buffer.from(timestamp), req.rawBody]),
-            crypto.createPublicKey({
-                key: Buffer.from(activeApp.publicKey, 'hex'),
-                format: 'der',
-                type: 'public',
-                encoding: 'ed25519'
-            }),
-            Buffer.from(signature, 'hex')
-        );
-
-        if (!isVerified) return res.status(401).end('Cryptographic verification failed.');
-    } catch (err) {
-        return res.status(500).end('Internal signature matching core error.');
-    }
-
-    const payload = req.body;
-    if (payload.type === 1) return res.json({ type: 1 });
-
-    if (payload.type === 2) {
-        return res.json({
-            type: 4,
-            data: { content: `🌐 **[${activeApp.name}]** Request handled securely by corporate deployment cluster.` }
-        });
-    }
-    return res.status(400).end('Transaction context outside active boundaries.');
-});
-
-// PATHWAY II: Dynamic Multi-Tenant OAuth2 Redirection Processor
-app.get('/oauth/callback', async (req, res) => {
-    const { code } = req.query;
-    if (!code) return res.status(400).send('Authorization signature dropped.');
-
-    const comingHost = req.get('host');
-    let clientId, clientSecret;
-
-    if (comingHost.includes('founder.cl40.world')) {
-        const isGameFlow = req.query.state === 'space_gaming'; 
-        clientId = isGameFlow ? '1548272305598369834' : '1514809496449581086';
-        clientSecret = isGameFlow ? process.env.SECRET_SPACE_GAMING : process.env.SECRET_BEATS_2;
-    } else if (comingHost.includes('biography.lb0025.store')) {
-        clientId = '1548154374176641075';
-        clientSecret = process.env.SECRET_LB0025;
-    } else {
-        clientId = '1510455630387740812';
-        clientSecret = process.env.SECRET_MAIN_CL40;
-    }
-
-    const appConfig = ENTERPRISE_REGISTRY[clientId];
-
-    try {
-        const tokenParams = new URLSearchParams({
-            client_id: clientId,
-            client_secret: clientSecret,
-            grant_type: 'authorization_code',
-            code: code,
-            redirect_uri: appConfig.redirectUri
-        });
-
-        const tokenTx = await axios.post('https://discord.com', tokenParams, {
-            headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
-        });
-
-        const userTx = await axios.get('https://discord.com', {
-            headers: { Authorization: `Bearer ${tokenTx.data.access_token}` }
-        });
-
-        return res.json({
-            status: "Sovereign Asset Handshake Succeeded",
-            context: appConfig.name,
-            account_username: userTx.data.username
-        });
-    } catch (error) {
-        return res.status(500).send('OAuth2 verification collapsed.');
-    }
-});
-
-// PATHWAY III: Telegram Stateless Webhook Receiver Node
-app.post('/webhook/telegram', async (req, res) => {
-    const { message } = req.body;
-    if (message && message.text) {
-        try {
-            await axios.post(`https://telegram.org{process.env.TELEGRAM_BOT_TOKEN}/sendMessage`, {
-                chat_id: message.chat.id,
-                text: `✅ **[LB0025 & CL40 Production Cluster]** Stateless handling verified for command: "${message.text}"`,
-                parse_mode: 'Markdown'
-            });
-        } catch (err) {
-            console.error("Telegram delivery failure:", err.message);
-        }
-    }
-    return res.sendStatus(200);
-});
-
-app.listen(8080, () => console.log('Sovereign Multi-Tenant Stack online on Port 8080'));
+{
+	"eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+	"eslint.useESLintClass": true,
+	"eslint.useFlatConfig": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": "never",
+		"source.fixAll.eslint": "always",
+		"source.fixAll": "always"
+	},
+	"editor.trimAutoWhitespace": false,
+	"files.associations": {
+		"tsconfig.json": "jsonc",
+		"tsconfig.eslint.json": "jsonc"
+	},
+	"files.insertFinalNewline": true,
+	"files.eol": "\n",
+	"search.exclude": {
+		"**/.yarn": true,
+		"**/.next": true,
+		"**/dist": true,
+		"**/coverage": true,
+		"**/test-results": true,
+		"**/node_modules": true
+	},
+	"search.followSymlinks": false,
+	"search.useParentIgnoreFiles": true,
+	"files.watcherExclude": {
+		"**/.next/*/**": true,
+		"**/.yarn/*/**": true,
+		"**/coverage/*/**": true,
+		"**/dist/*/**": true,
+		"**/test-results/*/**": true,
+		"**/node_modules/*/**": true
+	},
+	"npm.packageManager": "npm",
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"typescript.enablePromptUseWorkspaceTsdk": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.colorTheme": "One Dark Pro",
+	"deno.enable": false
+}
