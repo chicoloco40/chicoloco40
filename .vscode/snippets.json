@@ -1,0 +1,43 @@
+{
+	"discord-command": {
+		"prefix": "!cmd",
+		"body": [
+			"client.on('messageCreate', async (message) => {",
+			"\tif (message.author.bot) return;",
+			"\tif (!message.content.startsWith('!${1:command}')) return;",
+			"\t",
+			"\ttry {",
+			"\t\t${2:// Command logic here}",
+			"\t\tmessage.reply('✅ ${3:Command executed}');",
+			"\t} catch (error) {",
+			"\t\tconsole.error(error);",
+			"\t\tmessage.reply('❌ Error executing command');",
+			"\t}",
+			"});"
+		],
+		"description": "Discord.js command template"
+	},
+	"discord-event": {
+		"prefix": "!event",
+		"body": [
+			"client.on('${1:ready}', (${2:}) => {",
+			"\tconsole.log('✅ Event: ${1:ready}');",
+			"\t${3:// Event handler logic}",
+			"});"
+		],
+		"description": "Discord.js event handler template"
+	},
+	"discord-embed": {
+		"prefix": "!embed",
+		"body": [
+			"const embed = new MessageEmbed()",
+			"\t.setColor('${1:#0099ff}')",
+			"\t.setTitle('${2:Title}')",
+			"\t.setDescription('${3:Description}')",
+			"\t.setTimestamp();",
+			"\t",
+			"message.reply({ embeds: [embed] });"
+		],
+		"description": "Discord.js MessageEmbed template"
+	}
+}
