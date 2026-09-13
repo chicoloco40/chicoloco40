@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "application_id": "1234567765431056709",
+  "type": 1,
+  "event": {
+    "type": "GAME_DIRECT_MESSAGE_UPDATE",
+    "timestamp": "2025-08-14T16:44:31.847073",
+    "data": {
+      "id": "1405591838810706081",
+      "content": "almost ready to queue?",
+      "channel_id": "1404960877324533784",
+      "author": {
+        // user data
+      },
+      "recipient_id": "1404960877324533784"
+    }
+  }
+}
