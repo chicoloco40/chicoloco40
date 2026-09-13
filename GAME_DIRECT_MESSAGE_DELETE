@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "application_id": "1234567765431056709",
+  "type": 1,
+  "event": {
+    "type": "GAME_DIRECT_MESSAGE_DELETE",
+    "timestamp": "2025-08-20T17:01:50.099204",
+    "data": {
+      "id": "1407771600643686503",
+      "type": 0,
+      "content": "cant make it in time",
+      "channel_id": "1405604229820715098",
+      "author": {
+        // user data
+      },
+      "timestamp": "2025-08-20T17:01:44.725000+00:00",
+      "flags": 0,
+      "attachments": [],
+      "components": []
+    }
+  }
+}
