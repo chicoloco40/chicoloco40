@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "application_id": "1234567765431056709",
+  "type": 1,
+  "event": {
+    "type": "LOBBY_MESSAGE_UPDATE",
+    "timestamp": "2025-08-05T20:39:19.587872",
+    "data": {
+      "id": "1402390388030832792",
+      "type": 0,
+      "content": "noice",
+      "lobby_id": "1402385687281537066",
+      "channel_id": "1402389638311841883",
+      "author": {
+        // user data
+      },
+      "edited_timestamp": "2025-08-05T20:39:19.557970+00:00",
+      "flags": 0,
+      "timestamp": "2025-08-05T20:38:43.660000+00:00"
+    }
+  }
+}
