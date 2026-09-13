@@ -1,0 +1,25 @@
+# Downloads and installs the secure cloudflared routing daemon
+curl -L --output cloudflared.deb https://github.com
+sudo dpkg -i cloudflared.deb
+# This generates a free authentication link to bind your cl40.world and lb0025.store zones
+cloudflared tunnel login
+# 1. Create a permanent, named system tunnel
+cloudflared tunnel create cl40-enterprise-link
+
+# 2. Route your specific subdomain entrypoints directly to your stateless port
+cloudflared tunnel route dns cl40-enterprise-link founder.cl40.world
+cloudflared tunnel route dns cl40-enterprise-link biography.lb0025.store
+tunnel: cl40-enterprise-link
+credentials-file: /root/.cloudflared/cl40-enterprise-link.json
+
+ingress:
+  # Routes all incoming Discord/Telegram POST traffic on founder to port 8080
+  - hostname: founder.cl40.world
+    service: http://localhost:8080
+  # Routes all incoming biography webhooks straight to port 8080
+  - hostname: biography.lb0025.store
+    service: http://localhost:8080
+  # Catch-all rule to drop unmapped traffic safely
+  - service: http_status:404
+# Run the tunnel continuously as a system background daemon
+cloudflared tunnel run cl40-enterprise-link &
