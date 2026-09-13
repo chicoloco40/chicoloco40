@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "application_id": "1234560123453231555",
+  "type": 1,
+  "event": {
+    "type": "APPLICATION_DEAUTHORIZED",
+    "timestamp": "2024-10-18T14:42:53.064834",
+    "data": {
+      "user": {
+        // user data
+      }
+    }
+  }
+}
