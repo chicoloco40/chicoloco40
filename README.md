@@ -1,5 +1,14 @@
 # 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World & WR Beats
 
+graph TD
+  A["Sales Projects"] --> B["CL40 World Dashboard"]
+  B --> C["International Catalogue"]
+  C --> D["News and Finance"]
+  C --> E["Books and Legacy"]
+  C --> F["Official Platforms and Socials"]
+  C --> G["Samir Libari Podcast"]
+  H["Sales Intelligence Assistant"] --> B
+
 Chico Loco 40 / Samir Libari 
 
 https://founder.cl40.world
