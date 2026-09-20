@@ -1,0 +1,9 @@
+    - name: Run 3 Bots Simultaneously
+      env:
+        # Binding the international token directly inside the global cloud pipeline
+        X_INTERNATIONAL_MASTER_TOKEN: ${{ secrets.X_INTERNATIONAL_MASTER_TOKEN }}
+        DISCORD_TOKEN_CL40_WORLD: ${{ secrets.DISCORD_TOKEN_CL40_WORLD }}
+        DISCORD_TOKEN_CHICO_LOCO: ${{ secrets.DISCORD_TOKEN_CHICO_LOCO }}
+        DISCORD_TOKEN_GLOBAL_NSW: ${{ secrets.DISCORD_TOKEN_GLOBAL_NSW }}
+        PORT: 8080
+      run: python main.py
