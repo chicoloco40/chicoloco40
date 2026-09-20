@@ -1,0 +1,36 @@
+import os
+import tweepy
+import discord
+from discord.ext import commands
+
+# 🔐 Jbad l-Token safely min GitHub Secrets (Himaya 3alamiya)
+X_TOKEN = os.getenv("X_BOT_TOKEN")
+
+# Setup dyal Twitter Client b l-features kamlin (Writer/Publisher/Chat)
+try:
+    x_client = tweepy.Client(bearer_token=X_TOKEN)
+    print("🔒 X API Connection initialized successfully.")
+except Exception as e:
+    print(f"❌ Connection error: {e}")
+
+class JournalismBot(commands.Bot):
+    def __init__(self, name):
+        intents = discord.Intents.default()
+        intents.message_content = True
+        self.bot_name = name
+        super().__init__(command_prefix="!", intents=intents)
+
+    async def on_ready(self):
+        print(f"📡 Bot {self.bot_name} is active and guarding your content.")
+
+    # Custom command bach t-publishi directly l-Twitter mn Discord safely
+    @commands.command()
+    async def publish_news(self, ctx, *, content):
+        try:
+            # Publisher feature text/tweet creation
+            x_client.create_tweet(text=content)
+            await ctx.send(f"📰 [{self.bot_name}]: Article published safely on X!")
+        except Exception as e:
+            await ctx.send(f"❌ Publisher error: {e}")
+
+# L-Lounch dyal l-Bots parallel ghadi y-koun nfs l-blan f GitHub Actions
