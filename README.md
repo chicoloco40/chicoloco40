@@ -17,11 +17,9 @@ https://vip.cl40.world
 
 https://tech.cl40.world
 
-Wikidata Artist, Label, Legacy, ID's: 
+https://134space.cl40.world
 
-https://www.wikidata.org/wiki/Q140934893
-
-https://www.wikidata.org/wiki/User:Cl40world
+https://gaming.cl40.world
 
 <img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
 
@@ -80,26 +78,6 @@ Positions:
 • CTO
 
 Biografy:
-Samir Libari, better known as Chico Loco 40, is a Moroccan-American rapper from New York, an ASCAP publisher, music producer, actor, developer, member Amnesty International, and founder COO/CTO/Developer/Journalist of a tech-entrepreneurship company ownership (CL40 World) The saying that brought about awareness:
-
-My philosophy:
-"No hablo mucho, ya he explicado mi vida"
-
-A biography father's: 
-Dedicated to the memory of the late M'Hamed Hamed Libari, whose identity was verified in Morocco. We demand an immediate investigation into the identity of Mohamed Libari and who is responsible for the marginalization of his family
-
-There is no room for debate; all the evidence is in the hands of Samir Libari and his production partner. We have conclusive proof; he is a human being, not a fictional character. We seek to uncover the truth, or to enrich and document art online. If he is a politician, what has been said about his son? Is he a criminal, a marginalized businessman, a repressed journalist, or a distorted legacy? We do not want to marginalize Samir's father. If you fear future problems for the Libari family, they have already suffered more marginalization than you can imagine, faced greater problems, and been imprisoned
-He was arrested on September 18, 2019, and sentenced to five years in prison
-
-The sentence was reduced to four years, and he received a royal pardon from His Majesty King Mohammed VI, may God grant him victory. He has only three months left. If his legacy is distorted or erased, their lives will be stolen and imitated. As the artist Samir Libari said, he doesn't believe he had the best childhood; on the contrary, he suffered the most trauma—in the street, at work, in prison, and at the hands of the regime. His father Hamed Libari's friends are the reason Samir became a Moroccan-American artist. He wants to know the truth: he is a father, and he has a son, a daughter, and a wife. If he is a politician and you fear him, why did you smear the children of the artist Hamed Libari? Anything journalists publish or say about him is immediately deleted
-
-We only want the truth. We don't support those who supported Hamed Libari's father. That's what he told me. I was also in prison. I don't like anyone else being in prison. When you're in prison, you don't think about the meaning of freedom. That's why everyone makes mistakes. I want my father by my side. I remember his history and the tangible things I did with him when I was young. When he died, I was a young man at sea. He told me over the phone, "I'm coming, my son." Since that day in 2010, I haven't seen him, and now I want to speak about him. The Moroccan regime is oppressing me. We make history, we don't falsify or distort it. We want justice. Only Samir Libari's rights will be protected. We love the law, and justice is what endures in the world. Samir Libari is a conscious man who loves people more than himself
-
-About Us:
-
-Samir Libari American-Maroccain, who embodies a global legacy and vision, and who was born in 2010 on the day of Mohamed Libari's father's death.
-
-Chico Loco 40, since active of 2014 founder of CL40 World, a leading global music distribution company and a 2026 music production company, has been working in the music industry. He established the company globally, relying entirely on the support of journalists and businesspeople from America, Morocco Australia, China, Latin America, and Spain. CL40 World spans the continent.
 
 Legal:
 
@@ -226,12 +204,6 @@ The ancestral bloodline and legal property rights of M'Hamed Libari (National ID
   <
   © 2026 CL40 World LLC. All Rights Reserved.
 
-  ### 📝 Extended Description
-Below are two versions of the extended biography for use on business google (Panel Global Entity) / Artist Connect.
-
-Raw extended bio (as provided):
-
-> Known @ChicoLoco40 the American-Moroccain, Driven by the Legacy of and the 2010 Global Vision (M'Hamed Libari) Founder COO & CTO CL40 World Driving Global Entity Music Syndicate Label 🜃 Legal @GoogleFlow Official Rights @amnesty Strategic, Musicain Produced, Journalist , PR Operations Global Digital Asset Management 140B+ Reach visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +170 With a growing cult following and a playlist reach exceeding +180k listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,25M+ His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production American and NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) (Abdelghafour Libari)
 </div>
 
 </div>
@@ -250,17 +222,6 @@ Raw extended bio (as provided):
 
 > Known @ChicoLoco40 the American-Moroccain, Driven by the Legacy of and the 2010 Global Vision (M'Hamed Libari) Founder COO & CTO CL40 World Driving Global Entity Music Syndicate Label 🜃 Legal @GoogleFlow Official Rights @amnesty Strategic, Musicain Produced, Journalist , PR Operations Global Digital Asset Management 140B+ Reach visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +170 With a growing cult following and a playlist reach exceeding +180k listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,25M+ His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production American and NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) (Abdelghafour Libari)
 
-Polished extended bio (suggested — edit as needed):
-
-Chico Loco 40 (aka @ChicoLoco40) form New York artist of American-Moroccain heritage, driven by a long-standing global vision and a commitment to global creative control. As Founder, COO & CTO of CL40 World — a global music syndicate and international label — he has built a multidisciplinary music enterprise from the ground up, combining minimalist aesthetics with ambitious, international reach.
-
-His sound is a dark, cinematic fusion that blends elements of alternative rap, psycho‑drill, trap, and experimental production into visceral storytelling rooted in street reality. Operating at the intersection of music, journalism, and digital entrepreneurship, Chico Loco 40 oversees production, PR operations, and global digital asset management, maintaining full authority over his sonic and visual universe.
-
-Recognition and reach: his work has gained traction across the global press and performance circuits, with notable playlist placements and an expanding international audience across more than 170 countries. With a growing cult following and playlist reach exceeding 180k listeners, Chico Loco 40 continues to scale his presence — supported by professional sound engineering, strategic rights administration (ASCAP), and partnerships such as WR Beats.
-
-Active since 2014, Chico Loco 40’s profile emphasizes artistic dignity, creative International, and entrepreneurship in music. For press & bookings: include label/management contact (CL40 World). 
-
-Notes: I preserved the numeric claims you provided (e.g., +134 Billion reach, playlist reach, country coverage). If you want, I can normalize numbers (commas, units) or remove any items you don't want published.
 # 🎵 Spotify — Artist Verified Profile Setup
 
 | Artist Profile | Identity & Country | Live Global Stats |
@@ -271,32 +232,6 @@ Notes: I preserved the numeric claims you provided (e.g., +134 Billion reach, pl
 
 **Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 100 Billion / Year |
 
-### 🟢 Spotify Distribution Matrix International
-
-- **Primary Market Infrastructure:** US Core Network 🇺🇸
- 
-- **Legal Entity Ledger:** CL40 World
- 
-- **Profile Status:** 🔒 Verified Artist Profile Locked (Spotify for Artists Verified)
-
-### 📝 Extended Description
-
-Below are two versions of the extended biography for use on Spotify / Spotify for Artists.
-
-Raw extended bio:
-
-> Known @ChicoLoco40 the American-Moroccain, Driven by the Legacy of and the 2010 Global Vision (M'Hamed Libari) Founder COO & CTO CL40 World Driving Global Entity Music Syndicate Label 🜃 Legal @GoogleFlow Official Rights @amnesty Strategic, Musicain Produced, Journalist , PR Operations Global Digital Asset Management ++134 Billion Reach visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +170 With a growing cult following and a playlist reach exceeding +180k listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,25M+ His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production American and NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) (Abdelghafour Libari)
-
-Polished extended bio (suggested — edit as needed):
-
-Chico Loco 40 (aka @ChicoLoco40) form New York artist of American-Moroccain heritage, driven by a long-standing global vision and a commitment to global creative control. As Founder, COO & CTO of CL40 World — a global music syndicate and international label — he has built a multidisciplinary music enterprise from the ground up, combining minimalist aesthetics with ambitious, international reach.
-
-His sound is a dark, cinematic fusion that blends elements of alternative rap, psycho‑drill, trap, and experimental production into visceral storytelling rooted in street reality. Operating at the intersection of music, journalism, and digital entrepreneurship, Chico Loco 40 oversees production, PR operations, and global digital asset management, maintaining full authority over his sonic and visual universe.
-
-Recognition and reach: his work has gained traction across the global press and performance circuits, with notable playlist placements and an expanding international audience across more than 170 countries. With a growing cult following and playlist reach exceeding 180k listeners, Chico Loco 40 continues to scale his presence — supported by professional sound engineering, strategic rights administration (ASCAP), and partnerships such as WR Beats.
-
-Active since 2014, Chico Loco 40’s profile emphasizes artistic dignity, creative International, and entrepreneurship in music. For press & bookings: include label/management contact (CL40 World). 
-
 Notes: I preserved the numeric claims you provided (e.g., +134 Billion reach, playlist reach, country coverage). If you want, I can normalize numbers (commas, units) or remove any items you don't want published.
 # 🎵 Apple Music – Artist Verified Profile Setup
 
@@ -306,29 +241,6 @@ Notes: I preserved the numeric claims you provided (e.g., +134 Billion reach, pl
 
 **Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 50 Billion / Year |
 
-### 🍎 Apple Music Distribution Matrix International
-- **Primary Market Infrastructure:** US Core Network ![US Flag](https://flagcdn.com)
-- **Legal Entity Ledger:** CL40 World
-- **Profile Status:** Verified Artist Profile Locked (Artist Connect / Apple Music for Artists)
-
-### 📝 Extended Description
-Below are two versions of the extended biography for use on Apple Music / Spotify / Artist Connect.
-
-Raw extended bio (as provided):
-
-> Known @ChicoLoco40 the American-Moroccain, Driven by the Legacy of and the 2010 Global Vision (M'Hamed Libari) Founder COO & CTO CL40 World Driving Global Entity Music Syndicate Label 🜃 Legal @GoogleFlow Official Rights @amnesty Strategic, Musicain Produced, Journalist , PR Operations Global Digital Asset Management 140B+ Reach visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +170 With a growing cult following and a playlist reach exceeding +180k listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,25M+ His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production American and NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) (Abdelghafour Libari)
-
-Polished extended bio (suggested — edit as needed):
-
-Chico Loco 40 (aka @ChicoLoco40) form New York artist of American-Moroccain heritage, driven by a long-standing global vision and a commitment to global creative control. As Founder, COO & CTO of CL40 World — a global music syndicate and international label — he has built a multidisciplinary music enterprise from the ground up, combining minimalist aesthetics with ambitious, international reach.
-
-His sound is a dark, cinematic fusion that blends elements of alternative rap, psycho‑drill, trap, and experimental production into visceral storytelling rooted in street reality. Operating at the intersection of music, journalism, and digital entrepreneurship, Chico Loco 40 oversees production, PR operations, and global digital asset management, maintaining full authority over his sonic and visual universe.
-
-Recognition and reach: his work has gained traction across the global press and performance circuits, with notable playlist placements and an expanding international audience across more than 170 countries. With a growing cult following and playlist reach exceeding 180k listeners, Chico Loco 40 continues to scale his presence — supported by professional sound engineering, strategic rights administration (ASCAP), and partnerships such as WR Beats.
-
-Active since 2014, Chico Loco 40’s profile emphasizes artistic dignity, creative International, and entrepreneurship in music. For press & bookings: include label/management contact (CL40 World). 
-
-Notes: I preserved the numeric claims you provided (e.g., +134 Billion reach, playlist reach, country coverage). If you want, I can normalize numbers (commas, units) or remove any items you don't want published.
 ---
 
 orcid_system_validation:
@@ -857,8 +769,6 @@ All content, music, artwork, and documentation in this repository are protected 
 
 # Corporate & Algorithm Monitoring Report: Chico Loco and CL40 World Ecosystem
 
-Wikidata ID:    https://www.wikidata.org/w/index.php?title=Q140936022&oldid=2528640024
-
 ORCID ID:       https://orcid.org/0009-0001-4557-4898
 
 * **Tracking Registry Code:** ~2026-43569-21
@@ -880,5 +790,3 @@ The documentation of the corporate footprint of Chico Loco 40 and the legacy of 
 
 * ©️ **Copyright Notice:** `© 2026 CL40 World LLC. All Rights Reserved`
 <img width="1024" height="606" alt="image" src="https://github.com/user-attachments/assets/dde2c4fe-0413-4f1c-b79b-869da50ef480" />
-<img width="1640" height="606" alt="image" src="https://github.com/user-attachments/assets/6dffcd83-2715-4628-924f-4088380744de" />
-<img width="820" height="303" alt="reviewsio-poetso-download" src="https://github.com/user-attachments/assets/f17e016a-6a0d-4113-80f6-ba5d86a24d59" />
