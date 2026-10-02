@@ -150,3 +150,149 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l':'';j.async=true;j.src=
+    'https://googletagmanager.com;
+    })(window,document,'script','dataLayer','GTM-K8NM8DPC');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CL40 WORLD — Official Registry & Systems Control Portal</title>
+    <link rel="preconnect" href="https://googleapis.com">
+    <link rel="preconnect" href="https://gstatic.com" crossorigin>
+    <link href="https://googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --card-bg: #161b22;
+            --accent-color: #00ff66;
+            --brand-color: #58a6ff;
+            --discord-color: #5865F2;
+            --text-main: #c9d1d9;
+            --text-bright: #f0f6fc;
+            --text-muted: #8b949e;
+            --border-color: #21262d;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--bg-color); color: var(--text-main);
+            font-family: 'Inter', -apple-system, sans-serif; line-height: 1.7; padding: 2rem;
+            max-width: 1200px; margin: 0 auto;
+        }
+        header { border-bottom: 1px solid var(--border-color); padding-bottom: 2rem; margin-bottom: 2.5rem; }
+        .meta-tag { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; color: var(--accent-color); margin-bottom: 0.5rem; font-weight: 700; }
+        h1 { font-size: 2.5rem; font-weight: 800; letter-spacing: -0.02em; color: var(--text-bright); margin-bottom: 0.5rem; }
+        .lead { font-size: 1.15rem; color: #e6edf3; line-height: 1.65; margin-bottom: 1.5rem; }
+        .meta-info { font-family: 'JetBrains Mono', monospace; color: var(--text-muted); font-size: 0.85rem; display: flex; gap: 1.8rem; flex-wrap: wrap; margin-bottom: 2rem; }
+        .brand { color: var(--brand-color); font-weight: 700; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1.5rem; margin-bottom: 3rem; }
+        .card { background-color: var(--card-bg); border: 1px solid var(--border-color); border-radius: 14px; padding: 1.9rem; }
+        .card-header { display: flex; align-items: center; gap: 0.7rem; margin-bottom: 1.2rem; flex-wrap: wrap; }
+        .tag { font-size: 0.72rem; font-weight: 600; padding: 4px 13px; border-radius: 14px; font-family: 'JetBrains Mono', monospace; white-space: nowrap; }
+        .tag-approved { background: #3fb95022; color: #3fb950; border: 1px solid #3fb95044; }
+        .tag-discord { background: rgba(88, 101, 242, 0.15); color: #5865F2; border: 1px solid rgba(88, 101, 242, 0.3); }
+        .tag-llc { background: #f778ba22; color: #f778ba; border: 1px solid #f778ba44; }
+        h2 { font-size: 1.5rem; font-weight: 700; color: var(--text-bright); margin-bottom: 0.5rem; }
+        .project-meta { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; }
+        .highlight { background: rgba(31, 111, 235, 0.15); border-left: 3px solid var(--brand-color); padding: 0.9rem 1.2rem; margin: 1.2rem 0; border-radius: 0 8px 8px 0; }
+        .track-list { list-style: none; margin-top: 1rem; }
+        .track-item { display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 0; border-bottom: 1px solid rgba(240, 246, 252, 0.05); font-size: 0.95rem; }
+        .track-item:last-child { border-bottom: none; }
+        .track-info { display: flex; flex-direction: column; max-width: 75%; }
+        .track-title { font-weight: 500; color: var(--text-bright); }
+        .track-isrc { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--accent-color); margin-top: 0.2rem; }
+        .track-duration { font-size: 0.85rem; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; }
+        .scroll-container { max-height: 400px; overflow-y: auto; padding-right: 0.5rem; }
+        .scroll-container::-webkit-scrollbar { width: 6px; }
+        .scroll-container::-webkit-scrollbar-thumb { background-color: var(--border-color); border-radius: 3px; }
+        .system-stat { background: var(--bg-color); border: 1px solid var(--border-color); border-radius: 12px; padding: 1rem; margin-bottom: 1rem; }
+        .system-stat h3 { color: var(--brand-color); margin-bottom: 0.3rem; font-size: 1.1rem; }
+        .system-stat h3.discord-h3 { color: var(--discord-color); }
+        .code-box { background-color: #000; border: 1px solid var(--border-color); font-family: 'JetBrains Mono', monospace; padding: 12px; border-radius: 6px; font-size: 0.85rem; color: #efefef; overflow-x: auto; margin-top: 0.5rem; }
+        .explain { background: rgba(88, 166, 255, 0.1); border: 1px solid rgba(88, 166, 255, 0.2); border-radius: 10px; padding: 1.1rem 1.35rem; margin-bottom: 2rem; }
+        .access-link { display: inline-block; background: rgba(31, 111, 235, 0.15); color: var(--brand-color); border: 1px solid rgba(31, 111, 235, 0.3); border-radius: 8px; padding: 0.4rem 0.9rem; text-decoration: none; font-size: 0.85rem; font-family: 'JetBrains Mono', monospace; margin-top: 0.5rem; }
+        footer { border-top: 1px solid var(--border-color); padding-top: 1.5rem; margin-top: 3.5rem; text-align: center; font-size: 0.8rem; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; }
+    </style>
+</head>
+<body>
+
+<noscript><iframe src="https://googletagmanager.com" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="container">
+    <header>
+        <div class="meta-tag">CL40 WORLD SYNDICATE PORTAL INTERNATIONAL</div>
+        <h1>CL40 World: Ecosystem Hub &amp; Media Registry</h1>
+        <p class="lead">
+            <strong>Official Legal, Technical &amp; Architectural Manifest</strong> · Corporate Structure 2026<br>
+            Zintegrowana architektura systemowa łącząca produkcję muzyczną, sieć botów B2C oraz operacje korporacyjne.
+        </p>
+        <div class="meta-info">
+            <span>LLC Status: Active &amp; Legal</span>
+            <span>Ecosystem Node: 100+ Active B2C Bots</span>
+            <span>Classification: American-Moroccan Global Operation</span>
+        </div>
+    </header>
+
+    <div class="explain">
+        <strong>Czym jest Google Flow?</strong>
+        <p>Zaawansowane studio kreatywne AI (flow.google) dedykowane do generowania i edycji wideo, grafiki oraz warstwy muzycznej bezpośrednio w chmurze.</p>
+    </div>
+
+    <div class="grid">
+        
+        <!-- CARD 1: DISCORD BOTS & CORPORATE INFRASTRUCTURE -->
+        <div class="card" style="grid-column: span 2;">
+            <div class="card-header">
+                <span class="tag tag-discord">DISCORD DEVELOPER MATRIX</span>
+                <span class="tag tag-llc">CL40 LLC LEGAL OPERATOR</span>
+            </div>
+            <h2>System Automation &amp; Bot Fleet Control</h2>
+            <div class="project-meta">Digital Systems Engineering Architecture since 2014 • Solo Enterprise Operations</div>
+            
+            <p style="margin-bottom: 1.2rem;">Zarządzanie siecią ponad 100 botów rozproszonych na platformach Discord i Telegram, skonfigurowanych w oparciu o pliki automatyzacji YAML na repozytoriach GitHub.</p>
+
+            <div class="system-stat">
+                <h3 class="discord-h3">⚡ Discord Automation &amp; Streaming Cluster</h3>
+                <p>Integracja systemowa API Keys z botami MEE6, Mikly oraz dedykowanymi botami streamingowymi na Twitterze i Spotify.</p>
+                <div class="code-box"># Deployment Layout for Cluster Architecture
+engine: discord.js-node-cluster
+active_bots: 100
+config_source: github://cl40world/workflows/app.yml</div>
+            </div>
+
+            <div class="system-stat">
+                <h3>⚖️ Corporate LLC &amp; Rights Shield</h3>
+                <p>Wszystkie operacje technologiczne i wydawnicze są w 100% legalne i chronione przez strukturę korporacyjną rejestracji biznesowych z numerami EIN oraz ABN.</p>
+                <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem;">Podmioty powiązane: CL40 World Space (Gaming) &amp; WR Beats (Publishing Rights).</p>
+            </div>
+        </div>
+
+        <!-- CARD 2: GOOGLE FLOW MUSIC REPORT -->
+        <div class="card">
+            <div class="card-header">
+                <span class="tag tag-approved">GOOGLE FLOW</span>
+                <span class="tag tag-discord">1.1k+ Points</span>
+            </div>
+            <h2>Google Flow Music Hub</h2>
+            <div class="project-meta">Official Update · May 2026 Report</div>
+            <p style="margin-bottom: 1rem;">Wykorzystanie studia AI napędzanego silnikiem Gemini Omni Flash do masowej synchronizacji wideo-muzycznej.</p>
+            <ul>
+                <li><strong>Klipy 10s</strong> — Płynne renderowanie wizualizacji AI do bitów studyjnych.</li>
+                <li><strong>Lip-Sync &amp; Actors</strong> — Architektura cyfrowych aktorów zsynchronizowanych z dynamicznym audio.</li>
+                <li><strong>Edycja konwersacyjna</strong> — Modyfikowanie tła i kadrów za pomocą promptów („zmień tło”, „przesuń kamerę”).</li>
+            </ul>
+            <a href="https://flow.google" target="_blank" class="access-link">Otwórz flow.google/music →</a>
+        </div>
+
+        <!-- CARD 3: ALBUM TRACKS + COMPLETE ISRCs & UPC -->
+        <div class="card" style="grid-column: span 2;">
+            <div class="card-header">
