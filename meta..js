@@ -1,0 +1,78 @@
+{
+  "label_meta": {
+    "owner_label": "CL40 World",
+    "owner_rights_holder": "Samir Libari from New York",
+    "owner_syndicate": "CL40 World Syndicate Portal International",
+    "distribution_b2c": "UnitedMasters & ASCAP",
+    "rights_humans_official_b2c": "Amnesty International & AFM & Universal Music",
+    "classification": "American-Moroccan Global Operation"
+  },
+  "catalog": [
+    {
+      "project": "Legacy or art or war",
+      "type": "Album",
+      "label": "CL40 World",
+      "release_date": "2026-10-04",
+      "upc": "6336527426295",
+      "masterlink": "https://unitedmasters.com",
+      "tracks": [
+        {"track_number": 1, "artist": "Chico Loco 40", "writer": "Samir Libari", "title": "Owner moroccan-american", "length": "0:45", "isrc": "QZNMY2677058"},
+        {"track_number": 2, "artist": "Chico Loco 40", "writer": "Samir Libari", "title": "Legacy or Art or War", "length": "1:53", "isrc": "QZNMY2677059"},
+        {"track_number": 3, "artist": "Chico Loco 40", "writer": "Samir Libari", "title": "Dome of The Rock", "length": "1:44", "isrc": "QZNMY2677060"},
+        {"track_number": 4, "artist": "Chico Loco 40", "writer": "Samir Libari", "title": "Free Jimmy Wales", "length": "1:27", "isrc": "QZNMY2677061"},
+        {"track_number": 5, "artist": "Chico Loco 40", "writer": "Samir Libari", "title": "Red Killer", "length": "1:24", "isrc": "QZNMY2677062"},
+        {"track_number": 6, "artist": "Chico Loco 40", "writer": "Samir Libari", "title": "La Frontera", "length": "0:38", "isrc": "QZNMY2677063"},
+        {"track_number": 7, "artist": "Chico Loco 40", "writer": "Samir Libari", "title": "Lex Talionis", "length": "2:45", "isrc": "QZNMY2677064"},
+        {"track_number": 8, "artist": "Chico Loco 40", "writer": "Samir Libari", "title": "Malcolm X", "length": "1:43", "isrc": "QZNMY2677065"},
+        {"track_number": 9, "artist": "Chico Loco 40", "writer": "Samir Libari", "title": "2016", "length": "1:31", "isrc": "QZNMY2677066"},
+        {"track_number": 10, "artist": "Chico Loco 40", "writer": "Samir Libari", "title": "2014", "length": "0:53", "isrc": "QZNMY2677067"},
+        {"track_number": 11, "artist": "Chico Loco 40", "writer": "Samir Libari", "title": "7", "length": "1:02", "isrc": "QZNMY2677068"}
+      ]
+    },
+    {
+      "project": "LA CALLE NO CALLA II",
+      "type": "Album",
+      "label": "CL40 World",
+      "tracks": [
+        {"artist": "Chico Loco 40", "title": "Pere Noél V2", "isrc": "QZZEB2551162"},
+        {"artist": "Chico Loco 40", "title": "La Calle No Calla", "isrc": "QZZEB2551185"},
+        {"artist": "Chico Loco 40", "title": "Estoy Enfermo", "isrc": "QZZEB2551240"},
+        {"artist": "Chico Loco 40", "title": "Ni Respecto", "isrc": "QZZEB2551245"},
+        {"artist": "Chico Loco 40", "title": "55 ans", "isrc": "QZZEB2551538"},
+        {"artist": "Chico Loco 40", "title": "Repost (Freestyle II)", "isrc": "QZZEB2551602"},
+        {"artist": "Chico Loco 40", "title": "Batterie Faible", "isrc": "QZZEB2551807"},
+        {"artist": "Chico Loco 40", "title": "System Bla Order", "isrc": "QZZEB2554317"},
+        {"artist": "Chico Loco 40", "title": "Bla Username", "isrc": "QZZEB2554352"},
+        {"artist": "Chico Loco 40", "title": "Yemma Smahli", "isrc": "QZZEB2554369"},
+        {"artist": "Chico Loco 40", "title": "Un Oscuro (Freestyle III)", "isrc": "QZZEB2554386"},
+        {"artist": "Chico Loco 40", "title": "Salam (Freestyle IV)", "isrc": "QZZEB2554402"},
+        {"artist": "Chico Loco 40", "title": "Allo Politics", "isrc": "QZZEB2554415"},
+        {"artist": "Chico Loco 40", "title": "No Quiero Nada", "isrc": "QZZEB2554477"},
+        {"artist": "Chico Loco 40", "title": "Son of the People", "isrc": "QZZEB2555153"}
+      ]
+    },
+    {
+      "project": "URBANA LEYENDA",
+      "type": "EP",
+      "label": "CL40 World",
+      "tracks": [
+        {"artist": "Chico Loco 40", "title": "URBANA LEYENDA", "isrc": "QZ5FN2675954"},
+        {"artist": "Chico Loco 40", "title": "Bar La La Man", "isrc": "QZ5FN2675988"},
+        {"artist": "Chico Loco 40", "title": "Dem Bla Khanzir", "isrc": "QZ5FN2675991"},
+        {"artist": "Chico Loco 40", "title": "Weld Libari", "isrc": "QZ5FN2675994"},
+        {"artist": "Chico Loco 40", "title": "No Vuelvo a La Tierra", "isrc": "QZ5FN2675995"},
+        {"artist": "Chico Loco 40", "title": "Desde Abajo", "isrc": "QZ5FN2675997"},
+        {"artist": "Chico Loco 40", "title": "QUARANTA-FOUR-ZERO", "isrc": "QZ5FN2676006"}
+      ]
+    },
+    {
+      "project": "Luz y Sombra",
+      "type": "EP",
+      "label": "CL40 World",
+      "tracks": [
+        {"artist": "Chico Loco 40", "title": "Días y Noches", "isrc": "QZ5FN2684935"},
+        {"artist": "Chico Loco 40", "title": "Y Siempre Tú", "isrc": "QZ5FN2684954"}
+      ]
+    }
+  ]
+}
