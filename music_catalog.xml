@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music_ecosystem_registry>
+    <label_meta>
+        <owner_label>CL40 World</owner_label>
+        <owner_rights_holder>Samir Libari from New York</owner_rights_holder>
+        <owner_syndicate>CL40 World Syndicate Portal International</owner_syndicate>
+        <distribution_b2c>UnitedMasters &amp; ASCAP</distribution_b2c>
+        <rights_humans_official_b2c>Amnesty International &amp; AFM &amp; Universal Music</rights_humans_official_b2c>
+        <classification>American-Moroccan Global Operation</classification>
+    </label_meta>
+    <catalog>
+        <!-- ALBUM: Legacy or art or war -->
+        <project title="Legacy or art or war" type="Album" label="CL40 World">
+            <release_date>2026-10-04</release_date>
+            <upc>6336527426295</upc>
+            <masterlink>https://unitedmasters.com</masterlink>
+            <tracks>
+                <track number="1" length="0:45"><artist>Chico Loco 40</artist><writer>Samir Libari</writer><title>Owner moroccan-american</title><isrc>QZNMY2677058</isrc></track>
+                <track number="2" length="1:53"><artist>Chico Loco 40</artist><writer>Samir Libari</writer><title>Legacy or Art or War</title><isrc>QZNMY2677059</isrc></track>
+                <track number="3" length="1:44"><artist>Chico Loco 40</artist><writer>Samir Libari</writer><title>Dome of The Rock</title><isrc>QZNMY2677060</isrc></track>
+                <track number="4" length="1:27"><artist>Chico Loco 40</artist><writer>Samir Libari</writer><title>Free Jimmy Wales</title><isrc>QZNMY2677061</isrc></track>
+                <track number="5" length="1:24"><artist>Chico Loco 40</artist><writer>Samir Libari</writer><title>Red Killer</title><isrc>QZNMY2677062</isrc></track>
+                <track number="6" length="0:38"><artist>Chico Loco 40</artist><writer>Samir Libari</writer><title>La Frontera</title><isrc>QZNMY2677063</isrc></track>
+                <track number="7" length="2:45"><artist>Chico Loco 40</artist><writer>Samir Libari</writer><title>Lex Talionis</title><isrc>QZNMY2677064</isrc></track>
+                <track number="8" length="1:43"><artist>Chico Loco 40</artist><writer>Samir Libari</writer><title>Malcolm X</title><isrc>QZNMY2677065</isrc></track>
+                <track number="9" length="1:31"><artist>Chico Loco 40</artist><writer>Samir Libari</writer><title>2016</title><isrc>QZNMY2677066</isrc></track>
+                <track number="10" length="0:53"><artist>Chico Loco 40</artist><writer>Samir Libari</writer><title>2014</title><isrc>QZNMY2677067</isrc></track>
+                <track number="11" length="1:02"><artist>Chico Loco 40</artist><writer>Samir Libari</writer><title>7</title><isrc>QZNMY2677068</isrc></track>
+            </tracks>
+        </project>
+
+        <!-- ALBUM: LA CALLE NO CALLA II -->
+        <project title="LA CALLE NO CALLA II" type="Album" label="CL40 World">
+            <tracks>
+                <track><artist>Chico Loco 40</artist><title>Pere Noél V2</title><isrc>QZZEB2551162</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>La Calle No Calla</title><isrc>QZZEB2551185</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Estoy Enfermo</title><isrc>QZZEB2551240</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Ni Respecto</title><isrc>QZZEB2551245</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>55 ans</title><isrc>QZZEB2551538</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Repost (Freestyle II)</title><isrc>QZZEB2551602</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Batterie Faible</title><isrc>QZZEB2551807</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>System Bla Order</title><isrc>QZZEB2554317</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Bla Username</title><isrc>QZZEB2554352</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Yemma Smahli</title><isrc>QZZEB2554369</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Un Oscuro (Freestyle III)</title><isrc>QZZEB2554386</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Salam (Freestyle IV)</title><isrc>QZZEB2554402</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Allo Politics</title><isrc>QZZEB2554415</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>No Quiero Nada</title><isrc>QZZEB2554477</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Son of the People</title><isrc>QZZEB2555153</isrc></track>
+            </tracks>
+        </project>
+
+        <!-- EP: URBANA LEYENDA -->
+        <project title="URBANA LEYENDA" type="EP" label="CL40 World">
+            <tracks>
+                <track><artist>Chico Loco 40</artist><title>URBANA LEYENDA</title><isrc>QZ5FN2675954</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Bar La La Man</title><isrc>QZ5FN2675988</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Dem Bla Khanzir</title><isrc>QZ5FN2675991</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Weld Libari</title><isrc>QZ5FN2675994</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>No Vuelvo a La Tierra</title><isrc>QZ5FN2675995</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Desde Abajo</title><isrc>QZ5FN2675997</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>QUARANTA-FOUR-ZERO</title><isrc>QZ5FN2676006</isrc></track>
+            </tracks>
+        </project>
+
+        <!-- EP: Luz y Sombra -->
+        <project title="Luz y Sombra" type="EP" label="CL40 World">
+            <tracks>
+                <track><artist>Chico Loco 40</artist><title>Días y Noches</title><isrc>QZ5FN2684935</isrc></track>
+                <track><artist>Chico Loco 40</artist><title>Y Siempre Tú</title><isrc>QZ5FN2684954</isrc></track>
+            </tracks>
+        </project>
+
+        <!-- System Wallet Tool Integration -->
+        <system_tool title="Alby Hub" type="Tool">
+            <description>Alby Hub is your self-custodial bitcoin wallet with a built-in Lightning node. Choose where to run it, your bitcoin stays fully in your control.</description>
+            <setup>
+                <title>Set it up with AI</title>
+                <status>New</status>
+                <instructions>Paste this into your AI agent and it installs and sets up Alby Hub for you.</instructions>
+                <command>npx skills add getAlby/hub-skill</command>
+            </setup>
+        </system_tool>
+    </catalog>
+</music_ecosystem_registry>
