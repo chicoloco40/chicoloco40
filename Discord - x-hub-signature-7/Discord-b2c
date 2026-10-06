@@ -1,0 +1,149 @@
+import java.net.URLEncoder
+
+class RegistryEntity(
+    val entityName: String,
+    val abn: String,
+    val entityType: String,
+    val location: String,
+    val email: String
+)
+
+class IsbnRecord(
+    val label: String,
+    val registrationNumber: String,
+    val formattedIsbn: String
+)
+
+class SecurityMetrics {
+    val targetReach: String = "100 Billion platforms & socials media (B2C)"
+    val b2cSecurityPolicy: String = "Active - Zero Spam / Encrypted Session Verification"
+    val cyberDefenseLevel: String = "Enterprise Cybersecurity Level 40 (CL40)"
+    val antiSpamEngine: String = "No Spam Filter & Live Anti-Abuse Scanner"
+    val botProtectionStatus: String = "100 Bots Pro Monitored Live"
+    val errorPolicy: String = "Zero Error Protocol (Strict Validation)"
+    val teamFriendsBotCapacity: Int = 100
+    val internationalStatus: String = "Worldwide Global Deployment"
+}
+
+class SearchIntelligenceLink(val topic: String) {
+    val googleSearchUrl: String
+    val googleNewsUrl: String
+
+    init {
+        // PowerShell's [System.Uri]::EscapeDataString uses RFC 3986 (space -> %20).
+        // URLEncoder.encode uses application/x-www-form-urlencoded (space -> '+').
+        // Replace '+' with '%20' to match EscapeDataString behavior.
+        val encoded = URLEncoder.encode(topic, "UTF-8").replace("+", "%20")
+        googleSearchUrl = "https://www.google.com/search?q=$encoded"
+        googleNewsUrl = "https://news.google.com/search?q=$encoded"
+    }
+}
+
+class Cl40PortfolioRegistry {
+    val producer: String = "Samir Libari"
+    val ownershipHeldBy: String = "Samir Libari"
+    val brands: List<String> = listOf("CL40 World", "CL40 World Gaming")
+    val musicStudio: String = "WR Beats"
+    val businessModel: String = "B2C"
+    val liveBotsCount: Int = 100
+    val discordUrl: String = "https://discord.gg/twRUbkhbC"
+    val portalOfficialUrl: String = "https://cl40.contact"
+    val legacyNotice: String = "Legacy M'Hamed Libari since active of 2010"
+    val asic: String = "641 685 734"
+    val issn: String = "9771234567898"
+    val ein: String = "04-2888848"
+    val biography: String = "Moroccan-American rapper, publisher, songwriter, music producer, actor, journalist, and technology entrepreneur Samir Libari, professionally known as Chico Loco 40, is building an international creative and technology platform through CL40 World, combining music, media, software development."
+
+    val entities: MutableList<RegistryEntity> = mutableListOf(
+        RegistryEntity("UNIVERSAL GAMING PTY LTD", "ABN 38 165 846 211", "Australian Company", "NSW 2541", "founder.american@cl40.world"),
+        RegistryEntity("WORLD CO PTY LTD", "60 641 685 734", "Australian Company", "", "wrbeats@cl40.world"),
+        RegistryEntity("THE WORLD OF PTY LTD", "33155584357", "Australian Company", "Member number: 110000125887", "")
+    )
+
+    val isbnRecords: MutableList<IsbnRecord> = mutableListOf(
+        IsbnRecord("Samir Libari", "85987654", "978-4-85987-654 2"),
+        IsbnRecord("WR Beats", "42072782", "978-9-4207-2782-7"),
+        IsbnRecord("CL40 World", "25776047", "978-4-2577-6047-4"),
+        IsbnRecord("CL40 World's Space Gaming", "77400000", "9-774000-000001"),
+        IsbnRecord("QUARANTA-FOUR-ZERO", "99702549", "978-0-99-702549-1"),
+        IsbnRecord("M'Hamed Libari", "64875435", "978-1-64875-435-7"),
+        IsbnRecord("LB0025", "35003325", "978-0-3500-3325-5"),
+        IsbnRecord("CL40 World's Space Gaming", "77400000", "9-774000-000001")
+    )
+
+    val metrics: SecurityMetrics = SecurityMetrics()
+
+    val searchLinks: MutableList<SearchIntelligenceLink> = mutableListOf()
+    private val topics: List<String> = listOf(
+        "Samir Libari",
+        "Chico Loco 40",
+        "CL40 World",
+        "WR Beats",
+        "CL40 World Gaming",
+        "UNIVERSAL GAMING PTY LTD",
+        "M'Hamed Libari",
+        "cl40.contact"
+    )
+
+    init {
+        for (item in topics) {
+            searchLinks.add(SearchIntelligenceLink(item))
+        }
+    }
+
+    fun displayRegistry() {
+        println("=== IPI ASCAP PRODUCER & OWNERSHIP ===")
+        println("Producer: $producer")
+        println("Ownership: $ownershipHeldBy")
+        println("Brands: ${brands.joinToString(", ")}")
+        println("Studio: $musicStudio")
+        println("Business Model: $businessModel")
+        println("Live Bots Count: $liveBotsCount")
+        println("Discord: $discordUrl")
+        println("Official Portal: $portalOfficialUrl")
+        println("Legacy Notice: $legacyNotice")
+        println("ASIC: $asic")
+        println("ISSN: $issn")
+        println("EIN: $ein")
+        println()
+
+        println("=== CYBERSECURITY & OPERATIONAL METRICS (B2C NO SPAM) ===")
+        println("Target Reach: ${metrics.targetReach}")
+        println("B2C Security Policy: ${metrics.b2cSecurityPolicy}")
+        println("Cyber Defense Level: ${metrics.cyberDefenseLevel}")
+        println("Anti-Spam Engine: ${metrics.antiSpamEngine}")
+        println("Bot Protection Status: ${metrics.botProtectionStatus}")
+        println("Error Policy: ${metrics.errorPolicy}")
+        println("Team Friends Bots Capacity: ${metrics.teamFriendsBotCapacity}")
+        println("International Work Status: ${metrics.internationalStatus}")
+        println()
+
+        println("=== CORPORATE ENTITIES ===")
+        for (entity in entities) {
+            println("Entity: ${entity.entityName} | ABN: ${entity.abn} | Type: ${entity.entityType} | Location: ${entity.location} | Contact: ${entity.email}")
+        }
+        println()
+
+        println("=== ISBN / CATALOG RECORDS ===")
+        for (isbn in isbnRecords) {
+            println("Label: ${isbn.label} | ID: ${isbn.registrationNumber} | ISBN: ${isbn.formattedIsbn}")
+        }
+        println()
+
+        println("=== GOOGLE SEARCH & GOOGLE NEWS LIVE INTELLIGENCE LINKS ===")
+        for (link in searchLinks) {
+            println("Topic: ${link.topic}")
+            println("  Google Search : ${link.googleSearchUrl}")
+            println("  Google News   : ${link.googleNewsUrl}")
+        }
+        println()
+
+        println("=== BIOGRAPHY ===")
+        println(biography)
+    }
+}
+
+fun main() {
+    val registry = Cl40PortfolioRegistry()
+    registry.displayRegistry()
+}
