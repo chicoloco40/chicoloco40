@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MusicGroup",
+      "@id": "https://cl40.world",
+      "name": "CL40 World",
+      "alternateName": "CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL",
+      "url": "https://cl40.world",
+      "logo": "https://cl40.contact",
+      "sameAs": [
+        "https://orcid.org",
+        "https://musicbrainz.org"
+      ],
+      "founder": {
+        "@type": "Person",
+        "@id": "https://cl40.world",
+        "name": "Samir Libari",
+        "alternateName": "Chico Loco 40",
+        "jobTitle": ["Founder / Owner", "COO", "CTO"],
+        "birthDate": "1999-10-16",
+        "knowsAbout": ["Architectural Engineering", "Digital Systems Architecture", "Conscious Rap"]
+      }
+    },
+    {
+      "@type": "MusicPlaylist",
+      "@id": "https://cl40.world",
+      "name": "No Soy Un Ladrón",
+      "numTracks": 6,
+      "byArtist": {
+        "@id": "https://cl40.world"
+      },
+      "publisher": {
+        "@id": "https://cl40.world"
+      },
+      "genre": ["Dark Alternative Rap", "Psycho Drill", "Trap"],
+      "track": [
+        {
+          "@type": "MusicRecording",
+          "name": "DECODING SYSTEM"
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Eye For An Eye"
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Calle Oscura"
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Liberi Tutti"
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "CARA TAPADA"
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "No Soy Un Ladrón"
+        }
+      ]
+    }
+  ]
+}
