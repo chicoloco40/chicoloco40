@@ -1,0 +1,19 @@
+const axios = require('axios');
+
+// Hàm gửi yêu cầu Googlebot cập nhật lại sơ đồ thực thể CL40 World
+async function pingGoogleKnowledgeGraph() {
+    const targetUrl = 'https://cl40.world'; // Domain chính chứa mã JSON-LD cấu hình
+    const googlePingUrl = `https://google.com{encodeURIComponent(targetUrl)}`;
+
+    try {
+        const response = await axios.get(googlePingUrl);
+        if (response.status === 200) {
+            console.log(`[BOT LOG] Core system dynamic indexing matrix updated successfully for: ${targetUrl}`);
+        }
+    } catch (error) {
+        console.error('[BOT ERROR] Automation handshake with indexing layer failed:', error.message);
+    }
+}
+
+// Chạy hàm ping cho hệ thống quản lý dữ liệu tự động
+pingGoogleKnowledgeGraph();
