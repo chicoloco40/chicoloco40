@@ -13,8 +13,11 @@
 # 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World 
 
 https://www.upwork.com/freelancers/~0135086df593771f26?mp_source=share
+
 https://substack.com/@cl40world/note/p-219105516?utm_source=notes-share-action&r=8jmmb4
+
 https://www.beatstars.com/samuuxloco
+
 https://reletter.com/publications/cl40s-substack
 
 
