@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MusicGroup",
+      "@id": "https://cl40.world",
+      "name": "CL40 World LLC",
+      "alternateName": "CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL",
+      "url": "https://cl40.world",
+      "logo": "https://cl40.contact",
+      "sameAs": [
+        "https://orcid.org",
+        "https://wikidata.org",
+        "https://musicbrainz.org"
+      ],
+      "founder": {
+        "@type": "Person",
+        "@id": "https://cl40.world",
+        "name": "Samir Libari",
+        "alternateName": "Chico Loco 40",
+        "jobTitle": ["Founder", "COO", "CTO"],
+        "birthDate": "1999-10-16",
+        "knowsAbout": ["Architectural Engineering", "Digital Systems Architecture", "Conscious Rap"]
+      }
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://cl40.world",
+      "name": "Legacy or Art or War",
+      "byArtist": {
+        "@id": "https://cl40.world"
+      },
+      "numTracks": 11,
+      "albumReleaseType": "StudioAlbum",
+      "publisher": {
+        "@id": "https://cl40.world"
+      },
+      "track": [
+        { "@type": "MusicRecording", "name": "Owner moroccan-american" },
+        { "@type": "MusicRecording", "name": "Legacy or Art or War" },
+        { "@type": "MusicRecording", "name": "Dome of The Rock" },
+        { "@type": "MusicRecording", "name": "Free Jimmy Wales" },
+        { "@type": "MusicRecording", "name": "Red Killer" },
+        { "@type": "MusicRecording", "name": "La Frontera" },
+        { "@type": "MusicRecording", "name": "Lex Talionis" },
+        { "@type": "MusicRecording", "name": "Malcolm X" },
+        { "@type": "MusicRecording", "name": "2016" },
+        { "@type": "MusicRecording", "name": "2014" },
+        { "@type": "MusicRecording", "name": "7" }
+      ]
+    }
+  ]
+}
