@@ -3,6 +3,8 @@
 
 **Entity:** CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL  
 **Label:** CL40 World  
+**Publisher Music:** WR Beats  
+**Publisher Gaming:** CL40 World Space  
 **Owner:** Chico Loco 40 (Samir Libari)  
 **Status:** Fully International • Permanent Protection  
 
@@ -10,9 +12,11 @@
 
 # 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World 
 
-wikidata Artist ID (Q140934893): 
+https://www.upwork.com/freelancers/~0135086df593771f26?mp_source=share
+https://substack.com/@cl40world/note/p-219105516?utm_source=notes-share-action&r=8jmmb4
+https://www.beatstars.com/samuuxloco
+https://reletter.com/publications/cl40s-substack
 
-https://www.wikidata.org/wiki/Q140934893
 
 <img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
 
