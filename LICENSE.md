@@ -5,7 +5,7 @@ Publisher Artist: Chico Loco 40
 Genre: Hip-Hop/Rap Dark Horror  
 Owner Label: CL40 World  
 Owner Studio: WR Beats  
-CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL
+Owner: CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL
 
 UPC: 199891793891 • Catalog: CAT1682188 • Label: CL40 World
 
