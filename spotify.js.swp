@@ -1,0 +1,25 @@
+const token = 'BQBXsIdUUj8XVHuwgPhDBQwsN-47-BVnlcY1p2mgYZDq4W-8msyMSQEWNsi9XsHrNs75bhcR6_VG4VPdgiTppmwvF1250m6LbkBiDAmZIW6l8ifnZvfs3jdEb2CNtJbkq0jyGTUZkHSASPlonVMuDiVyR7EVvxSgXIjaz1JU-EfIVwnbEwhQfPkCNJr-ZfFxq6Z4lpJuOE7H32HQtrNAopE0uaYzJU7czfUJ1prTobq5Z78sWG2NuDNH_JBxt3CnsVxmusmHCjw-XLWR6dpWf1Fh9_MuVRSl0MgyxgE_mCKvJ5je7SaHmFK_m3yn2S55SwoCU9fw';
+async function fetchWebApi(endpoint, method, body) {
+  const res = await fetch(`https://api.spotify.com/${endpoint}`, {
+    headers: {
+      Authorization: `Bearer ${token}`,
+    },
+    method,
+    body:JSON.stringify(body)
+  });
+  return await res.json();
+}
+
+async function getTopTracks(){
+  return (await fetchWebApi(
+    'v1/me/top/tracks?time_range=long_term&limit=5', 'GET'
+  )).items;
+}
+
+const topTracks = await getTopTracks();
+console.log(
+  topTracks?.map(
+    ({name, artists}) =>
+      `${name} by ${artists.map(artist => artist.name).join(', ')}`
+  )
+);
