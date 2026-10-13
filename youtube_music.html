@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CL40 World | YouTube Music Ecosystem</title>
+    <meta name="author" content="Samir Libari (Chico Loco 40 / CL40)">
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 1.5rem;
+            letter-spacing: 2px;
+            margin: 0 0 5px 0;
+            color: #fff;
+        }
+        p {
+            font-size: 0.85rem;
+            color: #888;
+            margin: 0 0 15px 0;
+        }
+        .controls {
+            margin-bottom: 15px;
+        }
+        button {
+            background-color: #111;
+            color: #fff;
+            border: 1px solid #333;
+            padding: 8px 16px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            margin: 0 5px;
+            border-radius: 4px;
+        }
+        button:hover {
+            background-color: #222;
+            border-color: #555;
+        }
+        #player {
+            border-radius: 12px;
+            border: 1px solid #222;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+            overflow: hidden;
+            width: 560px;
+            height: 315px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>CHICO LOCO 40 (CL40)</h1>
+        <p>YouTube Music Official Ecosystem</p>
+    </header>
+
+    <div class="controls">
+        <button onclick="previousItem()">Previous</button>
+        <button onclick="nextItem()">Next Release</button>
+    </div>
+
+    <div id="player"></div>
+
+    <script>
+        const mediaItems = [
+            // Playlists & Albums
+            { type: 'playlist', value: 'OLAK5uy_nVKb2xzI8FIp2pD-dcvm4Q6x_ywE5WTJk' },
+            { type: 'playlist', value: 'OLAK5uy_kGAPK-oRHk7urdDFoAs8EnTW_knzk2vTs' },
+            { type: 'playlist', value: 'OLAK5uy_kk6vaArLkkpUwaVlWxkP5VQLEAhjIpjlI' },
+            { type: 'playlist', value: 'OLAK5uy_k1E08ACJi0oD0B1s57IflGZWQCOnOCWdk' },
+            { type: 'playlist', value: 'OLAK5uy_mLV58eMt302a17K4hU6KMx20FQlaMMvbY' },
+            { type: 'playlist', value: 'OLAK5uy_nTJ99NUzV_oNVNn3l4b4Gl210yQUu4QBk' },
+            { type: 'playlist', value: 'OLAK5uy_lIQXUiZacrxnuD36jqkRhk1iRncZcs500' },
+            { type: 'playlist', value: 'OLAK5uy_kR2b6HtAi0R4KECpmP6u2kOpc0YSbVFf0' },
+            { type: 'playlist', value: 'OLAK5uy_lCl_-sjr_BeWsgfSUopRQO3GWmeM0Gccc' },
+            { type: 'playlist', value: 'OLAK5uy_k9VjcBv0rdYWyD-ZAMVWx-Dd0hgBdq-Oc' },
+            { type: 'playlist', value: 'PL6XnRaVs9xgIVvjSkCGoVEnYWBaM32R1Z' },
+            // Individual Track
+            { type: 'video', value: 'MyNGOpNOaCs' }
+        ];
+
+        let currentIndex = 0;
+        let player;
+
+        var tag = document.createElement('script');
+        tag.src = "https://www.youtube.com/iframe_api";
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+        function onYouTubeIframeAPIReady() {
+            const item = mediaItems[currentIndex];
+            player = new YT.Player('player', {
+                height: '315',
+                width: '560',
+                playerVars: item.type === 'playlist' ? {
+                    'listType': 'playlist',
+                    'list': item.value
+                } : {
+                    'autoplay': 0
+                },
+                videoId: item.type === 'video' ? item.value : undefined,
+                events: {
+                    'onReady': onPlayerReady
+                }
+            });
+        }
+
+        function onPlayerReady(event) {
+            // Player ready
+        }
+
+        function loadMedia(index) {
+            const item = mediaItems[index];
+            if (player) {
+                if (item.type === 'playlist') {
+                    player.loadPlaylist({
+                        'list': item.value,
+                        'listType': 'playlist'
+                    });
+                } else {
+                    player.loadVideoById(item.value);
+                }
+            }
+        }
+
+        function nextItem() {
+            currentIndex = (currentIndex + 1) % mediaItems.length;
+            loadMedia(currentIndex);
+        }
+
+        function previousItem() {
+            currentIndex = (currentIndex - 1 + mediaItems.length) % mediaItems.length;
+            loadMedia(currentIndex);
+        }
+    </script>
+
+</body>
+</html>
