@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CL40 World | Apple Music Stream Ecosystem</title>
+    <meta name="author" content="Samir Libari (Chico Loco 40 / CL40)">
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 1.5rem;
+            letter-spacing: 2px;
+            margin: 0 0 5px 0;
+            color: #fff;
+        }
+        p {
+            font-size: 0.85rem;
+            color: #888;
+            margin: 0 0 15px 0;
+        }
+        .controls {
+            margin-bottom: 15px;
+        }
+        button {
+            background-color: #111;
+            color: #fff;
+            border: 1px solid #333;
+            padding: 8px 16px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            margin: 0 5px;
+            border-radius: 4px;
+        }
+        button:hover {
+            background-color: #222;
+            border-color: #555;
+        }
+        #apple-iframe {
+            border-radius: 12px;
+            border: 1px solid #222;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+            max-width: 660px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>CHICO LOCO 40 (CL40)</h1>
+        <p>Apple Music Official Releases</p>
+    </header>
+
+    <div class="controls">
+        <button onclick="previousRelease()">Previous</button>
+        <button onclick="nextRelease()">Next Release</button>
+    </div>
+
+    <iframe id="apple-iframe" 
+        src="https://embed.music.apple.com/us/album/6817511267" 
+        width="100%" 
+        height="450" 
+        frameBorder="0" 
+        allow="autoplay *; encrypted-media *; fullscreen *" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation"
+        loading="lazy">
+    </iframe>
+
+    <script>
+        const appleItems = [
+            '6817511267',
+            '6773777312',
+            '6775948219',
+            '6770669057',
+            '6770666035',
+            '6770818547',
+            '6773520767',
+            '6770669156',
+            '6771136639'
+        ];
+
+        let currentIndex = 0;
+
+        function updateApplePlayer() {
+            const albumId = appleItems[currentIndex];
+            const iframe = document.getElementById('apple-iframe');
+            iframe.src = `https://embed.music.apple.com/us/album/${albumId}`;
+        }
+
+        function nextRelease() {
+            currentIndex = (currentIndex + 1) % appleItems.length;
+            updateApplePlayer();
+        }
+
+        function previousRelease() {
+            currentIndex = (currentIndex - 1 + appleItems.length) % appleItems.length;
+            updateApplePlayer();
+        }
+    </script>
+
+</body>
+</html>
