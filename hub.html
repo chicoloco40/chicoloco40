@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CL40 World | Official Ecosystem</title>
+    <meta name="author" content="Samir Libari (Chico Loco 40 / CL40)">
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            margin-bottom: 25px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2rem;
+            letter-spacing: 3px;
+            margin: 0 0 8px 0;
+            color: #fff;
+        }
+        p {
+            font-size: 0.9rem;
+            color: #888;
+            margin: 0;
+        }
+        .nav-tabs {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 25px;
+        }
+        .tab-btn {
+            background-color: #111;
+            color: #aaa;
+            border: 1px solid #333;
+            padding: 10px 18px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+        }
+        .tab-btn:hover {
+            background-color: #222;
+            color: #fff;
+            border-color: #555;
+        }
+        .tab-btn.active {
+            background-color: #fff;
+            color: #000;
+            border-color: #fff;
+            font-weight: bold;
+        }
+        .player-container {
+            width: 100%;
+            max-width: 800px;
+            height: 520px;
+            border-radius: 12px;
+            border: 1px solid #222;
+            box-shadow: 0 0 30px rgba(0, 0, 0, 0.9);
+            overflow: hidden;
+            background-color: #050505;
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>CHICO LOCO 40 (CL40)</h1>
+        <p>Global Streaming Network</p>
+    </header>
+
+    <div class="nav-tabs">
+        <button class="tab-btn active" onclick="switchPlayer('youtube_music.html', this)">YouTube Music</button>
+        <button class="tab-btn" onclick="switchPlayer('spotify_player.html', this)">Spotify</button>
+        <button class="tab-btn" onclick="switchPlayer('apple_music.html', this)">Apple Music</button>
+        <button class="tab-btn" onclick="switchPlayer('play_tidal.html', this)">Tidal</button>
+        <button class="tab-btn" onclick="switchPlayer('amazon_music.html', this)">Amazon Music</button>
+        <button class="tab-btn" onclick="switchPlayer('deezer.html', this)">Deezer</button>
+    </div>
+
+    <div class="player-container">
+        <iframe id="main-frame" src="youtube_music.html"></iframe>
+    </div>
+
+    <script>
+        function switchPlayer(file, btn) {
+            document.getElementById('main-frame').src = file;
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+        }
+    </script>
+
+</body>
+</html>
