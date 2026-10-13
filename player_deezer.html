@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CL40 World | Deezer Stream Ecosystem</title>
+    <meta name="author" content="Samir Libari (Chico Loco 40 / CL40)">
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 1.5rem;
+            letter-spacing: 2px;
+            margin: 0 0 5px 0;
+            color: #fff;
+        }
+        p {
+            font-size: 0.85rem;
+            color: #888;
+            margin: 0 0 15px 0;
+        }
+        .controls {
+            margin-bottom: 15px;
+        }
+        button {
+            background-color: #111;
+            color: #fff;
+            border: 1px solid #333;
+            padding: 8px 16px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            margin: 0 5px;
+            border-radius: 4px;
+        }
+        button:hover {
+            background-color: #222;
+            border-color: #555;
+        }
+        #deezer-iframe {
+            border-radius: 12px;
+            border: 1px solid #222;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+            max-width: 700px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>CHICO LOCO 40 (CL40)</h1>
+        <p>Deezer Official Releases</p>
+    </header>
+
+    <div class="controls">
+        <button onclick="previousRelease()">Previous</button>
+        <button onclick="nextRelease()">Next Release</button>
+    </div>
+
+    <iframe id="deezer-iframe" 
+        src="https://www.deezer.com/plugins/player?format=classic&autoplay=false&playlist=false&width=700&height=350&color=EF5466&layout=dark&size=medium&type=link&id=34FeaJCj4ZdPyCgKscR5N&app_id=1" 
+        width="100%" 
+        height="350" 
+        frameBorder="0" 
+        allowTransparency="true" 
+        allow="encrypted-media; clipboard-write" 
+        loading="lazy">
+    </iframe>
+
+    <script>
+        const deezerItems = [
+            '34FeaJCj4ZdPyCgKscR5N',
+            '34Febkeqj57PF0mnfpQ9z',
+            '34FebBl0vjODIUVUU3G5i',
+            '34FebZaO28k035gdjlnN3',
+            '34FecmL0Hl99LZVTKIs0G',
+            '34FecColGxYwk4doh0OZQ',
+            '34FecVOOJHTLZozSCd365',
+            '34FedcwDIo7IXsMrvziAf',
+            '34FeduHdGf0pmRA5ELerQ'
+        ];
+
+        let currentIndex = 0;
+
+        function updateDeezerPlayer() {
+            const shortId = deezerItems[currentIndex];
+            const iframe = document.getElementById('deezer-iframe');
+            iframe.src = `https://www.deezer.com/plugins/player?format=classic&autoplay=false&playlist=false&width=700&height=350&color=EF5466&layout=dark&size=medium&type=link&id=${shortId}&app_id=1`;
+        }
+
+        function nextRelease() {
+            currentIndex = (currentIndex + 1) % deezerItems.length;
+            updateDeezerPlayer();
+        }
+
+        function previousRelease() {
+            currentIndex = (currentIndex - 1 + deezerItems.length) % deezerItems.length;
+            updateDeezerPlayer();
+        }
+    </script>
+
+</body>
+</html>
