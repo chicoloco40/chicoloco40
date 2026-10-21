@@ -81,7 +81,7 @@ Biografy:
 
 Legal:
 
-Google Flow Music, Official Rights Amnesty International, Strategic Musicain Produced, Journalist , PR Operations Global Digital Asset Management 140 Billion Reach Official of reddit, visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +170 With a growing cult following and a playlist reach exceeding +180K listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,25 Million, His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production form NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) Full Name Legal: (Abdelghafour Libari) & (Samir Libari) & (M'HAMED HAMED LIBARI)
+Official Rights Amnesty International, Strategic Musicain Produced, Journalist , PR Operations Global Digital Asset Management 240 Billion Reach Official of reddit, visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +210 With a growing cult following and a playlist reach exceeding +188K listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,22 Million, His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production form NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) Full Name Legal: (Abdelghafour Libari) & (Samir Libari) & (M'HAMED HAMED LIBARI)
 
 Disambiguation:
 
@@ -213,14 +213,14 @@ The ancestral bloodline and legal property rights of M'Hamed Libari (National ID
 | Artist Profile | Identity & Country | Live Global entity Stats |
 | :---: | :--- | :--- |
 | <img src="<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/cd2d3ae6-68e0-4ce3-be0a-36b4ac008f47" />
-" width="80" style="border-radius:50%"> | **Name:** Chico Loco 40 <br> **Origin:** 🇺🇸 United States / American-Maroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 100 Billion / Year
+" width="80" style="border-radius:50%"> | **Name:** Chico Loco 40 <br> **Origin:** 🇺🇸 United States / American-Maroccain / New York, Manhattan | 📈 **Total Reach:** +240 Billion Reach <br> ⚡ **Velocity:** 100 Billion / Year
 
 ### 📝 Extended Description
 Below are two versions of the extended biography for use on business google (Panel Global Entity) / Artist Connect.
 
 Raw extended bio (as provided):
 
-> Known @ChicoLoco40 the American-Moroccain, Driven by the Legacy of and the 2010 Global Vision (M'Hamed Libari) Founder COO & CTO CL40 World Driving Global Entity Music Syndicate Label 🜃 Legal @GoogleFlow Official Rights @amnesty Strategic, Musicain Produced, Journalist , PR Operations Global Digital Asset Management 140B+ Reach visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +170 With a growing cult following and a playlist reach exceeding +180k listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,25M+ His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production American and NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) (Abdelghafour Libari)
+> Known @ChicoLoco40 the American-Moroccain, Driven by the Legacy of and the 2010 Global Vision (M'Hamed Libari) Founder COO and CTO CL40 World Driving Global Entity Music Syndicate Label 🜃 Legal Google Developer Official Rights Amnesty  Internatonal, Strategic, Musicain Produced, Journalist , PR Operations Global Digital Asset Management +240 Billion Reach visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +210 With a growing cult following and a playlist reach exceeding +188k listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,22M+ His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production American and NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) (Abdelghafour Libari)
 
 # 🎵 Spotify — Artist Verified Profile Setup
 
@@ -232,14 +232,14 @@ Raw extended bio (as provided):
 
 **Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 100 Billion / Year |
 
-Notes: I preserved the numeric claims you provided (e.g., +134 Billion reach, playlist reach, country coverage). If you want, I can normalize numbers (commas, units) or remove any items you don't want published.
+Notes: I preserved the numeric claims you provided (e.g., +240 Billion reach, playlist reach, country coverage). If you want, I can normalize numbers (commas, units) or remove any items you don't want published.
 # 🎵 Apple Music – Artist Verified Profile Setup
 
 | Artist Profile | Identity & Country | Live Global Stats |
 | :---: | :--- | :--- |
 | <img src="<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/8e35a697-18d6-4f30-9d62-5bc3a07c626c" />" width="80" style="border-radius:50%" alt="art_pro_cl40_v2" />
 
-**Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 50 Billion / Year |
+**Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +240 Billion Reach <br> ⚡ **Velocity:** 100 Billion / Year |
 
 ---
 
@@ -287,11 +287,11 @@ orcid_system_validation:
 *   
 *   **Legal Representation:** Samir Libari (Driven by the Legacy of M’Hamed Libari)
 *   
-*   **Total Historic Reach:** **+134 Billion Verified Impressions**
+*   **Total Historic Reach:** **+240 Billion Verified Impressions**
 *   
-*   **Annual Velocity Rate:** 50 Billion Impressions / Year
+*   **Annual Velocity Rate:** 100 Billion Impressions / Year
 *   
-*   **Operational Base Grid:** B2C / International / American-Moroccan / New York, Manhattan 🇺🇸
+*   **Operational Base Grid:** D2D / International / American-Moroccan / New York, Manhattan 🇺🇸
 
 ---
 
@@ -342,11 +342,11 @@ All history and commits are permanent.
 
 ### Global Highlights
 
-- **Total Global Reach:** +134 Billion Impressions
+- **Total Global Reach:** +240 Billion Impressions
 - **Total Target:** 100 Billion Impressions / Year
 - **Countries Covered:** +210
-- **Playlist Reach:** +180k Listeners
-- **Artist Rank Global:** #1,250,000+
+- **Playlist Reach:** +188k Listeners
+- **Artist Rank Global:** #1,220,000+
 
 </td>
     <td valign="top">
@@ -440,11 +440,11 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 
 | Metric | Value |
 |--------|-------|
-| **Total Global Reach** | +134 Billion Impressions |
+| **Total Global Reach** | +240 Billion Impressions |
 | **Total Target** | 100 Billion Impressions/Year |
 | **Countries Covered** | +210 Countries |
 | **Playlist Reach** | +180k Listeners |
-| **Artist Rank Global** | #1,25M+ |
+| **Artist Rank Global** | #1,22M+ |
 | **Active Years** | 2014–Present |
 
 ---
