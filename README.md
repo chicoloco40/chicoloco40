@@ -1,6 +1,6 @@
 <img width="300" height="123" alt="__A__Sales_Projects_______B__CL40_World_Dashboard__" src="https://github.com/user-attachments/assets/470f432a-2657-4d8a-b1a8-6cbf02e8b641" />
 
-# 🜏 Chico Loco 40 — Official Public Artist and Label (B2C) CL40 World & WR Beats
+# 🜏 Chico Loco 40 — Official Public Artist and Label (D2D) CL40 World & WR Beats & CL40 World Space
 
 
 Chico Loco 40 / Samir Libari 
