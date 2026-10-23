@@ -1,6 +1,6 @@
 <img width="300" height="123" alt="__A__Sales_Projects_______B__CL40_World_Dashboard__" src="https://github.com/user-attachments/assets/470f432a-2657-4d8a-b1a8-6cbf02e8b641" />
 
-# 🜏 Chico Loco 40 — Official Public Artist and Label (D2D) CL40 World & WR Beats & CL40 World Space
+# 🜏 Chico Loco 40 / Samir Libari — Official Public Artist and Label Major (P2P) CL40 World & WR Beats & CL40 World Space - Fack You Independent.
 
 
 Chico Loco 40 / Samir Libari 
@@ -29,7 +29,7 @@ https://gaming.cl40.world
   <img src="https://raw.githubusercontent.com/chicoloco40/chicoloco40/main/assets/ecosystem-flow.svg" alt="Animated CL40 World ecosystem flow" width="100%" />
 </p>
 
-> The flow connects creative leadership, technology, business development, music production, product management, and global distribution.
+> The flow connects creative leadership, technology, business development, music production, product management, and global distribution Label Major.
 
 ### LB0025 Official
 
@@ -41,9 +41,9 @@ https://gaming.cl40.world
 
 <img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
 
-Bio Artist Chico Loco 40:
+Bio Artist and Origin, Chico Loco 40:
 
-Founder COO/CTO/Developer/Journalist Publisher songwriter Moroccan-American Rapper Hip-hiop International
+Owner COO and CTO Developer and Journalist, publisher, songwriter, Moroccan-American Rapper Hip-hiop International
 
 Owner Full Name: Samir Libari
 Type: Person
@@ -53,27 +53,28 @@ Country: North America
 City: New York, New York State
 Origin: American-Moroccan
 
-Owner Aliases:
+Owner Space:
 • Publisher: Chico Loco 40
 • Songwriter: Samir Libari
 • Writer:     Samir Libari
 • Producer:   QUARANTA-FOUR-ZERO
-• Film Actor: CL40 World
-• journalist: CL40 World
+• Film Actor: Samir Libari
+• journalist: Samir Libari
 • Studio:     WR Beats
-• Label:      CL40 World
-• Devloper:   CL40 World
+• Label Major:      CL40 World
+• Developer:   CL40 World
 • Syndicate:  CL40 WORLD LLC SYNDICATE PORTAL INTERNATIONAL
 
-Owner Label:   CL40 World
-Owner Studio:   WR Beats
-Studio:        WR Beats
-Publisher:     ASCAP
+Owner Label Major:   CL40 World
+Owner Publisher Rights:  WR Beats
+Studio:                     WR Beats
+Publisher Music Rights:     WR Beats
 Member Rights: Amnesty International
-B2C Platform:  UnitedMasters
+P2P Platform:  UnitedMasters
 
 Positions:
-• Founder (CL40 World)
+• Owner (CL40 World)
+• Founder (CL40 World Space)
 • COO
 • CTO
 
@@ -81,11 +82,15 @@ Biografy:
 
 Legal:
 
-Official Rights Amnesty International, Strategic Musicain Produced, Journalist , PR Operations Global Digital Asset Management 240 Billion Reach Official of reddit, visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +210 With a growing cult following and a playlist reach exceeding +188K listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,22 Million, His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production form NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) Full Name Legal: (Abdelghafour Libari) & (Samir Libari) & (M'HAMED HAMED LIBARI)
+Official Rights WR Beats, Strategic Musicain Produced, Journalist , PR Operations Global Digital Asset Management +240 Billion Reach Official of reddit, visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press and interviews on Performance Reach Top countries +210 With a growing cult following and a playlist reach exceeding +188K listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,22 Million, His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production form NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) Full Name Legal: (Abdelghafour Libari) & (Samir Libari) & (M'HAMED HAMED LIBARI)
+
+Biography: 
+
+Samir Libari, known professionally as Chico Loco 40, Moroccan-American rapper, is the sole visionary architect, Chief Technology Officer CTO and COO owner of CL40 World, songwriter, Right Adminastor publisher, music producer, actor, journalist, and technology, is building an international creative and technology platform through CL40 World, combining music, media, software development, journalism, and digital entrepreneurship under one global vision. is building an creative platform through owner CL40 World, in New York, operates across multiple creative and technology disciplines. As a recording artist and songwriter, Samir Libari, while his production work is associated with the name Producer QUARANTA-FOUR-ZERO. His music publishing activities are connected with WR Beats. The company represents his broader ambition to create an global platform connecting entertainment, technology, media network, and digital communities. Beyond music, Libari serves as COO and CTO of CL40 World, where he combines technology development, journalism. His reach extends to over (+210) With a growing cult following and a playlist reach exceeding (+188k) listeners. has officially broken into the Artist Rank Global #1.22M+ His presence is backed by consistent professional sound engineering and a relentless Search Engine Optimization SEO, Music Production WR Beats Defending Freedom Artistic Dignity Active of 2014 Creative partner of brother (LB0025). about its history: "No hablo mucho, Ya lo explico" P2P
 
 Disambiguation:
 
-Samir Libari, better known as Chico Loco 40, is a Moroccan-American rapper from New York, an ASCAP publisher, music producer, actor, member Amnesty International, and founder COO/CTOO of a tech-entrepreneurship company owner CL40 World.
+Samir Libari, better known as Chico Loco 40, is a Moroccan-American rapper from New York, an WR Beats Publisher, Music Producer, Actor, Member USA Rights, COO and CTOO of a tech-entrepreneurship company owner CL40 World.
 
 Email:                      founder.american@cl40.world
 
@@ -111,7 +116,7 @@ ORCID ID Offical Label:     https://orcid.org/0009-0001-4557-4898
 <
 <pre style="background:#000000; color:#ff0000; border:none; white-space:pre-wrap; font-family:'Courier New', monospace; font-size:14px; font-weight:bold;">
 <
-== Welcome to the CL40 World & Chico Loco 40 Wikipedia ==
+==  Welcome to the CL40 World & Chico Loco 40  ==
 <
 Main portals: cl40.contact | founder.cl40.world
 <
@@ -119,7 +124,7 @@ Main portals: cl40.contact | founder.cl40.world
 Libari established his corporate and creative headquarters in New York City. His music fuses dark rap, drill, and psycho rock with conscious and political themes.
 <
 === The Legacy of M'Hamed Libari ===
-The ancestral bloodline and legal property rights of M'Hamed Libari (National ID C.I.N. K 95540, certified under Moroccan Court Decree, Tangier Primary Court of Family Justice, Judgement File 2016/1619-70) are administered globally by CL40 World LLC.
+The ancestral bloodline and legal property rights of M'Hamed Libari (National ID C.I.N. K 95540, certified under Moroccan Court Decree, Tangier Primary Court of Family Justice, Judgement File 2016/1619-70) are administered globally by CL40 World.
 <  
 </pre>
 <
@@ -202,25 +207,25 @@ The ancestral bloodline and legal property rights of M'Hamed Libari (National ID
 <
 <div style="text-align:center; margin-top:30px; color:#ff0000; font-size:90%; font-weight:bold; letter-spacing:1px;">
   <
-  © 2026 CL40 World LLC. All Rights Reserved.
+  © 2026 CL40 World. All Rights Reserved.
 
 </div>
 
 </div>
 
-### ♎ business google Vérifiéd Profile artist owner Setup Matrix International
+### ♎ Business Google Vérifiéd Profile Artist Owner Setup Matrics International
 
 | Artist Profile | Identity & Country | Live Global entity Stats |
 | :---: | :--- | :--- |
 | <img src="<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/cd2d3ae6-68e0-4ce3-be0a-36b4ac008f47" />
-" width="80" style="border-radius:50%"> | **Name:** Chico Loco 40 <br> **Origin:** 🇺🇸 United States / American-Maroccain / New York, Manhattan | 📈 **Total Reach:** +240 Billion Reach <br> ⚡ **Velocity:** 100 Billion / Year
+" width="80" style="border-radius:50%"> | **Name:** Chico Loco 40 <br> **Origin:** 🇺🇸 United States / American-Maroccain / New York, Manhattan | 📈 **Total Reach:** +240 Billion Reach <br> ⚡ **Velocity:** +240 Billion / Year
 
 ### 📝 Extended Description
 Below are two versions of the extended biography for use on business google (Panel Global Entity) / Artist Connect.
 
 Raw extended bio (as provided):
 
-> Known @ChicoLoco40 the American-Moroccain, Driven by the Legacy of and the 2010 Global Vision (M'Hamed Libari) Founder COO and CTO CL40 World Driving Global Entity Music Syndicate Label 🜃 Legal Google Developer Official Rights Amnesty  Internatonal, Strategic, Musicain Produced, Journalist , PR Operations Global Digital Asset Management +240 Billion Reach visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +210 With a growing cult following and a playlist reach exceeding +188k listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,22M+ His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production American and NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) (Abdelghafour Libari)
+> Known @ChicoLoco40 the American-Moroccain, Driven by the Legacy of and the 2010 Global Vision (M'Hamed Libari) Owner, COO and CTO CL40 World Driving Global Entity Music Syndicate Label 🜃 Legal Google Developer Official Rights, Strategic, Musicain Produced, Journalist , PR Operations Global Digital Asset Management +240 Billion Reach visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press featuring in-depth spotlights and interviews on Performance Reach Top countries +210 With a growing cult following and a playlist reach exceeding +188k listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,22M+ His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production American and NSW Entertainment Recording Company Owner (CL40 World) Global Rights Administration WR Beats Defending Freedom Artistic Dignity Active Since of 2014 and Studio Publisher (WR Beats) partnership of artist (LB0025) (Abdelghafour Libari)
 
 # 🎵 Spotify — Artist Verified Profile Setup
 
@@ -230,7 +235,7 @@ Raw extended bio (as provided):
 
 | <img src="<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/090d1631-ff5e-430b-91b0-834e1831fab6" />" width="80" style="border-radius:50%" alt="art_pro_cl40_v2" />
 
-**Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +134 Billion Reach <br> ⚡ **Velocity:** 100 Billion / Year |
+**Owner-Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +240 Billion Reach <br> ⚡ **Velocity:** 240 Billion / Year |
 
 Notes: I preserved the numeric claims you provided (e.g., +240 Billion reach, playlist reach, country coverage). If you want, I can normalize numbers (commas, units) or remove any items you don't want published.
 # 🎵 Apple Music – Artist Verified Profile Setup
@@ -239,7 +244,7 @@ Notes: I preserved the numeric claims you provided (e.g., +240 Billion reach, pl
 | :---: | :--- | :--- |
 | <img src="<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/8e35a697-18d6-4f30-9d62-5bc3a07c626c" />" width="80" style="border-radius:50%" alt="art_pro_cl40_v2" />
 
-**Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +240 Billion Reach <br> ⚡ **Velocity:** 100 Billion / Year |
+**Name:** Chico Loco 40 ✅ <br> **Origin:** 🇺🇸 United States / American-Moroccain / New York, Manhattan | 📈 **Total Reach:** +240 Billion Reach <br> ⚡ **Velocity:** 240 Billion / Year |
 
 ---
 
@@ -261,7 +266,7 @@ orcid_system_validation:
 ---
 [Uploading ORCID.ORG-CL40-WORLD-LLC-SYNDICATE-PORTAL-INTERNATIONAL.pdf…]()
 
-# 🆔 ORCID Sovereign Authority Matrix
+# 🆔 Legal ORCID Sovereign Authority Matrics
 
 ## 🜏 IMMUTABLE BRAND INDEXATION — GOOGLE CORE VAULT
 
@@ -289,28 +294,30 @@ orcid_system_validation:
 *   
 *   **Total Historic Reach:** **+240 Billion Verified Impressions**
 *   
-*   **Annual Velocity Rate:** 100 Billion Impressions / Year
+*   **Annual Velocity Rate:** 240 Billion Impressions / Year
 *   
-*   **Operational Base Grid:** D2D / International / American-Moroccan / New York, Manhattan 🇺🇸
+*   **Operational Base Grid:** P2P / International / American-Moroccan / New York, Manhattan 🇺🇸
 
 ---
 
 ### 🛡️ Core Cryptographic & API Enforcement
 
-```json
+json
+
 {
-  "system_mode": "DARK_HORROR_SECURITY_LOCKED",
+  "system_mode': "DARK_HORROR_SECURITY_LOCKED",
   "orcid_handshake": "https://orcid.org/0009-0001-4557-4898",
-  "google_knowledge_graph": "FORCE_LABEL_RECOGNITION",
+  "google_knowledge_graph": "FORCE_GLOBAL_RECOGNITION",
   "ownership_verification": "SAMIR_LIBARI_LEGACY_VAULT",
   "anti_tampering_protocol": true,
   "allow_third_party_disputes": false
 }
-```
+
+### 🛡️ Core Cryptographic & API Enforcement. Owner Owner Owner. No Independent. Samir Libri International
 
 **Status:** Permanent • Protected • Uncensored • Immutable
 
-- Chico Loco 40 — Verified (American, Moroccan; form New York).
+- Chico Loco 40 — Verified (American, Moroccan: form New York).
 
 ### 🛡️ SECURITY & PROTECTION LOCK
 
@@ -318,13 +325,13 @@ This repository is the **official, permanent, and protected public record** of C
 
 Any name, biographical information, document, or press release related to:
 
-- **M’Hamed Libari** (M Hamed Libari, Bni Makada, Tangier)
-- 
+- **M'Hamed Libari** (M Hamed Libari, Bni Makada, Tangier)
+
 - Chico Loco 40 (Samir Libari)
-- 
+
 - Abdelghafour Libari (LB0025)
-- 
-- CL40 World LLC and its full catalog
+
+- CL40 World and its full catalog
 
 **cannot be erased, hidden, restricted, suppressed, or removed** from this repository.
 
@@ -334,7 +341,7 @@ All history and commits are permanent.
  
 ---
 
-# 🌍 International — CL40 World & WR Beats
+# 🌍 International — CL40 World & WR Beats & CL40 World Space & Chico Loco 40 / Samir Libari
 
 <table>
   <tr>
@@ -343,7 +350,7 @@ All history and commits are permanent.
 ### Global Highlights
 
 - **Total Global Reach:** +240 Billion Impressions
-- **Total Target:** 100 Billion Impressions / Year
+- **Total Target:** 240 Billion Impressions / Year
 - **Countries Covered:** +210
 - **Playlist Reach:** +188k Listeners
 - **Artist Rank Global:** #1,220,000+
@@ -367,51 +374,51 @@ All history and commits are permanent.
 
 ---
 
-# 🜏 WR Beats — Official Music Production Studio & Label
+# 🜏 WR Beats — Official Music Production Studio & Major Label
 ## Partnered with Chico Loco 40 / CL40 World
 
-**WR Beats** is the production and engineering studio powering **CL40 World**, the global music distribution and syndicate platform founded by **Chico Loco 40** (Samir Libari).
+**WR Beats** is the publisher production and engineering studio powering **CL40 World**, the global music distribution and syndicate platform founded by **Chico Loco 40** (Samir Libari).
 
 ---
 
-## 🎤 About Chico Loco 40 & CL40 World
+## 🎤 Abouts Chico Loco 40 & CL40 World & WR Beats & CL40 World Space
 
 ### Artist Profile
 **Chico Loco 40** | Samir Libari  
 📍 **Location:** Manhattan, New York, USA (American-Moroccan)  
-🏢 **Label:** CL40 World  
-🎧 **Studio:** WR Beats  
-📊 **Global Reach:** +134 Billion Impressions  
-📈 **Annual Velocity:** 50 Billion Impressions/Year
+🏢 **Label Major:** CL40 World  
+🎧 **Studio Publisher:** WR Beats  
+📊 **Global Rights Reach Official No AD:** +240 Billion Impressions  
+📈 **Annual Velocity:** 100 Billion Impressions/Year
 
 ### Official Links
 - 🌐 **Website:** https://cl40.contact
 - 👑 **Founder Portal:** https://founder.cl40.world
 - 🎵 **Global Portal:** https://china.cl40.world
 - 🆔 **ORCID ID:** https://orcid.org/0009-0001-4557-4898
-- 📋 **Wikidata:** https://www.wikidata.org/wiki/Q140934893
 
 ---
 
-## 👤 Artist Bio: Chico Loco 40
+## 👤 Artist Bio: Chico Loco 40 / Samir Libari / CL40 World Space / WR Beats
 
 **Full Name:** Samir Libari  
-**Aliases:**
-- Songwriter: Chico Loco 40
-- Writer: Samir Libari
-- Producer: QUARANTA-FOUR-ZERO
-- Film Actor: CL40 World
-- Journalist: CL40 World
-- Developer: CL40 World
+**Space +240 Billion:**
+- Owner Songwriter: Samir Libari
+- Owner Writer: Samir Libari
+- Owner Producer: QUARANTA-FOUR-ZERO
+- Owner Film Actor: CL40 World
+- Owner Journalist: Samir Libari
+- Owner Developer: CL40 World Space
+- Owner Publisher Rights Music: WR Beats
 
 **Positions:**
-- Founder (CL40 World)
-- COO (Chief Operating Officer)
-- CTO (Chief Technology Officer)
-- Developer & Journalist & Publisher
+- Owner (CL40 World)
+- COO (Owner)
+- CTO (Owner)
+- Developer & Journalist & Publisher & Rights & Songwriter
 
 **Occupations:**  
-Rapper, Music Producer, Film Actor, Entrepreneur, Developer
+Owner Artist Rapper, Owner Music Producer, Owner Film Actor, Owner Entrepreneurship, Owner Journalism, Owner Rights, Owner Developer
 
 **Active Since:** 2014 – Present
 
@@ -425,9 +432,9 @@ Rapper, Music Producer, Film Actor, Entrepreneur, Developer
 
 ## 🎵 Music Style & Sound
 
-Chico Loco 40's sound is a **dark cinematic fusion** blending:
-- 🎙️ Dark Alternative Rap
-- 🎼 Psycho Drill
+Chico Loco 40 sound is a **dark cinematic fusion** blending:
+- 🎙️ Dark Alternative Rap & Pysho Dark Horror Latin American
+- 🎼 Psycho Drill & Psycho trap
 - 🥁 Trap & Experimental Production
 
 **Themes:** Raw storytelling, street reality, conscious lyrics, political awareness
@@ -443,7 +450,7 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 | **Total Global Reach** | +240 Billion Impressions |
 | **Total Target** | 100 Billion Impressions/Year |
 | **Countries Covered** | +210 Countries |
-| **Playlist Reach** | +180k Listeners |
+| **Playlist Reach** | +188k Listeners |
 | **Artist Rank Global** | #1,22M+ |
 | **Active Years** | 2014–Present |
 
@@ -482,61 +489,51 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 
 | Title | Format | Label | Studio | Creators | Feed |
 |---|---|---|---|---|---|
-| Samir Libari Podcast | Radio | CL40 World | WR Beats | Spotify Creators | Buzzsprout (RSS) | Publisher |
+| Samir Libari Podcast | Radio | CL40 World | WR Beats | International Creators | RSS | Publisher |
 
 ---
 
 ## 🏢 CL40 World — The Label & Syndicate
 
-**CL40 World LLC** is an international music syndicate and entertainment recording company operating as a **B2C digital platform**.
+**CL40 World** is an international music syndicate and entertainment recording company operating as a **P2P digital platform**.
 
 ### Official Details
-- **Owner:** Samir Libari (Chico Loco 40)
+- **Owner:** Samir Libari (Chico Loco 40) Publisher International
 - **Legal Structure:** CL40 World LLC Syndicate Portal International
 - **Headquarters:** New York, USA & NSW, Australia
 - **Founded:** April 21, 2014
-- **Publisher:** ASCAP (American Society of Composers, Authors and Publishers)
-- **B2C Platform:** UnitedMasters
+- **Publisher:** WR Beats (American Society of Composers, Authors and Publishers)
+- **P2P Label Major Platform:** UnitedMasters
 - **Distribution:** Global (210+ Countries)
 
 ### Core Operations
-✅ Music Production & Engineering (WR Beats)  
-✅ Global Music Distribution  
-✅ Artist Development & Management  
-✅ Journalism & PR Operations  
-✅ Digital Asset Management  
-✅ Rights Administration (ASCAP) & Amnesty International  
-✅ Technology & Development  & Publisher  
+✅ Music Production Publisher & Engineering (WR Beats) International  
+✅ Global Music Distribution International  
+✅ Artist Development International  
+✅ Journalism & PR Operations International  
+✅ Digital Asset International  
+✅ Rights Administration (WR Beats) International  
+✅ Technology & Development International  
 
 ---
 
 ## 🎧 WR Beats — Production Studio
 
-**WR Beats** is the official production and audio engineering studio powering CL40 World's catalog.
+**WR Beats** is the official production and audio engineering studio powering CL40 World Space catalog.
 
 ### Studio Capabilities
 - **Audio Production:** Professional sound engineering & mixing
 - **Beat Production:** Original compositions in multiple genres
 - **Master Recording:** Studio-quality recording facilities
-- **Artist Support:** Development for CL40 World roster
+- **Artist Support:** Development for CL40 World Space roster
 
 ### Studio Partnerships
-- **Primary Label:** CL40 World
+- **Major Label:** CL40 World
 - **Publisher Artist:** Chico Loco 40 (Samir Libari)
-- **Distribution Partner:** (UnitedMasters)
-- **Rights Administration:** (ASCAP) (Amnesty International)
+- **Distribution Partner and Job:** (UnitedMasters)
+- **Rights Administration Publisher:** (WR Beats)
 
 ---
-
-## 📱 Digital Platforms & Channels
-
-### Streaming Services
-- 🟩 **Spotify:** https://spotify.cl40.world
-- 🍎 **Apple Music:** https://apple.cl40.world
-- 🔵 **Tidal:** https://tidalprof.cl40.world
-- 🌊 **Amazon Music:** https://amazon.cl40.world
-- 🎵 **Anghami:** https://anghami.cl40.world
-- 🔍 **Shazam:** https://shazam.cl40.world
 
 ### Social & Community
 - 💬 **Discord:** https://discord.gg/Vvgmt4PFk
@@ -552,35 +549,23 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 - 🌐 **Main Contact:** https://cl40.contact
 - 👑 **Founder Portal:** https://founder.cl40.world
 - 🏢 **Label Official:** https://labeloffical.cl40.world
-- 🎹 **Beatwave Platform:** https://beatswav.cl40.world
 - 📊 **Press Kit:** https://press.cl40.world
-- 🛒 **Official Shop:** https://shop.cl40.world
-
+- 
 ---
 
 ## 🛡️ Rights & Legal Information
 
 ### Intellectual Property
-- **Publisher:** ASCAP (American Society of Composers, Authors and Publishers)
-- **Copyright:** © 2026 CL40 World LLC. All Rights Reserved
+- **Publisher:** WR Beats (American Society of Composers, Authors and Publishers)
+- **Copyright:** © 2026 CL40 World. All Rights Reserved
 - **ORCID ID:** 0009-0001-4557-4898
-- **Wikidata ID:** Q140934893
 - **MusicBrainz:** https://musicbrainz.org/artist/31b01271-dcdd-4e22-8d77-b1c92f3f7768
-
-### Verified Status
-✅ **Spotify for Artists Verified**  
-✅ **Apple Music for Artists Verified**  
-✅ **Google Business Profile Verified**  
-✅ **ORCID Artist Profile Verified**  
-✅ **Wikidata Entity Verified**
-
+- 
 ---
-
-## 👥 Team & Operations
 
 ### Executive Leadership
 - **Founder, COO & CTO:** Samir Libari (Chico Loco 40)
-- **Role:** Music Production, Artist Development, Technology, Journalism & PR
+- **Role:** Owner Music Production, Artist Owner Development, Owner Technology, Owner Journalism & PR
 
 ### Social Responsibility
 - **Member:** Amnesty International
@@ -608,8 +593,6 @@ CL40 World and WR Beats operate with a commitment to:
 - ⚖️ **Justice:** Supporting human rights and freedom of expression
 
 ---
-
-## 📞 Contact & Support
 
 ### Business Inquiries
 - 📧 **General:** founder.american@cl40.world
@@ -645,8 +628,8 @@ WR Beats leverages modern cloud technology for:
 
 ## 🎓 Recognition & Awards
 
-- **Playlist Reach:** +180k listeners on major streaming platforms
-- **Global Artist Rank:** #1,25M+ internationally
+- **Playlist Reach:** +188k listeners on major streaming platforms
+- **Global Artist Rank:** #1,22M+ internationally
 - **Press Coverage:** Featured in-depth spotlights across global media
 - **Search Optimization:** Consistent professional sound engineering & SEO
 - **Cultural Impact:** Recognized for uncompromising artistic vision and conscious storytelling
@@ -671,37 +654,23 @@ All content, music, artwork, and documentation in this repository are protected 
 
 ---
 
-**Made with ❤️ by WR Beats & CL40 World**  
+**Publisher Made with ❤️ by WR Beats & CL40 World**  
 *Music • Technology • Justice • Legacy*
-
-🎵 **Stream now on all major platforms** | 👑 **Founder Portal:** https://founder.cl40.world
 
 ### 🏢 GLOBAL CORPORATE IDENTITY
 
 * 🏢 **Label Owner Name:** https://cl40.contact
 * 👑 **Owner Founder COO & CTO:** https://founder.cl40.world
-* 📜 **Legal Owner Name:** `(Samir Libari) & (American Entertainment Recording Company)`
-* 🛡️ **Owner Status:** `Owner (Chico Loco 40, American) - American Entertainment Recording Company (CL40 World)`
-* 🗽 **Corporate Base:** `Manhattan, New York, USA & NSW`
+* 📜 **Legal Owner Name:** (Samir Libari) & (American Entertainment Recording Company)`
+* 🛡️ **Owner Status:** (Chico Loco 40, American) American Entertainment Recording Company, Owner (CL40 World) and (WR Beats)`
+* 🗽 **Corporate Base:** Manhattan, New York, USA & NSW`
 * 🆔 **Wikidata Label ID:** https://www.wikidata.org/wiki/Q30283816
 * 💿 **MusicBrainz Type ID:** https://musicbrainz.org/artist/31b01271-dcdd-4e22-8d77-b1c92f3f7768
-* 🔍 **MusicBrainz Disambiguation:** `Entertainment Artist Company & American Entertainment Recording Company`
-* 📊 **Reach Metrics:** `+134 Billion Reach International`
-* 💎 **Assets:** `Global Sovereignty & International Catalog Rights`
-* 📅 **Founded:** `Joined Apr 21, 2014 | CC_PP 2024-09-18`
-* ⚙️ **Ecosystem Logistics:** `Verified International Artist Entity (Rank #1.5M), Managing Global Distribution Channels, Reddit Community Growth (+134 Billion Members), and Scalable AI-Driven [...]`
-
----
-
-### 🎵 TRACKS & CLIPS
-
-* 🎬 **Clip:** https://clip.cl40.world
-* 🟩 **Spotify:** https://spotify.cl40.world
-* 🍎 **Apple:** https://apple.cl40.world
-* 🔍 **Shazam:** https://shazam.cl40.world
-* 🎧 **Anghami:** https://anghami.cl40.world
-* 🎴 **Tapada:** https://tapada.cl40.world
-* 🌏 **China:** https://china.cl40.world
+* 🔍 **MusicBrainz Disambiguation:** Entertainment Artist Company & American Entertainment Recording Company`
+* 📊 **Reach Metrics:** +240 Billion Reach International`
+* 💎 **Assets:** Global Sovereignty & International Catalog Rights`
+* 📅 **Founded:** Joined Apr 21, 2014 | CC_PP 2024-09-18`
+* ⚙️ **Ecosystem Logistics:** Verified International Artist Entity (Rank #1.22M), Managing Global Distribution Channels, Reddit Community Growth (+240 Billion Members), and Scalable AI-Driven [...]`
 
 ---
 
@@ -709,10 +678,9 @@ All content, music, artwork, and documentation in this repository are protected 
 
 * 📑 **Setlist Documentation:** https://www.setlist.fm/setlist/chico-loco-40/1999/chico-loco-40-manhattan-ny-4b73434e.html
 * 📥 **Contact:** https://cl40.contact
-* 📰 **Press:** https://press.cl40.world
+* 📰 **Press:** https://founder.cl40.world
 * 👑 **Founder:** https://founder.cl40.world
 * 💬 **Discord Operations:** https://discord.gg/Vvgmt4PFk
-* 🩹 **Trauma Documentation:** https://traumas.cl40.world
 * 🌊 **Tidal Executive Profile:** https://tidalprof.cl40.world
 ---
 
@@ -733,7 +701,6 @@ All content, music, artwork, and documentation in this repository are protected 
 
 ### 📣 SOCIAL CHANNELS & EXECUTIVE MERCH
 
-* 🛒 **Official Merchandise Shop:** https://shop.cl40.world
 * 👥 **Corporate Team Operations:** https://team.cl40.world
 * 📸 **Instagram Hub:** https://instagram.cl40.world
 * 📹 **Facebook Page Operations:** https://fbpage.cl40.world
@@ -749,17 +716,11 @@ All content, music, artwork, and documentation in this repository are protected 
 
 ### 📩 VERIFIED INTERNATIONAL EMAILS
 
-* 🏆 `vrified.my.grammy@cl40.world`
-* 🏢 `vrified.my.universalmusic@cl40.world`
-* 📊 `vrified.my.billboard@cl40.world`
 * 🍏 `vrified.apple@cl40.world`
 * 🔵 `vrified.facebook@cl40.world`
-* 💻 `vrified.github@cl40.world`
 * 📸 `vrified.instagram@cl40.world`
 * 🔍 `vrified.mygoogle@cl40.world`
-* 💎 `vrified.patreon@cl40.world`
 * 🟩 `vrified.spotify.artist@cl40.world`
-* 🌊 `vrified.tidal@cl40.world`
 * 🐦 `vrified.x@cl40.world`
 * 🔴 `vrified.youtube@cl40.world`
 
@@ -786,7 +747,7 @@ This documentation log tracks the structural presence and consecutive modificati
 ## 🏛️ Statement of Intent
 The documentation of the corporate footprint of Chico Loco 40 and the legacy of the late M'Hamed Hamed Libari is registered strictly as an immutable digital record. Any systematic removal, truncation, or alteration of this structured text by automated scripts or manual moderators is being logged locally under secure version control protocols to maintain digital property records and corporate historical truth.
 
-### ©️ COPYRIGHT & REGISTRIES
+### COPYRIGHT RIGHTS & REGISTRIES
 
-* ©️ **Copyright Notice:** `© 2026 CL40 World LLC. All Rights Reserved`
+* ©️ **Copyright Notice:** © 2026 CL40 World. All Rights Reserved`
 <img width="1024" height="606" alt="image" src="https://github.com/user-attachments/assets/dde2c4fe-0413-4f1c-b79b-869da50ef480" />
