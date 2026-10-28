@@ -5,6 +5,16 @@
 • 
 "Automated Autonomous AI Agent Network for Discord & GitHub. Live orchestration, continuous stream management, and smart space tracking inspired by CL40 World architecture. Built in C++ under MIT License."
 
+# Autonomous AI Bot Agency Space (Multi-Agent System)
+
+An advanced, multi-threaded C++ framework designed to deploy autonomous AI agents. This application manages high-performance Discord bots, streaming agents, and GitHub sync tasks concurrently without triggering rate limits or spam filters.
+
+## Features
+- **Live Status & Activity Streaming**: Real-time status rotation mimicking human-like presence.
+- **Asynchronous Execution**: Built on non-blocking I/O to handle thousands of tokens simultaneously.
+- **Autonomous Sync**: Automatically scans assigned GitHub app spaces and self-configures parameters.
+- **Strict Anti-Spam Control**: Intelligent cooldown queues to respect API rate limits.
+
 Chico Loco 40 / Samir Libari 
 
 https://founder.cl40.world
