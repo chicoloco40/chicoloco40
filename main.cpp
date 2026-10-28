@@ -1,50 +1,68 @@
 #include <iostream>
-#include <fstream>
-#include <string>
 #include <vector>
-#include <curl/curl.h>
+#include <string>
+#include <thread>
+#include <chrono>
+#include <atomic>
 
-const std::string PLAYLIST_ID = "4haHr8QHyGEpXhJWQheqhN";
+// Dynamic Structure for the AI Bot
+struct AIBot {
+    std::string token;
+    std::string botName;
+    std::string currentStatus;
+    bool isStreaming;
+};
 
-void triggerStream(const std::string& appId) {
-    CURL* curl = curl_easy_init();
-    if(curl) {
-        struct curl_slist* headers = NULL;
-        std::string auth = "Authorization: Bearer YOUR_OAUTH_TOKEN";
-        headers = curl_slist_append(headers, auth.c_str());
-        headers = curl_slist_append(headers, "Content-Type: application/json");
-
-        std::string url = "https://api.spotify.com/v1/me/player/play";
-        std::string payload = "{\"context_uri\":\"spotify:playlist:" + PLAYLIST_ID + "\"}";
-
-        curl_easy_setopt(curl, CURLOPT_URL, url.c_str());
-        curl_easy_setopt(curl, CURLOPT_CUSTOMREQUEST, "PUT");
-        curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
-        curl_easy_setopt(curl, CURLOPT_POSTFIELDS, payload.c_str());
-
-        CURLcode res = curl_easy_perform(curl);
-        if(res == CURLE_OK) {
-            std::cout << "[SUCCESS] Bot Application ID triggered: " << appId << std::endl;
+// Simulated function to update Bot state in the Space (via API or Websocket)
+void runBotAgent(AIBot bot) {
+    std::cout << "[⚡ START] Bot Agent @" << bot.botName << " is now live and initializing...\n";
+    
+    // Core automation loop
+    while (true) {
+        // Step 1: Simulate Live Streaming / Activity updates
+        bot.isStreaming = !bot.isStreaming; 
+        if (bot.isStreaming) {
+            bot.currentStatus = "Streaming AI Models on Space";
         } else {
-            std::cerr << "[ERROR] Bot ID " << appId << ": " << curl_easy_strerror(res) << std::endl;
+            bot.currentStatus = "Analyzing GitHub Repositories";
         }
-        curl_easy_cleanup(curl);
+
+        std::cout << "[🌐 " << bot.botName << "] Status Changed -> \"" << bot.currentStatus << "\"\n";
+
+        // Step 2: Handle GitHub Space Automation (Checking apps/configs)
+        std::cout << "[🤖 " << bot.botName << "] Checking automated app spaces for updates...\n";
+        
+        // Anti-Spam Safe Delay: Sleep for 15 seconds before the next organic action
+        // This keeps the bot active 24/7 without triggering Discord/GitHub rate limits
+        std::this_thread::sleep_for(std::chrono::seconds(15));
     }
 }
 
 int main() {
-    std::cout << "Starting Spotify Automation for CL40 World Space..." << std::endl;
-    
-    // IDs execution loop
-    std::vector<std::string> botIds = {
-        "1510466709553676358", "1514809496449581086", "1548216811529441351",
-        "1548227968826867774", "1548236495402438736", "1548243574385279038",
-        "1548247941482025030", "1549115620270809160", "1550373414550769715"
-        // Loads from list directly
+    std::cout << "==================================================\n";
+    std::cout << "   AUTONOMOUS AI AGENCY BOT SPACE - CORE ENGINE   \n";
+    std::cout << "==================================================\n";
+
+    // Vector to store your multiple Bot configurations
+    std::vector<AIBot> agencyBots = {
+        {"TOKEN_XYZ_1", "CL40_Alpha_Bot", "Idle", true},
+        {"TOKEN_XYZ_2", "CL40_Beta_Bot", "Idle", false},
+        {"TOKEN_XYZ_3", "CL40_Gamma_Bot", "Idle", true}
     };
 
-    for(const auto& id : botIds) {
-        triggerStream(id);
+    // Thread pool to run all bots concurrently (Live & Independent)
+    std::vector<std::thread> botThreads;
+
+    for (const auto& bot : agencyBots) {
+        // Deploying each bot on a dedicated asynchronous thread
+        botThreads.push_back(std::thread(runBotAgent, bot));
+    }
+
+    // Join threads to keep the engine running continuously
+    for (auto& th : botThreads) {
+        if (th.joinable()) {
+            th.join();
+        }
     }
 
     return 0;
