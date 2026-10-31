@@ -1,0 +1,56 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/profile/profile"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "CL40 World Australia Architecture",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#FF0000",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "Home"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "Profile"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 5000,
+    "downloadFile": 5000
+  },
+  "style": "v2",
+  "expo": {
+    "name": "CL40 World Platform AU",
+    "slug": "cl40-world-platform-au",
+    "ios": {
+      "associatedDomains": ["appclips.cl40.world"],
+      "bundleIdentifier": "world.cl40.au.clip"
+    },
+    "android": {
+      "package": "world.cl40.au.app",
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "data": {
+            "scheme": "https",
+            "host": "cl40.world",
+            "pathPrefix": "/au"
+          },
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ]
+    }
+  }
+}
