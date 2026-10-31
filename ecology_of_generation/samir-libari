@@ -1,0 +1,49 @@
+import time
+from typing import Dict, Any
+
+class EcologyOfGeneration:
+    """
+    Ecology of Generation Module by Samir Libari.
+    Manages resources, adaptation, and ecosystem cycles for hybrid architectures.
+    """
+    def __init__(self, repo_owner: str = "samir-libari"):
+        self.owner = repo_owner
+        self.generation_cycle = 0
+        self.ecosystem_state = "Balanced"
+
+    def calculate_resource_impact(self, energy_input: float, diversity_index: float) -> Dict[str, Any]:
+        """
+        Calculates how the hybrid generation impacts the digital ecology.
+        """
+        # A simple hybrid logic formula for sustainability
+        sustainability_score = (diversity_index * 1.5) - (energy_input * 0.4)
+        
+        if sustainability_score < 0:
+            self.ecosystem_state = "Degraded"
+        elif sustainability_score > 5.0:
+            self.ecosystem_state = "Thriving"
+        else:
+            self.ecosystem_state = "Balanced"
+
+        return {
+            "owner": self.owner,
+            "cycle": self.generation_cycle,
+            "sustainability_score": round(sustainability_score, 2),
+            "status": self.ecosystem_state,
+            "timestamp": time.time()
+        }
+
+    def evolve_generation(self):
+        """Advances the ecological generation cycle."""
+        self.generation_cycle += 1
+        return f"Generation cycle advanced to: {self.generation_cycle}"
+
+# Quick initial run for testing the engine
+if __name__ == "__main__":
+    ecology_engine = EcologyOfGeneration()
+    print("--- Initializing Samir Libari's Hybrid System ---")
+    print(ecology_engine.evolve_generation())
+    
+    # Simulating hybrid input variables
+    report = ecology_engine.calculate_resource_impact(energy_input=2.5, diversity_index=4.2)
+    print(f"System State: {report}")
