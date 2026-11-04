@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "publisher": "Chico Loco 40",
+  "total_zones": 12,
+  "excluded_regions": [],
+  "allowed_zones": [
+    { "zone_id": 1, "region": "North America", "status": "active", "dns_routing": "anycast" },
+    { "zone_id": 2, "region": "United Kingdom (English)", "status": "active", "dns_routing": "anycast" },
+    { "zone_id": 3, "region": "Europe North", "status": "active", "dns_routing": "anycast" },
+    { "zone_id": 4, "region": "Asia Pacific", "status": "active", "dns_routing": "anycast" },
+    { "zone_id": 5, "region": "Americas Hub", "status": "active", "dns_routing": "anycast" },
+    { "zone_id": 6, "region": "Global Anycast", "dns_routing": "anycast" },
+    { "zone_id": 7, "region": "Europe West Node", "status": "active", "dns_routing": "anycast" },
+    { "zone_id": 8, "region": "World Transit", "status": "active", "dns_routing": "anycast" },
+    { "zone_id": 9, "region": "Asia East Cluster", "status": "active", "dns_routing": "anycast" },
+    { "zone_id": 10, "region": "Global Crossway", "status": "active", "dns_routing": "anycast" },
+    { "zone_id": 11, "region": "English", "status": "active", "dns_routing": "anycast" },
+    { "zone_id": 12, "region": "North America Extended", "status": "active", "dns_routing": "anycast" }
+  ]
+}
