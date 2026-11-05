@@ -1,0 +1,4 @@
+curl -X POST "https://enterprise.shoppingscraper.com/v2/channel/amazon/offers" \
+  -H "X-API-Key: YOUR_ENTERPRISE_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{ "country": "nl", "items": ["B0DX21CJHM", {"ean":"5702017416663"}, {"asin":"B0CXJ9GM3G"}] }'
