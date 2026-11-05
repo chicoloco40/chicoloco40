@@ -1,0 +1,12 @@
+{
+  "accepted": 0,
+  "billed": 0,
+  "customer_id": "playground-8927c770bebdbb43",
+  "invalid": [],
+  "rejected": [
+    {
+      "ean": "B00BLHX6J8",
+      "reason": "invalid_ean: bol works in GTIN-13 (accepts GTIN-8/12/13 and a zero-padded GTIN-14, not a case-level GTIN-14)"
+    }
+  ]
+}
