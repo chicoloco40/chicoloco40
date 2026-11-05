@@ -1,0 +1,4 @@
+curl -X POST "https://enterprise.shoppingscraper.com/v2/channel/bol/offers" \
+  -H "X-API-Key: YOUR_ENTERPRISE_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{ "country": "nl", "items": [{"ean":"5702017416663"}, {"sku":"9200000073666630"}, {"ean":"8720169230033","sku":"9300000179002285"}] }'
