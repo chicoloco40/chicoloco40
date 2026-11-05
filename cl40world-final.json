@@ -1,0 +1,2 @@
+curl "https://enterprise.shoppingscraper.com/v2/channel/bol/results?limit=1000" \
+  -H "X-API-Key: YOUR_ENTERPRISE_KEY"
