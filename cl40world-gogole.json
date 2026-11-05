@@ -1,0 +1,2 @@
+curl "https://enterprise.shoppingscraper.com/v2/channel/google/status" \
+  -H "X-API-Key: YOUR_ENTERPRISE_KEY"
