@@ -1,6 +1,6 @@
 <img width="300" height="123" alt="__A__Sales_Projects_______B__CL40_World_Dashboard__" src="https://github.com/user-attachments/assets/470f432a-2657-4d8a-b1a8-6cbf02e8b641" />
 
-# 🜏 Chico Loco 40 / Samir Libari — Official Public Artist and Label Major (P2P) CL40 World & WR Beats & CL40 World Space - Fack You Independent.
+# 🜏 Chico Loco 40 / Samir Libari — Official Public Artist and Label Major (TGT) CL40 World & WR Beats & CL40 World Space - Fack You Independent.
 
 • 
 "Automated Autonomous AI Agent Network for Discord & GitHub. Live orchestration, continuous stream management, and smart space tracking inspired by CL40 World architecture. Built in C++ under MIT License."
