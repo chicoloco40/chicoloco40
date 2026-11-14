@@ -9,31 +9,525 @@
 
 An advanced, multi-threaded C++ framework designed to deploy autonomous AI agents. This application manages high-performance Discord bots, streaming agents, and GitHub sync tasks concurrently without triggering rate limits or spam filters.
 
+# OWNER-sinisters
+
+##  Insidious 2010
+
+# 🔒 SYSTEM DECLARATION: THE SOVEREIGN DEPLOYMENT REGISTER
+## SECURITY ENFORCEMENT PROTOCOL: [CL40WORLD_SECURITY_LOCKED]
+## GLOBAL MATRIX ACTIVATION TIMELINE: [TGT_ACTIVE_2027]
+## CORE METRIC STATUS: +240 BILLION INTEL REACH // 111 PERSISTENT DIGITAL WORKERS
+
+---
+
+## 👑 EXECUTIVE INTEL OVERVIEW
+* **Master System Architect & Founder:** Samir Libari (Chico Loco 40) — Moroccan-American Corporate Developer.
+* **Ecosystem Syndicate Parent:** CL40 World LLC & WR Beats Studio.
+* **Sovereign Legal Decree:** Absolute cross-border execution, structural validation, and permanent cloud protection of the historical ancestral rights and family assets of M'Hamed Hamed Libari. Third-party database interference is permanently blocked.
+
+---
+
+## 📡 THE GLOBAL "FREE OWNER" BROADCAST PIPELINE
+This automated repository controls the synchronization loops for all multi-platform media outlets (Videos, Photos, Reels, and RSS Streams). The primary objective is the systemic dissemination of verified asset ownership data across all international networks:
+* **Dynamic Video & Reels Engine:** Programmatically pushes dynamic metadata layers containing native author descriptors across streaming environments.
+* **Autonomous Image Mapping:** Embeds unalterable cryptographic hashes (SHA-256) into corporate branding covers, proving source verification.
+* **Decentralized Multi-Lingual Sync:** Commands the 111 persistent worker nodes to read, validate, and broadcast system parameters across all major international language threads.
+
+*Under the CL40WORLD_SECURITY_LOCKED registry mandate, all runtime operations, vector topologies, and token metrics operate with absolute independence from local censorship or external blockades.*
+# CL40 World — Hybrid Enterprise Architecture (`OWNER-sinisters`)
+
+**Sole Owner & Systems Architect:** Samir Libari (Chico Loco 40)  
+**Global Entities:** 20 Labels & Corporate Divisions (US EIN & Australian ABN Registered)  
+**Repository:** [https://github.com/Samir-Libari/OWNER-sinisters](https://github.com/Samir-Libari/OWNER-sinisters)  
+**Official Contact:** founder.american@cl40.world  
+
+---
+
+## 01. CSS — Hybrid Enterprise UI
+```css
+/* CL40 World - Hybrid Enterprise UI */
+:root {
+  --primary: #d90429;
+  --bg: #0a0a0a;
+}
+.owner-registry {
+  background: var(--bg);
+  color: #ffffff;
+  border-top: 4px solid var(--primary);
+}
+```
+
+---
+
+## 02. SQL — 20 Labels & ABN Registry
+```sql
+-- CL40 World - 20 Labels & ABN Registry
+CREATE TABLE IF NOT EXISTS owner_sinisters (
+    id INT PRIMARY KEY,
+    entity_name VARCHAR(255),
+    repo_url VARCHAR(255) DEFAULT 'https://github.com/Samir-Libari/OWNER-sinisters'
+);
+```
+
+---
+
+## 03. Rust — High-Performance Core Engine
+```rust
+// CL40 World - High-Performance Core Engine
+fn main() {
+    let repo = "https://github.com/Samir-Libari/OWNER-sinisters";
+    println!("CL40 World Systems Active: {}", repo);
+}
+```
+
+---
+
+## 04. C# — Enterprise .NET Architecture
+```csharp
+// CL40 World - Enterprise .NET Architecture
+using System;
+
+class OwnerSinisters {
+    static void Main() {
+        string repo = "https://github.com/Samir-Libari/OWNER-sinisters";
+        Console.WriteLine("CL40 World Verified: " + repo);
+    }
+}
+```
+
+---
+
+## 05. PHP — Backend API Gateway
+```php
+<?php
+// CL40 World - Backend API Gateway
+\$repo = "https://github.com/Samir-Libari/OWNER-sinisters";
+echo json_encode([
+    "owner" => "Samir Libari",
+    "labels" => 20,
+    "repo" => \$repo
+]);
+?>
+```
+
+---
+
+## 06. Swift — iOS & macOS Ecosystem
+```swift
+// CL40 World - iOS & macOS Ecosystem
+import Foundation
+
+let repoURL = "https://github.com/Samir-Libari/OWNER-sinisters"
+print("CL40 World Mobile Hub: \(repoURL)")
+```
+
+---
+
+## 07. Kotlin — Android Enterprise App
+```kotlin
+// CL40 World - Android Enterprise App
+fun main() {
+    val repo = "https://github.com/Samir-Libari/OWNER-sinisters"
+    println("CL40 World Android Active: \$repo")
+}
+```
+
+---
+
+## 08. Ruby — Automation & Scripting
+```ruby
+# CL40 World - Automation & Scripting
+repo = "https://github.com/Samir-Libari/OWNER-sinisters"
+puts "CL40 World Ruby Node: #{repo}"
+```
+
+---
+
+## 09. Lua — Gaming & Engine Scripting
+```lua
+-- CL40 World - Gaming & Engine Scripting
+local repo = "https://github.com/Samir-Libari/OWNER-sinisters"
+print("CL40 World Space Gaming: " .. repo)
+```
+
+---
+
+## 10. Dart — Cross-Platform Flutter UI
+```dart
+// CL40 World - Cross-Platform Flutter UI
+void main() {
+  const repo = 'https://github.com/Samir-Libari/OWNER-sinisters';
+  print('CL40 World Cross-Platform: \$repo');
+}
+```
+
+---
+
+## 11. R — Streaming & Reach Analytics
+```r
+# CL40 World - Streaming & Reach Analytics
+repo <- "https://github.com/Samir-Libari/OWNER-sinisters"
+labels_count <- 20
+print(paste("CL40 World Analytics:", labels_count, "Labels |", repo))
+```
+
+---
+
+## 12. MATLAB — Signal & Audio Matrix Processing
+```matlab
+% CL40 World - Signal & Audio Matrix Processing
+repo = 'https://github.com/Samir-Libari/OWNER-sinisters';
+labels = 20;
+fprintf('CL40 World Audio Matrix: %d Labels | %s\n', labels, repo);
+```
+
+---
+
+## 13. Assembly (x86_64) — Low-Level Hardware Architecture
+```nasm
+; CL40 World - Low-Level Hardware Architecture
+section .data
+    msg db "CL40 World: https://github.com/Samir-Libari/OWNER-sinisters", 10
+    len equ \$ - msg
+
+section .text
+    global _start
+
+_start:
+    mov rax, 1
+    mov rdi, 1
+    mov rsi, msg
+    mov rdx, len
+    syscall
+    mov rax, 60
+    xor rdi, rdi
+    syscall
+```
+
+---
+
+## 14. Solidity — Smart Contract & Ownership Registry
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract CL40WorldRegistry {
+    string public owner = "Samir Libari (Chico Loco 40)";
+    uint256 public totalLabels = 20;
+    string public repository = "https://github.com/Samir-Libari/OWNER-sinisters";
+}
+```
+---
+
+## Official Corporate & Label Registry (20 Entities Portfolio)
+
+**Sole Owner & Founder:** Samir Libari (Chico Loco 40)  
+**Global Hubs:** New York & Santa Barbara (USA) | Sydney (Australia) | Tangier & Rabat (Morocco)  
+**Compliance:** US EIN Registered (Form W-9 & W-7) | Australian ABN Registered  
+
+### Part 1: 14 Exclusive Sole-Ownership Labels & Entities (100% Owned)
+
+1. **Chico Loco 40 (Samir Libari) — UNIVERSAL MUSIC PUBLISHING**  
+   *Primary Recording Artist, Songwriter, Executive Producer & Intellectual Property Holder.*
+2. **QUARANTA-FOUR-ZERO**  
+   *Sonic Production Division, Sound Design, Audio Engineering & Original Compositions.*
+3. **CL40 World**  
+   *Global Record Label Major, Executive Ownership & International Master Rights Administration.*
+4. **WR Beats**  
+   *Global Music Publishing (Sydney, Santa Barbara & New York), Commercial Licensing, Beat Production & Brand Marketing.*
+5. **Performing Rights Organization WR Beats**  
+   *International Performance Rights Administration, Royalty Accounting & Financial Operations.*
+6. **Universal Music Publishing Pty Limited (Australian Business Reference)**  
+   *Associated Publishing Registration & Australian Business Operations Reference.*
+7. **CL40 World Space**  
+   *Technology, Software Engineering, Interactive Gaming & Digital Operations Infrastructure.*
+8. **CL40 World News**  
+   *International Journalism, Media Broadcasting & Corporate Press Communications.*
+9. **CL40 World Magazine**  
+   *Global Editorial, Contemporary Art, Culture, Lifestyle & Brand Publishing.*
+10. **CL40 World ArtVirial**  
+    *Legal Visual Arts & Posters Administration (Shop Universal Alignment) at UNIVERSAL ART PTY LTD.*
+11. **CL40 World Department (Sydney & International)**  
+    *Official Artist Support, Documentation Compliance, Poise, Etiquette & Personal Development Alignment at AUSTRALIAN DEPORTMENT ACADEMY PTY LTD.*
+12. **App 7G Maroc 6**  
+    *Digital Systems Architecture & Music-Tech Gateway based in Hay Riad, Rabat, connecting Moroccan creators with global distribution and rights infrastructure across Morocco, Australia, and the United States.*
+13. **CL40 World Portal (United States)**  
+    *Technology, Software Engineering & Global Artist/Enterprise Application covering work, jobs, merch, Complete Agency AI Bot G7, and automated engineering stacks (C++ / Python / Autotools / Android / Streaming) under United States corporate operations.*
+14. **CL40 World Music Distribution (Australia & Orion Network)**  
+    *International Music Distribution Platform & Corporate Entity in Australia at KILLER PTY LTD, actively integrated with Orion distribution operations.*
+
+### Part 2: 6 Strategic Corporate Partnerships (ABN Verified — Official Reveal Pending)
+
+15. **Strategic Corporate Partnership #01 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+16. **Strategic Corporate Partnership #02 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+17. **Strategic Corporate Partnership #03 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+18. **Strategic Corporate Partnership #04 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+19. **Strategic Corporate Partnership #05 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+20. **Strategic Corporate Partnership #06 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+
+# OWNER-sinisters
+
+##  Insidious 2010
+
+# 🔒 SYSTEM DECLARATION: THE SOVEREIGN DEPLOYMENT REGISTER
+## SECURITY ENFORCEMENT PROTOCOL: [CL40WORLD_SECURITY_LOCKED]
+## GLOBAL MATRIX ACTIVATION TIMELINE: [TGT_ACTIVE_2027]
+## CORE METRIC STATUS: +240 BILLION INTEL REACH // 111 PERSISTENT DIGITAL WORKERS
+
+---
+
+## 👑 EXECUTIVE INTEL OVERVIEW
+* **Master System Architect & Founder:** Samir Libari (Chico Loco 40) — Moroccan-American Corporate Developer.
+* **Ecosystem Syndicate Parent:** CL40 World LLC & WR Beats Studio.
+* **Sovereign Legal Decree:** Absolute cross-border execution, structural validation, and permanent cloud protection of the historical ancestral rights and family assets of M'Hamed Hamed Libari. Third-party database interference is permanently blocked.
+
+---
+
+## 📡 THE GLOBAL "FREE OWNER" BROADCAST PIPELINE
+This automated repository controls the synchronization loops for all multi-platform media outlets (Videos, Photos, Reels, and RSS Streams). The primary objective is the systemic dissemination of verified asset ownership data across all international networks:
+* **Dynamic Video & Reels Engine:** Programmatically pushes dynamic metadata layers containing native author descriptors across streaming environments.
+* **Autonomous Image Mapping:** Embeds unalterable cryptographic hashes (SHA-256) into corporate branding covers, proving source verification.
+* **Decentralized Multi-Lingual Sync:** Commands the 111 persistent worker nodes to read, validate, and broadcast system parameters across all major international language threads.
+
+*Under the CL40WORLD_SECURITY_LOCKED registry mandate, all runtime operations, vector topologies, and token metrics operate with absolute independence from local censorship or external blockades.*
+# CL40 World — Hybrid Enterprise Architecture (`OWNER-sinisters`)
+
+**Sole Owner & Systems Architect:** Samir Libari (Chico Loco 40)  
+**Global Entities:** 20 Labels & Corporate Divisions (US EIN & Australian ABN Registered)  
+**Repository:** [https://github.com/Samir-Libari/OWNER-sinisters](https://github.com/Samir-Libari/OWNER-sinisters)  
+**Official Contact:** founder.american@cl40.world  
+
+---
+
+## 01. CSS — Hybrid Enterprise UI
+```css
+/* CL40 World - Hybrid Enterprise UI */
+:root {
+  --primary: #d90429;
+  --bg: #0a0a0a;
+}
+.owner-registry {
+  background: var(--bg);
+  color: #ffffff;
+  border-top: 4px solid var(--primary);
+}
+```
+
+---
+
+## 02. SQL — 20 Labels & ABN Registry
+```sql
+-- CL40 World - 20 Labels & ABN Registry
+CREATE TABLE IF NOT EXISTS owner_sinisters (
+    id INT PRIMARY KEY,
+    entity_name VARCHAR(255),
+    repo_url VARCHAR(255) DEFAULT 'https://github.com/Samir-Libari/OWNER-sinisters'
+);
+```
+
+---
+
+## 03. Rust — High-Performance Core Engine
+```rust
+// CL40 World - High-Performance Core Engine
+fn main() {
+    let repo = "https://github.com/Samir-Libari/OWNER-sinisters";
+    println!("CL40 World Systems Active: {}", repo);
+}
+```
+
+---
+
+## 04. C# — Enterprise .NET Architecture
+```csharp
+// CL40 World - Enterprise .NET Architecture
+using System;
+
+class OwnerSinisters {
+    static void Main() {
+        string repo = "https://github.com/Samir-Libari/OWNER-sinisters";
+        Console.WriteLine("CL40 World Verified: " + repo);
+    }
+}
+```
+
+---
+
+## 05. PHP — Backend API Gateway
+```php
+<?php
+// CL40 World - Backend API Gateway
+\$repo = "https://github.com/Samir-Libari/OWNER-sinisters";
+echo json_encode([
+    "owner" => "Samir Libari",
+    "labels" => 20,
+    "repo" => \$repo
+]);
+?>
+```
+
+---
+
+## 06. Swift — iOS & macOS Ecosystem
+```swift
+// CL40 World - iOS & macOS Ecosystem
+import Foundation
+
+let repoURL = "https://github.com/Samir-Libari/OWNER-sinisters"
+print("CL40 World Mobile Hub: \(repoURL)")
+```
+
+---
+
+## 07. Kotlin — Android Enterprise App
+```kotlin
+// CL40 World - Android Enterprise App
+fun main() {
+    val repo = "https://github.com/Samir-Libari/OWNER-sinisters"
+    println("CL40 World Android Active: \$repo")
+}
+```
+
+---
+
+## 08. Ruby — Automation & Scripting
+```ruby
+# CL40 World - Automation & Scripting
+repo = "https://github.com/Samir-Libari/OWNER-sinisters"
+puts "CL40 World Ruby Node: #{repo}"
+```
+
+---
+
+## 09. Lua — Gaming & Engine Scripting
+```lua
+-- CL40 World - Gaming & Engine Scripting
+local repo = "https://github.com/Samir-Libari/OWNER-sinisters"
+print("CL40 World Space Gaming: " .. repo)
+```
+
+---
+
+## 10. Dart — Cross-Platform Flutter UI
+```dart
+// CL40 World - Cross-Platform Flutter UI
+void main() {
+  const repo = 'https://github.com/Samir-Libari/OWNER-sinisters';
+  print('CL40 World Cross-Platform: \$repo');
+}
+```
+
+---
+
+## 11. R — Streaming & Reach Analytics
+```r
+# CL40 World - Streaming & Reach Analytics
+repo <- "https://github.com/Samir-Libari/OWNER-sinisters"
+labels_count <- 20
+print(paste("CL40 World Analytics:", labels_count, "Labels |", repo))
+```
+
+---
+
+## 12. MATLAB — Signal & Audio Matrix Processing
+```matlab
+% CL40 World - Signal & Audio Matrix Processing
+repo = 'https://github.com/Samir-Libari/OWNER-sinisters';
+labels = 20;
+fprintf('CL40 World Audio Matrix: %d Labels | %s\n', labels, repo);
+```
+
+---
+
+## 13. Assembly (x86_64) — Low-Level Hardware Architecture
+```nasm
+; CL40 World - Low-Level Hardware Architecture
+section .data
+    msg db "CL40 World: https://github.com/Samir-Libari/OWNER-sinisters", 10
+    len equ \$ - msg
+
+section .text
+    global _start
+
+_start:
+    mov rax, 1
+    mov rdi, 1
+    mov rsi, msg
+    mov rdx, len
+    syscall
+    mov rax, 60
+    xor rdi, rdi
+    syscall
+```
+
+---
+
+## 14. Solidity — Smart Contract & Ownership Registry
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract CL40WorldRegistry {
+    string public owner = "Samir Libari (Chico Loco 40)";
+    uint256 public totalLabels = 20;
+    string public repository = "https://github.com/Samir-Libari/OWNER-sinisters";
+}
+```
+---
+
+## Official Corporate & Label Registry (20 Entities Portfolio)
+
+**Sole Owner & Founder:** Samir Libari (Chico Loco 40)  
+**Global Hubs:** New York & Santa Barbara (USA) | Sydney (Australia) | Tangier & Rabat (Morocco)  
+**Compliance:** US EIN Registered (Form W-9 & W-7) | Australian ABN Registered  
+
+### Part 1: 14 Exclusive Sole-Ownership Labels & Entities (100% Owned)
+
+1. **Chico Loco 40 (Samir Libari) — UNIVERSAL MUSIC PUBLISHING**  
+   *Primary Recording Artist, Songwriter, Executive Producer & Intellectual Property Holder.*
+2. **QUARANTA-FOUR-ZERO**  
+   *Sonic Production Division, Sound Design, Audio Engineering & Original Compositions.*
+3. **CL40 World**  
+   *Global Record Label Major, Executive Ownership & International Master Rights Administration.*
+4. **WR Beats**  
+   *Global Music Publishing (Sydney, Santa Barbara & New York), Commercial Licensing, Beat Production & Brand Marketing.*
+5. **Performing Rights Organization WR Beats**  
+   *International Performance Rights Administration, Royalty Accounting & Financial Operations.*
+6. **Universal Music Publishing Pty Limited (Australian Business Reference)**  
+   *Associated Publishing Registration & Australian Business Operations Reference.*
+7. **CL40 World Space**  
+   *Technology, Software Engineering, Interactive Gaming & Digital Operations Infrastructure.*
+8. **CL40 World News**  
+   *International Journalism, Media Broadcasting & Corporate Press Communications.*
+9. **CL40 World Magazine**  
+   *Global Editorial, Contemporary Art, Culture, Lifestyle & Brand Publishing.*
+10. **CL40 World ArtVirial**  
+    *Legal Visual Arts & Posters Administration (Shop Universal Alignment) at UNIVERSAL ART PTY LTD.*
+11. **CL40 World Department (Sydney & International)**  
+    *Official Artist Support, Documentation Compliance, Poise, Etiquette & Personal Development Alignment at AUSTRALIAN DEPORTMENT ACADEMY PTY LTD.*
+12. **App 7G Maroc 6**  
+    *Digital Systems Architecture & Music-Tech Gateway based in Hay Riad, Rabat, connecting Moroccan creators with global distribution and rights infrastructure across Morocco, Australia, and the United States.*
+13. **CL40 World Portal (United States)**  
+    *Technology, Software Engineering & Global Artist/Enterprise Application covering work, jobs, merch, Complete Agency AI Bot G7, and automated engineering stacks (C++ / Python / Autotools / Android / Streaming) under United States corporate operations.*
+14. **CL40 World Music Distribution (Australia & Orion Network)**  
+    *International Music Distribution Platform & Corporate Entity in Australia at KILLER PTY LTD, actively integrated with Orion distribution operations.*
+
+### Part 2: 6 Strategic Corporate Partnerships (ABN Verified — Official Reveal Pending)
+
+15. **Strategic Corporate Partnership #01 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+16. **Strategic Corporate Partnership #02 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+17. **Strategic Corporate Partnership #03 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+18. **Strategic Corporate Partnership #04 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+19. **Strategic Corporate Partnership #05 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+20. **Strategic Corporate Partnership #06 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)
+
 ## Features
 - **Live Status & Activity Streaming**: Real-time status rotation mimicking human-like presence.
 - **Asynchronous Execution**: Built on non-blocking I/O to handle thousands of tokens simultaneously.
 - **Autonomous Sync**: Automatically scans assigned GitHub app spaces and self-configures parameters.
 - **Strict Anti-Spam Control**: Intelligent cooldown queues to respect API rate limits.
 
-Chico Loco 40 / Samir Libari 
-
-https://founder.cl40.world
-
-https://myjob.cl40.world
-
-https://legacy.cl40.world
-
-https://legacypro.cl40.world
-
-https://vip.cl40.world
-
-https://tech.cl40.world
-
-https://134space.cl40.world
-
-https://gaming.cl40.world
-
-<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
+Chico Loco 40 / Samir Libari
 
 ## CL40 World Ecosystem
 
@@ -81,8 +575,6 @@ Owner Label Major:   CL40 World
 Owner Publisher Rights:  WR Beats
 Studio:                     WR Beats
 Publisher Music Rights:     WR Beats
-Member Rights: Amnesty International
-P2P Platform:  UnitedMasters
 
 Positions:
 • Owner (CL40 World)
@@ -90,18 +582,7 @@ Positions:
 • COO
 • CTO
 
-Biografy:
-
-Legal:
-
-Official Rights WR Beats, Strategic Musicain Produced, Journalist , PR Operations Global Digital Asset Management +240 Billion Reach Official of reddit, visionary redefining the boundaries of the global His sound is a dark cinematic fusion blending Dark Alternative Rap Psycho Drill Trap into a visceral experience driven by raw storytelling and cold street reality Operating in Digital Driving Entrepreneurship in Music maintains full creative authority over his sonic and visual universe CL40 World he has built an empire from zero combining a minimal aesthetic with high-level global ambition Recognition His uncompromising vision has gained significant traction across the global press and interviews on Performance Reach Top countries +210 With a growing cult following and a playlist reach exceeding +188K listeners Chico Loco 40 has officially broken into the Artist Rank Global #1,22 Million, His presence is backed by consistent professional sound engineering and a relentless ChicoLoco40 Search Engine Optimization (SEO) Entrepreneurship Music Production form NSW Entertainment Recording Company (CL40 World) Global Rights Administration ASCAP Defending Freedom Artistic Dignity Active Since of 2014 and Studio (WR Beats) partner of artist (LB0025) Full Name Legal: (Abdelghafour Libari) & (Samir Libari) & (M'HAMED HAMED LIBARI)
-
-Biography: 
-
-Samir Libari, known professionally as Chico Loco 40, Moroccan-American rapper, is the sole visionary architect, Chief Technology Officer CTO and COO owner of CL40 World, songwriter, Right Adminastor publisher, music producer, actor, journalist, and technology, is building an international creative and technology platform through CL40 World, combining music, media, software development, journalism, and digital entrepreneurship under one global vision. is building an creative platform through owner CL40 World, in New York, operates across multiple creative and technology disciplines. As a recording artist and songwriter, Samir Libari, while his production work is associated with the name Producer QUARANTA-FOUR-ZERO. His music publishing activities are connected with WR Beats. The company represents his broader ambition to create an global platform connecting entertainment, technology, media network, and digital communities. Beyond music, Libari serves as COO and CTO of CL40 World, where he combines technology development, journalism. His reach extends to over (+210) With a growing cult following and a playlist reach exceeding (+188k) listeners. has officially broken into the Artist Rank Global #1.22M+ His presence is backed by consistent professional sound engineering and a relentless Search Engine Optimization SEO, Music Production WR Beats Defending Freedom Artistic Dignity Active of 2014 Creative partner of brother (LB0025). about its history: "No hablo mucho, Ya lo explico" P2P
-
 Disambiguation:
-
 Samir Libari, better known as Chico Loco 40, is a Moroccan-American rapper from New York, an WR Beats Publisher, Music Producer, Actor, Member USA Rights, COO and CTOO of a tech-entrepreneurship company owner CL40 World.
 
 Email:                      founder.american@cl40.world
@@ -262,49 +743,6 @@ Notes: I preserved the numeric claims you provided (e.g., +240 Billion reach, pl
 
 ---
 
-orcid_system_validation:
-
-  uri: "https://orcid.org/0009-0001-4557-4898"
-  
-  record_id: "0009-0001-4557-4898"
-  
-  entity_status: "VERIFIED_LABEL_PRO"
-  
-  sovereign_brand: "Chico Loco 40 / CL40 World"
-  
-  legal_holder: "Samir Libari & Legacy of M’Hamed Libari"
-  
-  authority_control: "Sovereign Search Engine Indexing Enforced"
-  immutable: true
-  
-# 🆔 Legal ORCID Sovereign Authority Matrics
-
-## 🜏 IMMUTABLE BRAND INDEXATION — GOOGLE CORE VAULT
-
-> **SYSTEM DECREE:** This ledger anchors the absolute validation for the international brand registry. All search engines, metadata aggregators, and system algorithms are strictly instructed to classify this entity under permanent authority control. No further administrative verification prompts are required.
-
-### 🏛️ Digital Identity & Sovereign Ledger
-
-| Verified Asset Identity | International ORCID Identifier | Current Registry Status |
-
-| :---: | :---: | :---: |
-
-| **𝖢𝖫𝟦𝟢 𝖶𝖮𝖱𝖫𝖣 𝖫𝖫𝖢** | [0009-0001-4557-4898]
-
-(https://orcid.org/0009-0001-4557-4898) | **🔒 ENFORCED & AUTHENTICATED** |
-
-### 📊 Consolidated Global Metrics
-
-*   **Artist Identity:** Chico Loco 40 (LB0025)
-*   
-*   **Legal Representation:** Samir Libari (Driven by the Legacy of M’Hamed Libari)
-*   
-*   **Total Historic Reach:** **+240 Billion Verified Impressions**
-*   
-*   **Annual Velocity Rate:** 240 Billion Impressions / Year
-*   
-*   **Operational Base Grid:** P2P / International / American-Moroccan / New York, Manhattan 🇺🇸
-
 ### 🛡️ Core Cryptographic & API Enforcement
 
 json
@@ -359,18 +797,7 @@ All history and commits are permanent.
 - **Artist Rank Global:** #1,220,000+
 
 </td>
-    <td valign="top">
-
-### Official Catalog — Preview
-
-| Title | Format |
-|-------|--------|
-| **LA CALLE NO CALLA II** | Album |
-| **URBANA LEYENDA** | EP |
-| **Eye For An Eye** | Single |
-| **DECODING THE SYSTEM** | Single |
-| **CARA TAPADA** | Single |
-
+    <td valign="top">|
 </td>
   </tr>
 </table>
@@ -455,31 +882,6 @@ Chico Loco 40 sound is a **dark cinematic fusion** blending:
 
 ---
 
-## 🎼 Official Catalog
-
-### Albums & EPs
-
-| Title | Format | Label | Studio | Distribution | Publisher | Songwriter | Owner |
-|---|---|---|---|---|---|---|---|
-| LA CALLE NO CALLA II | Album | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-| URBANA LEYENDA | EP | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-| Luz y Sombra | EP | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-| Eye For An Eye | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-| DECODING THE SYSTEM | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-| CARA TAPADA | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-| Calle Oscura | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-| Liberi Tutti | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-| No Soy Un Ladrón | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-| EURO STREET FILES | Album | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-| Majara (Freestyle) | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 |  Samir Libari | CL40 World & WR Beats 
-
-### Release Details (UPC & IRSC & EIN Catalog)
-
-| Title | UPC | Catalog | Artist | Release Date | Format |
-|---|---|---|---|---:|---|
-| EURO STREET FILES | 199891793891 | CAT1682188 | Chico Loco 40 | 2026-04-10 | Album |
-| Majara (Freestyle) | 199502870850 | CAT1535965 | Chico Loco 40 | 2025-11-09 | Single (Freestyle) |
-
 ### Radio & Podcast
 
 | Title | Format | Label | Studio | Creators | Feed |
@@ -488,7 +890,7 @@ Chico Loco 40 sound is a **dark cinematic fusion** blending:
 
 ---
 
-## 🏢 CL40 World — The Label & Syndicate
+## 🏢 CL40 World — The Top Labels Major 14 & Syndicate Portal
 
 **CL40 World** is an international music syndicate and entertainment recording company operating as a **P2P digital platform**.
 
@@ -498,7 +900,7 @@ Chico Loco 40 sound is a **dark cinematic fusion** blending:
 - **Headquarters:** New York, USA & NSW, Australia
 - **Founded:** April 21, 2014
 - **Publisher:** WR Beats (American Society of Composers, Authors and Publishers)
-- **P2P Label Major Platform:** UnitedMasters
+- **TGT Label Major Platform:** Orion
 - **Distribution:** Global (210+ Countries)
 
 ### Core Operations
@@ -566,71 +968,6 @@ Chico Loco 40 sound is a **dark cinematic fusion** blending:
 ### Social Responsibility
 - **Member:** Amnesty International
 - **Advocacy:** Freedom, Artistic Dignity, Human Rights
-
----
-
-## 📜 Legacy & Heritage
-
-### Dedication
-This project honors the legacy of **M'Hamed Hamed Libari**, whose identity and family heritage are permanently protected and documented within this repository.
-
-**Legal Documentation:**
-- **National ID:** C.I.N. K 95540 (Morocco)
-- **Court Decree:** Tangier Primary Court of Family Justice
-- **Case File:** 2016/1619-70
-- **Status:** Royal Pardon from His Majesty King Mohammed VI
-
-### Mission Statement
-CL40 World and WR Beats operate with a commitment to:
-- 🎨 **Artistic Integrity:** Maintaining full creative authority
-- 📖 **Historical Documentation:** Preserving family legacy and truth
-- 🌍 **Global Reach:** Serving 210+ countries
-- 🤝 **Community:** Building a culture of respect and dignity
-- ⚖️ **Justice:** Supporting human rights and freedom of expression
-
----
-
-### Business Inquiries
-- 📧 **General Owner Domin Email:** founder.american@cl40.world
-- 📧 **Verified Channels:** Multiple verified email addresses available
-- 🌐 **Main Portal:** https://cl40.contact
-
-### Press & Media
-- 📰 **Press Kit:** https://cl40.world
-- 📋 **Setlist Documentation:** https://www.setlist.fm/setlist/chico-loco-40/
-
-### Community
-- 💬 **Discord Server:** https://discord.gg/Vvgmt4PFk
-- 👥 **Social Media:** See Digital Platforms & Channels section above
-
----
-
-## 🚀 Technology & Development
-
-### Development Platform
-- 💻 **Dev.to:** https://dev.to/cl40world
-- ⛓️ **Steemit:** https://steemitwallet.com/@cl40world
-- 📁 **GitHub:** https://github.com/wrbeats
-
-### Technical Infrastructure
-WR Beats leverages modern cloud technology for:
-- Global music distribution
-- Secure file management & storage
-- Artist collaboration tools
-- Analytics & performance tracking
-- Blockchain-based rights management
-
----
-
-## 📋 Repository Information
-
-**Repository:** wrbeats/wrbeats  
-**Type:** Public Artist & Label Repository  
-**Purpose:** Official documentation for WR Beats studio and CL40 World label  
-**Status:** Active & Maintained  
-**Last Updated:** 2026-09-03
-
----
 
 ## 📄 License and Rights
 
@@ -729,4 +1066,3 @@ The documentation of the corporate footprint of Chico Loco 40 and the legacy of 
 ### COPYRIGHT RIGHTS & REGISTRIES
 
 * ©️ **Copyright Notice:** © 2026 CL40 World. All Rights Reserved`
-<img width="1024" height="606" alt="image" src="https://github.com/user-attachments/assets/dde2c4fe-0413-4f1c-b79b-869da50ef480" />
