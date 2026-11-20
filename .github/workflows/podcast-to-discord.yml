@@ -1,0 +1,59 @@
+name: Podcast to Discord
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check feed and post new episode
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          FEED_URL: https://api.substack.com/feed/podcast/12022789.rss
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.request
+          import xml.etree.ElementTree as ET
+
+          feed = urllib.request.Request(os.environ["FEED_URL"], headers={"User-Agent": "Mozilla/5.0"})
+          root = ET.fromstring(urllib.request.urlopen(feed, timeout=30).read())
+          item = root.find("./channel/item")
+          link = (item.findtext("link") or "").strip()
+          guid = (item.findtext("guid") or link).strip()
+          title = (item.findtext("title") or "").strip()
+
+          state = "last_episode.txt"
+          last = open(state).read().strip() if os.path.exists(state) else ""
+
+          if not last:
+              open(state, "w").write(guid)
+              print("First run: saved latest episode, nothing posted")
+          elif guid != last:
+              body = json.dumps({"content": "New episode: **" + title + "**\n" + link}).encode()
+              req = urllib.request.Request(
+                  os.environ["DISCORD_WEBHOOK_URL"],
+                  data=body,
+                  headers={"Content-Type": "application/json", "User-Agent": "cl40-bot"},
+                  method="POST",
+              )
+              urllib.request.urlopen(req, timeout=30)
+              open(state, "w").write(guid)
+              print("Posted:", title)
+          else:
+              print("No new episode")
+          PY
+
+      - name: Save state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add last_episode.txt
+          git diff --cached --quiet || (git commit -m "Update last posted episode" && git push)
