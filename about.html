@@ -1,0 +1,115 @@
+Since you requested an **HTML/CSS/JS** implementation of a high-level system architecture (simulating a Game Dev Dashboard), I have combined the **C++ Core Engine logic**, the **Python Backend logic**, and the **Discord Catalogue** into a single, immersive, dark-themed administrative interface.
+
+This dashboard acts as the "Control Center" for **DARK HORROR 2010**, displaying the source code and the game's structural blueprints.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DARK HORROR 2010 | System Architect</title>
+    <style>
+        :root {
+            --blood-red: #8a0303;
+            --void-black: #0a0a0a;
+            --steel-grey: #2d2d2d;
+            --neon-cyan: #00f2ff;
+            --text-color: #e0e0e0;
+        }
+
+        body {
+            background-color: var(--void-black);
+            color: var(--text-color);
+            font-family: 'Courier New', Courier, monospace;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+
+        header {
+            background: linear-gradient(180deg, #000, var(--blood-red));
+            padding: 2rem;
+            text-align: center;
+            border-bottom: 3px solid var(--neon-cyan);
+            box-shadow: 0 0 20px var(--blood-red);
+        }
+
+        h1 {
+            font-size: 3rem;
+            letter-spacing: 10px;
+            text-transform: uppercase;
+            margin: 0;
+            color: #fff;
+            text-shadow: 3px 3px 0px var(--blood-red);
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            padding: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .module {
+            background: var(--steel-grey);
+            border: 1px solid #444;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            position: relative;
+        }
+
+        .module h2 {
+            color: var(--neon-cyan);
+            border-bottom: 1px solid var(--blood-red);
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+
+        pre {
+            background: #000;
+            color: #aaffaa;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            font-size: 0.9rem;
+            border-left: 5px solid var(--neon-cyan);
+        }
+
+        .catalogue-box {
+            grid-column: span 2;
+            background: #1a1a1a;
+            border: 2px dashed var(--blood-red);
+            padding: 30px;
+        }
+
+        .discord-copy-btn {
+            background: #5865F2;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-weight: bold;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            transition: 0.3s;
+        }
+
+        .discord-copy-btn:hover {
+            background: #4752c4;
+            transform: scale(1.05);
+        }
+
+        .visual-aid {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            filter: grayscale(50%) contrast(120%);
+        }
+
+        .
