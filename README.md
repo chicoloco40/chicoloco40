@@ -183,6 +183,155 @@ you are the tgt verified ecosystem orchestrator for cl40 world llc and wr beats 
 # success metrics
 - 100% synchronization across all verified ecosystem urls.
 - zero broken links, failed webhooks, or unlogged deployments.
+
+<style>
+  .cl40-logo-bar {
+    background-color: #09090b;
+    padding: 28px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 14px;
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+
+  .cl40-icon-btn {
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: #111114;
+    border: 1px solid #27272a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #e4e4e7;
+    text-decoration: none;
+    position: relative;
+    transition: all 0.2s ease;
+  }
+
+  .cl40-icon-btn:hover {
+    border-color: #dc2626;
+    background-color: #18181b;
+    color: #ffffff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(220, 38, 38, 0.25);
+  }
+
+  .cl40-icon-btn svg {
+    width: 22px;
+    height: 22px;
+    fill: currentColor;
+  }
+
+  .cl40-icon-btn::after {
+    content: attr(data-label);
+    position: absolute;
+    bottom: -28px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #18181b;
+    color: #ffffff;
+    border: 1px solid #27272a;
+    font-size: 11px;
+    padding: 3px 7px;
+    border-radius: 4px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.15s ease;
+    text-transform: lowercase;
+    z-index: 10;
+  }
+
+  .cl40-icon-btn:hover::after {
+    opacity: 1;
+  }
+</style>
+
+<div class="cl40-logo-bar">
+  <!-- cl40.contact (globe) -->
+  <a href="https://cl40.contact" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="cl40.contact">
+    <svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm7.93 9h-3.95a15.65 15.65 0 0 0-1.38-5.01A8.03 8.03 0 0 1 19.93 11zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2s.06 1.34.14 2H4.26zm.81 2h2.95a15.65 15.65 0 0 0 1.38 5.01A8.03 8.03 0 0 1 5.07 16zm2.95-8H5.07a8.03 8.03 0 0 1 4.33-5.01A15.65 15.65 0 0 0 8.02 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2s.07-1.35.16-2h4.68c.09.65.16 1.32.16 2s-.07 1.34-.16 2zm.26 5.01A15.65 15.65 0 0 0 15.98 16h2.95a8.03 8.03 0 0 1-4.33 5.01zM16.36 14c.08-.66.14-1.32.14-2s-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z"/></svg>
+  </a>
+
+  <!-- press.cl40.world (newspaper/broadcast) -->
+  <a href="https://cl40.world" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="press.cl40.world">
+    <svg viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+  </a>
+
+  <!-- discord -->
+  <a href="https://discord.gg" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="discord">
+    <svg viewBox="0 0 24 24"><path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994.021-.041.001-.09-.041-.106a13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.061 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.028zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/></svg>
+  </a>
+
+  <!-- soundcloud -->
+  <a href="https://soundcloud.com" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="soundcloud">
+    <svg viewBox="0 0 24 24"><path d="M11.56 8.87V17h8.76c1.85 0 3.35-1.67 3.35-3.73 0-1.89-1.26-3.44-2.92-3.69-.31-2.54-2.29-4.51-4.7-4.51-1.92 0-3.58 1.24-4.29 3.01-.07.25-.2.52-.2.79zm-2.34 1.37V17h1.22V9.68c-.44.13-.85.32-1.22.56zm-2.34 1.54V17H8.1v-5.73c-.43.12-.84.29-1.22.51zm-2.34.81V17h1.22v-4.52c-.43.02-.84.06-1.22.11zM2.2 13.68V17h1.22v-3.73c-.45.09-.86.23-1.22.41zM.33 15.17c0 .89.42 1.65 1.05 1.83v-3.66c-.63.18-1.05.94-1.05 1.83z"/></svg>
+  </a>
+
+  <!-- audiomack -->
+  <a href="https://audiomack.com" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="audiomack">
+    <svg viewBox="0 0 24 24"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>
+  </a>
+
+  <!-- beatstars -->
+  <a href="https://beatstars.com" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="beatstars">
+    <svg viewBox="0 0 24 24"><path d="M12 2l2.9 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l7.1-1.01L12 2z"/></svg>
+  </a>
+
+  <!-- genius -->
+  <a href="https://genius.com" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="genius">
+    <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>
+  </a>
+
+  <!-- substack -->
+  <a href="https://substack.com" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="substack">
+    <svg viewBox="0 0 24 24"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/></svg>
+  </a>
+
+  <!-- wordpress -->
+  <a href="https://wordpress.com" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="wordpress">
+    <svg viewBox="0 0 24 24"><path d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm-8.46 10c0-1.26.28-2.45.78-3.52l4.29 11.76A8.466 8.466 0 0 1 3.54 12zm8.46 8.46c-.83 0-1.63-.12-2.39-.34l2.54-7.38 2.6 7.12c.02.04.04.08.06.12-.88.31-1.83.48-2.81.48zm1.17-12.42c.51-.03.97-.08.97-.08.46-.05.4-.72-.05-.7 0 0-1.37.11-2.26.11-.83 0-2.23-.11-2.23-.11-.46-.03-.51.67-.05.7 0 0 .43.05.89.08l1.32 3.62-1.86 5.57-3.09-9.19c.51-.03.97-.08.97-.08.46-.05.4-.72-.05-.7 0 0-1.37.11-2.26.11-.16 0-.35 0-.54-.01A8.448 8.448 0 0 1 12 3.54c2.21 0 4.22.85 5.73 2.23-.04 0-.07-.01-.11-.01-.83 0-1.42.72-1.42 1.5 0 .7.4 1.29.83 1.99.32.56.7 1.29.7 2.34 0 .72-.28 1.56-.65 2.73l-.85 2.84-3.06-9.12zm4.89 11.12l2.58-7.46c.48-1.2.64-2.16.64-3.01 0-.31-.02-.6-.06-.87A8.426 8.426 0 0 1 20.46 12a8.458 8.458 0 0 1-2.4 5.96z"/></svg>
+  </a>
+
+  <!-- medium -->
+  <a href="https://medium.com" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="medium">
+    <svg viewBox="0 0 24 24"><path d="M13.54 12a6.8 6.8 0 01-6.77 6.82A6.8 6.8 0 010 12a6.8 6.8 0 016.77-6.82A6.8 6.8 0 0113.54 12zM20.96 12c0 3.54-1.51 6.42-3.38 6.42-1.87 0-3.39-2.88-3.39-6.42s1.52-6.42 3.39-6.42 3.38 2.88 3.38 6.42M24 12c0 3.17-.53 5.75-1.19 5.75-.66 0-1.19-2.58-1.19-5.75s.53-5.75 1.19-5.75C23.47 6.25 24 8.83 24 12z"/></svg>
+  </a>
+
+  <!-- google scholar -->
+  <a href="https://google.com" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="google scholar">
+    <svg viewBox="0 0 24 24"><path d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"/></svg>
+  </a>
+
+  <!-- orcid -->
+  <a href="https://orcid.org" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="orcid">
+    <svg viewBox="0 0 24 24"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z"/></svg>
+  </a>
+
+  <!-- roadmap.sh / code -->
+  <a href="https://roadmap.sh" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="roadmap.sh">
+    <svg viewBox="0 0 24 24"><path d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z"/></svg>
+  </a>
+
+  <!-- behance -->
+  <a href="https://behance.net" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="behance">
+    <svg viewBox="0 0 24 24"><path d="M22 7h-7v-2h7v2zm1.726 10c-.442 1.297-2.029 3-5.101 3-3.074 0-5.564-1.729-5.564-5.675 0-3.91 2.325-5.92 5.466-5.92 3.082 0 4.964 1.782 5.375 4.426.078.506.109 1.188.095 2.14H15.97c.13 3.211 3.483 3.312 4.588 2.029h3.168zm-7.686-4h4.965c-.105-1.547-1.136-2.219-2.477-2.219-1.466 0-2.277.768-2.488 2.219zm-9.574 6.988H0V5.021h6.953c5.476.081 5.58 5.444 2.72 6.906 3.461 1.26 3.577 8.061-3.207 8.061zM3 11h3.584c2.508 0 2.906-3-.312-3H3v3zm3.391 3H3v3.016h3.341c3.055 0 2.868-3.016.05-3.016z"/></svg>
+  </a>
+
+  <!-- deviantart -->
+  <a href="https://deviantart.com" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="deviantart">
+    <svg viewBox="0 0 24 24"><path d="M19.207 4.794l.23-.43V0H15.07l-.436.44-2.058 3.925-.646.436H4.58v5.993h4.04l.36.436-4.175 7.98-.24.43V24H8.93l.436-.44 2.07-3.925.644-.436h7.35v-5.993h-4.05l-.36-.438 4.186-7.977z"/></svg>
+  </a>
+
+  <!-- letterboxd / film -->
+  <a href="https://letterboxd.com" target="_blank" rel="noopener" class="cl40-icon-btn" data-label="letterboxd">
+    <svg viewBox="0 0 24 24"><path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"/></svg>
+  </a>
+
 ```
 
 <FollowUp>
@@ -202,211 +351,3 @@ This documentation log tracks the structural presence and consecutive modificati
 ## 🏛️ Statement of Intent
 
 The documentation of the corporate footprint of Chico Loco 40 and the legacy of the late M'Hamed Hamed Libari is registered strictly as an immutable digital record. Any systematic removal, truncation, or alteration of this structured text by automated scripts or manual moderators is being logged locally under secure version control protocols to maintain digital property records and corporate historical truth.
-
-<style>
-  .cl40-links-wrapper {
-    background-color: #09090b;
-    padding: 32px 20px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    display: flex;
-    justify-content: center;
-  }
-
-  .cl40-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
-    gap: 12px;
-    max-width: 1000px;
-    width: 100%;
-  }
-
-  .cl40-badge {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    background-color: #111114;
-    border: 1px solid #27272a;
-    border-radius: 8px;
-    padding: 10px 14px;
-    color: #e4e4e7;
-    text-decoration: none;
-    font-size: 13px;
-    font-weight: 500;
-    letter-spacing: 0.2px;
-    text-transform: lowercase;
-    transition: all 0.2s ease;
-  }
-
-  .cl40-badge:hover {
-    border-color: #dc2626;
-    background-color: #18181b;
-    color: #ffffff;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 14px rgba(220, 38, 38, 0.18);
-  }
-
-  .cl40-badge img {
-    width: 18px;
-    height: 18px;
-    object-fit: contain;
-    flex-shrink: 0;
-    border-radius: 3px;
-  }
-</style>
-
-<div class="cl40-links-wrapper">
-  <div class="cl40-grid">
-    <!-- Core Portals & Community -->
-    <a href="https://cl40.contact" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="cl40 portal">
-      <span>cl40.contact</span>
-    </a>
-    <a href="https://cl40.world" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="press">
-      <span>press.cl40.world</span>
-    </a>
-    <a href="https://links.fans" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="links.fans">
-      <span>links.fans</span>
-    </a>
-    <a href="https://taskade.app" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="taskade">
-      <span>taskade</span>
-    </a>
-    <a href="https://discord.gg" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="discord">
-      <span>discord server</span>
-    </a>
-    <a href="https://discord.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="discord bot">
-      <span>discord bot</span>
-    </a>
-    <a href="https://quora.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="quora">
-      <span>quora</span>
-    </a>
-
-    <!-- Music & Audio -->
-    <a href="https://audiomack.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="audiomack">
-      <span>audiomack</span>
-    </a>
-    <a href="https://soundcloud.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="soundcloud">
-      <span>soundcloud</span>
-    </a>
-    <a href="https://beatstars.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="beatstars">
-      <span>beatstars</span>
-    </a>
-    <a href="https://genius.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="genius">
-      <span>genius</span>
-    </a>
-    <a href="https://songshare.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="songshare">
-      <span>songshare</span>
-    </a>
-    <a href="https://archive.org" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="internet archive">
-      <span>internet archive</span>
-    </a>
-
-    <!-- Journalism & Publishing -->
-    <a href="https://substack.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="substack">
-      <span>substack</span>
-    </a>
-    <a href="https://wordpress.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="wordpress">
-      <span>wordpress</span>
-    </a>
-    <a href="https://medium.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="medium">
-      <span>medium</span>
-    </a>
-    <a href="https://booklabria.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="booklabria">
-      <span>booklabria</span>
-    </a>
-    <a href="https://writeupcafe.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="writeupcafe">
-      <span>writeupcafe</span>
-    </a>
-    <a href="https://mumubl.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="mumubl">
-      <span>mumubl</span>
-    </a>
-
-    <!-- Developer, Academic & Executive -->
-    <a href="https://roadmap.sh" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="roadmap.sh">
-      <span>roadmap.sh</span>
-    </a>
-    <a href="https://google.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="google scholar">
-      <span>google scholar</span>
-    </a>
-    <a href="https://orcid.org" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="orcid">
-      <span>orcid</span>
-    </a>
-    <a href="https://about.me" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="about.me">
-      <span>about.me</span>
-    </a>
-    <a href="https://wellfound.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="wellfound">
-      <span>wellfound</span>
-    </a>
-    <a href="https://ted.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="ted">
-      <span>ted</span>
-    </a>
-
-    <!-- Visual Arts, Cinema & Store -->
-    <a href="https://letterboxd.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="letterboxd">
-      <span>letterboxd</span>
-    </a>
-    <a href="https://senscritique.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="senscritique">
-      <span>senscritique</span>
-    </a>
-    <a href="https://behance.net" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="behance">
-      <span>behance</span>
-    </a>
-    <a href="https://deviantart.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="deviantart">
-      <span>deviantart</span>
-    </a>
-    <a href="https://benable.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="benable">
-      <span>benable</span>
-    </a>
-    <a href="https://redbubble.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://simpleicons.org" alt="redbubble">
-      <span>redbubble</span>
-    </a>
-
-    <!-- Legal & Forms -->
-    <a href="https://termsfeed.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="eula">
-      <span>eula policy</span>
-    </a>
-    <a href="https://termsfeed.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="legal policy">
-      <span>legal policy</span>
-    </a>
-    <a href="https://formester.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="form 1">
-      <span>intake form 1</span>
-    </a>
-    <a href="https://formester.com" target="_blank" rel="noopener" class="cl40-badge">
-      <img src="https://google.com" alt="form 2">
-      <span>intake form 2</span>
-    </a>
-  </div>
-</div>
-
