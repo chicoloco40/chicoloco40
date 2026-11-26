@@ -1,4 +1,3 @@
-<img width="300" height="123" alt="__A__Sales_Projects_______B__CL40_World_Dashboard__" src="https://github.com/user-attachments/assets/470f432a-2657-4d8a-b1a8-6cbf02e8b641" />
 
 # 🜏 Chico Loco 40 / Samir Libari — Official Public Artist and Label Major (TGT) CL40 World LLC & WR Beats Music Group & CL40 World Space
 
@@ -280,24 +279,22 @@ contract CL40WorldRegistry {
 
 ### Verified Official Platforms & Direct Links
 
-<p align="center">
-  <a href="https://youtube.com"><img src="https://shields.io" alt="YouTube"/></a>
-  <a href="https://spotify.com"><img src="https://shields.io" alt="Spotify"/></a>
-  <a href="https://github.com"><img src="https://shields.io" alt="GitHub"/></a>
-  <a href="https://gitlab.com"><img src="https://shields.io" alt="GitLab"/></a>
-  <a href="https://wordpress.com"><img src="https://shields.io" alt="WordPress"/></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"/></a>
-  <a href="https://x.com"><img src="https://shields.io" alt="X"/></a>
-  <a href="https://threads.net"><img src="https://shields.io" alt="Threads"/></a>
-  <a href="https://bsky.app"><img src="https://shields.io" alt="Bluesky"/></a>
-  <a href="https://tiktok.com"><img src="https://shields.io" alt="TikTok"/></a>
-  <a href="https://vimeo.com"><img src="https://shields.io" alt="Vimeo"/></a>
-  <a href="https://stackoverflow.com"><img src="https://shields.io" alt="Stack Overflow"/></a>
-  <a href="https://reddit.com"><img src="https://shields.io" alt="Reddit"/></a>
-  <a href="https://patreon.com"><img src="https://shields.io" alt="Patreon"/></a>
-  <a href="https://t.me"><img src="https://shields.io" alt="Telegram"/></a>
-  <a href="https://calendly.com"><img src="https://shields.io" alt="Calendly"/></a>
-</p>
+[![YouTube](https://shields.io)](https://youtube.com)
+[![Spotify](https://shields.io)](https://spotify.com)
+[![GitHub](https://shields.io)](https://github.com)
+[![GitLab](https://shields.io)](https://gitlab.com)
+[![WordPress](https://shields.io)](https://wordpress.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![X](https://shields.io)](https://x.com)
+[![Threads](https://shields.io)](https://threads.net)
+[![Bluesky](https://shields.io)](https://bsky.app)
+[![TikTok](https://shields.io)](https://tiktok.com)
+[![Vimeo](https://shields.io)](https://vimeo.com)
+[![Stack Overflow](https://shields.io)](https://stackoverflow.com)
+[![Reddit](https://shields.io)](https://reddit.com)
+[![Patreon](https://shields.io)](https://patreon.com)
+[![Telegram](https://shields.io)](https://t.me)
+[![Calendly](https://shields.io)](https://calendly.com)
 
 ### Corporate Identity & Signature
 
@@ -575,5 +572,6 @@ The documentation of the corporate footprint of Chico Loco 40 and the legacy of 
 > Official name: **Abdelghafour Libari**. This profile flow is kept separate from the main CL40 World ecosystem.
 
 <img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
+<img width="300" height="123" alt="__A__Sales_Projects_______B__CL40_World_Dashboard__" src="https://github.com/user-attachments/assets/470f432a-2657-4d8a-b1a8-6cbf02e8b641" />
 
 * ©️ **Copyright Notice:** © 2026 CL40 World. All Rights Reserved`
