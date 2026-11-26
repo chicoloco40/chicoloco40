@@ -280,23 +280,24 @@ contract CL40WorldRegistry {
 ### Verified Official Platforms & Direct Links
 
 <p align="center">
-  <a href="https://youtube.com"><img src="https://simpleicons.org" width="36" height="36" alt="YouTube" /></a>&nbsp;&nbsp;
-  <a href="https://spotify.com"><img src="https://simpleicons.org" width="36" height="36" alt="Spotify" /></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img src="https://simpleicons.org" width="36" height="36" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://gitlab.com"><img src="https://simpleicons.org" width="36" height="36" alt="GitLab" /></a>&nbsp;&nbsp;
-  <a href="https://wordpress.com"><img src="https://simpleicons.org" width="36" height="36" alt="WordPress" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com"><img src="https://simpleicons.org" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://x.com"><img src="https://simpleicons.org" width="36" height="36" alt="X" /></a>&nbsp;&nbsp;
-  <a href="https://threads.net"><img src="https://simpleicons.org" width="36" height="36" alt="Threads" /></a>&nbsp;&nbsp;
-  <a href="https://bsky.app"><img src="https://simpleicons.org" width="36" height="36" alt="Bluesky" /></a>&nbsp;&nbsp;
-  <a href="https://tiktok.com"><img src="https://simpleicons.org" width="36" height="36" alt="TikTok" /></a>&nbsp;&nbsp;
-  <a href="https://vimeo.com"><img src="https://simpleicons.org" width="36" height="36" alt="Vimeo" /></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com"><img src="https://simpleicons.org" width="36" height="36" alt="Stack Overflow" /></a>&nbsp;&nbsp;
-  <a href="https://reddit.com"><img src="https://simpleicons.org" width="36" height="36" alt="Reddit" /></a>&nbsp;&nbsp;
-  <a href="https://patreon.com"><img src="https://simpleicons.org" width="36" height="36" alt="Patreon" /></a>&nbsp;&nbsp;
-  <a href="https://t.me"><img src="https://simpleicons.org" width="36" height="36" alt="Telegram" /></a>&nbsp;&nbsp;
-  <a href="https://calendly.com"><img src="https://simpleicons.org" width="36" height="36" alt="Calendly" /></a>
+  <a href="https://youtube.com"><img src="https://githubusercontent.com" width="32" height="32" alt="YouTube" /></a>&nbsp;&nbsp;
+  <a href="https://spotify.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Spotify" /></a>&nbsp;&nbsp;
+  <a href="https://github.com"><img src="https://githubusercontent.com" width="32" height="32" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://gitlab.com"><img src="https://githubusercontent.com" width="32" height="32" alt="GitLab" /></a>&nbsp;&nbsp;
+  <a href="https://wordpress.com"><img src="https://githubusercontent.com" width="32" height="32" alt="WordPress" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com"><img src="https://githubusercontent.com" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://x.com"><img src="https://githubusercontent.com" width="32" height="32" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://threads.net"><img src="https://githubusercontent.com" width="32" height="32" alt="Threads" /></a>&nbsp;&nbsp;
+  <a href="https://bsky.app"><img src="https://githubusercontent.com" width="32" height="32" alt="Bluesky" /></a>&nbsp;&nbsp;
+  <a href="https://tiktok.com"><img src="https://githubusercontent.com" width="32" height="32" alt="TikTok" /></a>&nbsp;&nbsp;
+  <a href="https://vimeo.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Vimeo" /></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Stack Overflow" /></a>&nbsp;&nbsp;
+  <a href="https://reddit.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Reddit" /></a>&nbsp;&nbsp;
+  <a href="https://patreon.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Patreon" /></a>&nbsp;&nbsp;
+  <a href="https://t.me"><img src="https://githubusercontent.com" width="32" height="32" alt="Telegram" /></a>&nbsp;&nbsp;
+  <a href="https://calendly.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Calendly" /></a>
 </p>
+
 
 ### Corporate Identity & Signature
 
