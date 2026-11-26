@@ -554,31 +554,38 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-### 🏢 GLOBAL CORPORATE IDENTITY
-
-* 🏢 **Label Major and Owner Kit:** https://cl40.contact
-* 👑 **Owner Founder COO and CTO:** https://founder.cl40.world
-* 📜 **Legal Owner Name:** (Samir Libari) & (American Entertainment Recording Company)`
-* 🛡️ **Owner Status:** (Chico Loco 40, American) American Entertainment Recording Company, Owner (CL40 World) and (WR Beats)`
-* 🗽 **Corporate Base:** Manhattan, New York, USA & NSW`
-* 💿 **MusicBrainz Type ID:** https://musicbrainz.org/artist/31b01271-dcdd-4e22-8d77-b1c92f3f7768
-* 🔍 **MusicBrainz Disambiguation:** Entertainment Artist Company & American Entertainment Recording Company`
-* 📊 **Reach Metrics:** +240 Billion Reach International`
-* 💎 **Assets:** Global Sovereignty & International Catalog Rights`
-* 📅 **Founded:** Joined Apr 21, 2014 | CC_PP 2024-09-18`
-* ⚙️ **Ecosystem Logistics:** Verified International Artist Entity (Rank #1.22M), Managing Global Distribution Channels, Reddit Community Growth (+240 Billion Members), and Scalable AI-Driven [...]`
-
 ## 🤖 System Overview & Automated Action Logging
+
 This documentation log tracks the structural presence and consecutive modifications applied by platform moderators and automated background algorithms across open semantic web databases, including Wikidata and linked media networks.
 
 ### 📝 Timeline of Automated Modifications & Deletions
+
 1. **Item Q140934893 Deletion:** Manually removed by global administrative account under claims regarding standard notability protocols.
 2. **User Profile Profiling:** System bots flagged core biographical text fields as being outside project scope parameters, triggering automated deletion sequences on user spaces.
 3. **Restoration Log (Entity Q140936022):** Formal restoration and structuring of the primary music industry dataset, establishing verified labels, descriptions, and structural aliases for international indexing.
-
+4. 
 ## 🏛️ Statement of Intent
+
 The documentation of the corporate footprint of Chico Loco 40 and the legacy of the late M'Hamed Hamed Libari is registered strictly as an immutable digital record. Any systematic removal, truncation, or alteration of this structured text by automated scripts or manual moderators is being logged locally under secure version control protocols to maintain digital property records and corporate historical truth.
 
 ### COPYRIGHT RIGHTS & REGISTRIES
+
+## CL40 World Ecosystem
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chicoloco40/chicoloco40/main/assets/ecosystem-flow.svg" alt="Animated CL40 World ecosystem flow" width="100%" />
+</p>
+
+> The flow connects creative leadership, technology, business development, music production, product management, and global distribution Label Major.
+
+### LB0025 Official
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chicoloco40/chicoloco40/main/assets/lb0025-ecosystem-flow.svg" alt="Animated LB0025 Official ecosystem flow for Abdelghafour Libari" width="100%" />
+</p>
+
+> Official name: **Abdelghafour Libari**. This profile flow is kept separate from the main CL40 World ecosystem.
+
+<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
 
 * ©️ **Copyright Notice:** © 2026 CL40 World. All Rights Reserved`
