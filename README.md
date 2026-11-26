@@ -40,11 +40,10 @@ This automated repository controls the synchronization loops for all multi-platf
 **Repository:** [https://github.com/Samir-Libari/OWNER-sinisters](https://github.com/Samir-Libari/OWNER-sinisters)  
 **Official Contact:** founder.american@cl40.world  
 
----
-
 ## 01. CSS — Hybrid Enterprise UI
+
 ```css
-/* CL40 World - Hybrid Enterprise UI */
+/* CL40 World LLC - Hybrid Enterprise UI */
 :root {
   --primary: #d90429;
   --bg: #0a0a0a;
@@ -54,21 +53,21 @@ This automated repository controls the synchronization loops for all multi-platf
   color: #ffffff;
   border-top: 4px solid var(--primary);
 }
-```
 
 ---
 
-## 02. SQL — 20 Labels & ABN Registry
+## 02. SQL — 20 Labels Major
 ```sql
--- CL40 World - 20 Labels & ABN Registry
+-- CL40 World - 20 Labels Major
 CREATE TABLE IF NOT EXISTS owner_sinisters (
     id INT PRIMARY KEY,
     entity_name VARCHAR(255),
     repo_url VARCHAR(255) DEFAULT 'https://github.com/Samir-Libari/OWNER-sinisters'
 );
-```
 
 ---
+
+![Platforms](https://skillicons.dev)
 
 ## 03. Rust — High-Performance Core Engine
 ```rust
@@ -77,7 +76,6 @@ fn main() {
     let repo = "https://github.com/Samir-Libari/OWNER-sinisters";
     println!("CL40 World Systems Active: {}", repo);
 }
-```
 
 ---
 
@@ -92,7 +90,6 @@ class OwnerSinisters {
         Console.WriteLine("CL40 World Verified: " + repo);
     }
 }
-```
 
 ---
 
@@ -107,7 +104,6 @@ echo json_encode([
     "repo" => \$repo
 ]);
 ?>
-```
 
 ---
 
@@ -118,7 +114,6 @@ import Foundation
 
 let repoURL = "https://github.com/Samir-Libari/OWNER-sinisters"
 print("CL40 World Mobile Hub: \(repoURL)")
-```
 
 ---
 
@@ -129,7 +124,6 @@ fun main() {
     val repo = "https://github.com/Samir-Libari/OWNER-sinisters"
     println("CL40 World Android Active: \$repo")
 }
-```
 
 ---
 
@@ -138,7 +132,6 @@ fun main() {
 # CL40 World - Automation & Scripting
 repo = "https://github.com/Samir-Libari/OWNER-sinisters"
 puts "CL40 World Ruby Node: #{repo}"
-```
 
 ---
 
@@ -147,7 +140,6 @@ puts "CL40 World Ruby Node: #{repo}"
 -- CL40 World - Gaming & Engine Scripting
 local repo = "https://github.com/Samir-Libari/OWNER-sinisters"
 print("CL40 World Space Gaming: " .. repo)
-```
 
 ---
 
@@ -158,7 +150,6 @@ void main() {
   const repo = 'https://github.com/Samir-Libari/OWNER-sinisters';
   print('CL40 World Cross-Platform: \$repo');
 }
-```
 
 ---
 
@@ -168,7 +159,6 @@ void main() {
 repo <- "https://github.com/Samir-Libari/OWNER-sinisters"
 labels_count <- 20
 print(paste("CL40 World Analytics:", labels_count, "Labels |", repo))
-```
 
 ---
 
@@ -178,7 +168,6 @@ print(paste("CL40 World Analytics:", labels_count, "Labels |", repo))
 repo = 'https://github.com/Samir-Libari/OWNER-sinisters';
 labels = 20;
 fprintf('CL40 World Audio Matrix: %d Labels | %s\n', labels, repo);
-```
 
 ---
 
@@ -201,7 +190,6 @@ _start:
     mov rax, 60
     xor rdi, rdi
     syscall
-```
 
 ---
 
@@ -215,7 +203,6 @@ contract CL40WorldRegistry {
     uint256 public totalLabels = 20;
     string public repository = "https://github.com/Samir-Libari/OWNER-sinisters";
 }
-```
 ---
 
 <div align="center">
@@ -233,8 +220,6 @@ contract CL40WorldRegistry {
 [![Booklabria](https://shields.io)](https://booklabria.com)
 
 </div>
-
----
 
 ### Executive Corporate & Ecosystem Directory
 
