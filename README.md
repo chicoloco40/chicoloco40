@@ -1,115 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="tgt international multi-model ai agency">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#05050a"/>
-      <stop offset="1" stop-color="#14060b"/>
-    </linearGradient>
-    <radialGradient id="aura" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#ff1e3c" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#ff1e3c" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="hair" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ffe9a3"/>
-      <stop offset="1" stop-color="#d9a93a"/>
-    </linearGradient>
-    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity="0.04"/>
-    </pattern>
-    <g id="bar">
-      <rect x="0" y="30" width="6" height="118" fill="#ff1e3c" fill-opacity="0.6">
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -22;0 0" dur="4s" repeatCount="indefinite"/>
-      </rect>
-      <rect x="0" y="192" width="6" height="118" fill="#ff1e3c" fill-opacity="0.6">
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 22;0 0" dur="4s" repeatCount="indefinite"/>
-      </rect>
-      <rect x="-3" y="168" width="12" height="3" fill="#ffffff">
-        <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
-      </rect>
-    </g>
-  </defs>
-
-  <rect width="1200" height="340" fill="url(#bg)"/>
-  <rect width="1200" height="340" fill="url(#grid)"/>
-  <circle cx="260" cy="170" r="160" fill="url(#aura)"/>
-
-  <!-- breaking containment bars -->
-  <use href="#bar" x="70"/>
-  <use href="#bar" x="100"/>
-  <use href="#bar" x="420"/>
-  <use href="#bar" x="450"/>
-
-  <!-- rotating orbital rings (fake 3d tilt via animated ry) -->
-  <g transform="translate(260 170)" fill="none" stroke-linecap="round">
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
-      <ellipse rx="150" ry="40" stroke="#ff1e3c" stroke-width="2" stroke-dasharray="18 10" filter="url(#glow)">
-        <animate attributeName="ry" values="40;140;40" dur="7s" repeatCount="indefinite"/>
-        <animate attributeName="stroke-dashoffset" from="0" to="-112" dur="3s" repeatCount="indefinite"/>
-      </ellipse>
-    </g>
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite"/>
-      <ellipse rx="125" ry="110" stroke="#ffffff" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="4 8">
-        <animate attributeName="ry" values="110;30;110" dur="9s" repeatCount="indefinite"/>
-      </ellipse>
-    </g>
-    <g transform="rotate(60)">
-      <animateTransform attributeName="transform" type="rotate" from="60" to="420" dur="22s" repeatCount="indefinite"/>
-      <ellipse rx="100" ry="30" stroke="#ff1e3c" stroke-opacity="0.6" stroke-width="1.5">
-        <animate attributeName="ry" values="30;100;30" dur="5s" repeatCount="indefinite"/>
-      </ellipse>
-    </g>
-  </g>
-
-  <!-- cyber-architect silhouette -->
-  <g>
-    <path d="M140 340 C140 262 188 232 226 222 L294 222 C332 232 380 262 380 340 Z" fill="#0b0b12" stroke="#ff1e3c" stroke-opacity="0.45"/>
-    <rect x="243" y="190" width="34" height="38" fill="#0b0b12"/>
-    <ellipse cx="260" cy="150" rx="41" ry="52" fill="#0b0b12" stroke="#ff1e3c" stroke-opacity="0.35"/>
-    <path d="M213 146 C206 96 242 78 270 82 C304 86 316 114 307 146 C298 122 282 110 262 110 C240 110 224 122 213 146 Z" fill="url(#hair)"/>
-    <path d="M213 146 C204 170 208 196 222 212 C218 188 220 166 228 150 Z" fill="url(#hair)"/>
-    <path d="M307 146 C316 170 312 196 298 212 C302 188 300 166 292 150 Z" fill="url(#hair)"/>
-    <rect x="222" y="140" width="76" height="17" rx="8.5" fill="#ff1e3c" filter="url(#glow)">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.4s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="228" y="144" width="10" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.8">
-      <animate attributeName="x" values="228;282;228" dur="3s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-
-  <!-- scanline -->
-  <rect x="0" y="0" width="1200" height="2" fill="#ff1e3c" fill-opacity="0.15">
-    <animate attributeName="y" values="0;340" dur="5s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- text -->
-  <g font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace">
-    <text x="560" y="96" font-size="14" fill="#ff1e3c" letter-spacing="3">cl40world_security_locked  ·  tgt_active_2027</text>
-    <text x="560" y="160" font-size="52" font-weight="700" fill="#ffffff">tgt international</text>
-    <text x="560" y="206" font-size="32" fill="#cfcfd8">multi-model ai agency</text>
-    <text x="560" y="250" font-size="18" fill="#8a8a96">111 autonomous bots  ·  +240 billion global reach</text>
-    <text x="560" y="282" font-size="14" fill="#5d5d68">chico loco 40  ·  cl40 world llc  ×  wr beats music group</text>
-    <rect x="560" y="296" width="14" height="3" fill="#ff1e3c">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-</svg>
 <div align="center">
 
-<img src="assets/banner.svg" alt="tgt international multi-model ai agency" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,100:dc2626&text=CL40%20WORLD%20LLC&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=TGT%20AGENCY%20AI%20%2F%2F%20111%20AUTONOMOUS%20BOTS&descAlignY=60&descSize=18&animation=twinkling" alt="cl40 world llc // tgt agency ai // 111 autonomous bots" width="100%">
 
-![security](https://img.shields.io/badge/CL40WORLD__SECURITY__LOCKED-0d0d14?style=flat-square&logo=letsencrypt&logoColor=ff1e3c)
-![timeline](https://img.shields.io/badge/TGT__ACTIVE__2027-0d0d14?style=flat-square&logo=githubactions&logoColor=ff1e3c)
-![reach](https://img.shields.io/badge/%2B240_billion_global_reach-0d0d14?style=flat-square&logo=globe&logoColor=ff1e3c)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=DC2626&background=09090B&center=true&vCenter=true&repeat=true&width=900&height=60&lines=CL40+WORLD+LLC+%2F%2F+TGT+AGENCY+AI;111+AUTONOMOUS+BOTS;TGT_ACTIVE_2027;%2B240+BILLION+GLOBAL+REACH" alt="typing header">
 
-**111 autonomous bots · 4 llms · 1 relay**
+![security](https://img.shields.io/badge/CL40WORLD__SECURITY__LOCKED-09090b?style=flat-square&logo=letsencrypt&logoColor=dc2626)
+![timeline](https://img.shields.io/badge/TGT__ACTIVE__2027-09090b?style=flat-square&logo=githubactions&logoColor=dc2626)
+![reach](https://img.shields.io/badge/%2B240_billion_global_reach-09090b?style=flat-square&logo=globe&logoColor=dc2626)
 
-[![founder](https://img.shields.io/badge/founder.american%40cl40.world-0d0d14?style=flat-square&logo=gmail&logoColor=ff1e3c)](mailto:founder.american@cl40.world)
-[![legal](https://img.shields.io/badge/legal%40cl40.world-0d0d14?style=flat-square&logo=gmail&logoColor=ff1e3c)](mailto:legal@cl40.world)
+[![founder](https://img.shields.io/badge/founder.american%40cl40.world-09090b?style=flat-square&logo=gmail&logoColor=dc2626)](mailto:founder.american@cl40.world)
+[![legal](https://img.shields.io/badge/legal%40cl40.world-09090b?style=flat-square&logo=gmail&logoColor=dc2626)](mailto:legal@cl40.world)
 
 </div>
 
@@ -121,7 +21,8 @@
 |---|---|
 | owner / founder / systems architect | samir libari — **chico loco 40** |
 | parent syndicate | cl40 world llc · wr beats music group |
-| structure | 20 international corporate & label divisions · us ein & australian abn registered |
+| structure | 20 international labels & corporate divisions · 100% united states registered entity · us ein |
+| headquarters | 136 w 15th st, apt 2/2, new york, ny 10011, united states |
 | system | tgt international multi-model ai agency · 111 autonomous bots |
 | tags | `CL40WORLD_SECURITY_LOCKED` · `TGT_ACTIVE_2027` · `+240 Billion Global Reach` |
 
@@ -140,59 +41,57 @@
 
 ## ecosystem
 
-### portals & community
+### primary registry & governance
 
-[![official portal](https://img.shields.io/badge/official_portal-0d0d14?style=for-the-badge&logo=googlechrome&logoColor=ff1e3c)](https://cl40.world)
-[![contact gateway](https://img.shields.io/badge/contact_gateway-0d0d14?style=for-the-badge&logo=gmail&logoColor=ff1e3c)](https://cl40.contact)
-[![press hub](https://img.shields.io/badge/press_hub-0d0d14?style=for-the-badge&logo=googlenews&logoColor=ff1e3c)](https://cl40.world)
-[![central link hub](https://img.shields.io/badge/central_link_hub-0d0d14?style=for-the-badge&logo=linktree&logoColor=ff1e3c)](https://links.fans/chicoloco40)
-[![taskade workspace](https://img.shields.io/badge/taskade_workspace-0d0d14?style=for-the-badge&logo=taskade&logoColor=ff1e3c)](https://cl40-world-1273.taskade.app/)
-[![discord oauth bot](https://img.shields.io/badge/discord_oauth_bot-0d0d14?style=for-the-badge&logo=discord&logoColor=ff1e3c)](https://discord.com/oauth2/authorize?client_id=1510455630387740812&response_type=code&redirect_uri=https://cl40.contact/&scope=identify)
-[![discord server](https://img.shields.io/badge/discord_server-0d0d14?style=for-the-badge&logo=discord&logoColor=ff1e3c)](https://discord.gg)
-[![quora space](https://img.shields.io/badge/quora_space-0d0d14?style=for-the-badge&logo=quora&logoColor=ff1e3c)](https://cl40worldportal.quora.com/)
+[![official portal](https://img.shields.io/badge/official_portal-09090b?style=for-the-badge&logo=googlechrome&logoColor=dc2626)](https://cl40.world)
+[![contact gateway](https://img.shields.io/badge/contact_gateway-09090b?style=for-the-badge&logo=gmail&logoColor=dc2626)](https://cl40.contact)
+[![press hub](https://img.shields.io/badge/press_hub-09090b?style=for-the-badge&logo=googlenews&logoColor=dc2626)](https://cl40.world)
+[![musicbrainz](https://img.shields.io/badge/musicbrainz-09090b?style=for-the-badge&logo=musicbrainz&logoColor=dc2626)](https://musicbrainz.org)
+[![orcid](https://img.shields.io/badge/orcid-09090b?style=for-the-badge&logo=orcid&logoColor=dc2626)](https://orcid.org/0009-0001-4557-4898)
+[![legal policy 1](https://img.shields.io/badge/legal_policy_1-09090b?style=for-the-badge&logo=termius&logoColor=dc2626)](https://www.termsfeed.com/live/17b107e2-d672-47a0-b941-e500a59dff48)
+[![eula / legal policy 2](https://img.shields.io/badge/eula_/_legal_policy_2-09090b?style=for-the-badge&logo=termius&logoColor=dc2626)](https://www.termsfeed.com/live/24a824fb-3c4c-4d21-94f1-620d724ad834)
+
+### community & relays
+
+[![central link hub](https://img.shields.io/badge/central_link_hub-09090b?style=for-the-badge&logo=linktree&logoColor=dc2626)](https://links.fans/chicoloco40)
+[![taskade workspace](https://img.shields.io/badge/taskade_workspace-09090b?style=for-the-badge&logo=taskade&logoColor=dc2626)](https://cl40-world-1273.taskade.app/)
+[![discord oauth bot](https://img.shields.io/badge/discord_oauth_bot-09090b?style=for-the-badge&logo=discord&logoColor=dc2626)](https://discord.com/oauth2/authorize?client_id=1510455630387740812&response_type=code&redirect_uri=https://cl40.contact/&scope=identify)
+[![discord server](https://img.shields.io/badge/discord_server-09090b?style=for-the-badge&logo=discord&logoColor=dc2626)](https://discord.gg)
+[![quora space](https://img.shields.io/badge/quora_space-09090b?style=for-the-badge&logo=quora&logoColor=dc2626)](https://cl40worldportal.quora.com/)
+[![formester webhook 1](https://img.shields.io/badge/formester_webhook_1-09090b?style=for-the-badge&logo=webhook&logoColor=dc2626)](https://zpifiscs.formester.com/f/BHTHcDKg6)
+[![formester webhook 2](https://img.shields.io/badge/formester_webhook_2-09090b?style=for-the-badge&logo=webhook&logoColor=dc2626)](https://zpifiscs.formester.com/f/vjUo40oqQ)
 
 ### music & catalog
 
-[![audiomack](https://img.shields.io/badge/audiomack-0d0d14?style=for-the-badge&logo=audiomack&logoColor=ff1e3c)](https://audiomack.com/chicoloco40/song/dark-libari-2010)
-[![soundcloud](https://img.shields.io/badge/soundcloud-0d0d14?style=for-the-badge&logo=soundcloud&logoColor=ff1e3c)](https://soundcloud.com/chico-loco-40)
-[![beatstars](https://img.shields.io/badge/beatstars-0d0d14?style=for-the-badge&logo=beats&logoColor=ff1e3c)](https://www.beatstars.com/chicoloco40)
-[![genius](https://img.shields.io/badge/genius-0d0d14?style=for-the-badge&logo=genius&logoColor=ff1e3c)](https://genius.com/artists/Chico-loco-40)
-[![songshare](https://img.shields.io/badge/songshare-0d0d14?style=for-the-badge&logo=spotify&logoColor=ff1e3c)](https://songshare.com/artist/a2g7yslh)
-[![internet archive](https://img.shields.io/badge/internet_archive-0d0d14?style=for-the-badge&logo=internetarchive&logoColor=ff1e3c)](https://archive.org/details/136b-top-trends-by-cl-40-world)
+[![audiomack](https://img.shields.io/badge/audiomack-09090b?style=for-the-badge&logo=audiomack&logoColor=dc2626)](https://audiomack.com/chicoloco40/song/dark-libari-2010)
+[![soundcloud](https://img.shields.io/badge/soundcloud-09090b?style=for-the-badge&logo=soundcloud&logoColor=dc2626)](https://soundcloud.com/chico-loco-40)
+[![beatstars](https://img.shields.io/badge/beatstars-09090b?style=for-the-badge&logo=beats&logoColor=dc2626)](https://www.beatstars.com/chicoloco40)
+[![genius](https://img.shields.io/badge/genius-09090b?style=for-the-badge&logo=genius&logoColor=dc2626)](https://genius.com/artists/Chico-loco-40)
+[![songshare](https://img.shields.io/badge/songshare-09090b?style=for-the-badge&logo=spotify&logoColor=dc2626)](https://songshare.com/artist/a2g7yslh)
+[![internet archive](https://img.shields.io/badge/internet_archive-09090b?style=for-the-badge&logo=internetarchive&logoColor=dc2626)](https://archive.org/details/136b-top-trends-by-cl-40-world)
 
 ### publishing & journalism
 
-[![substack](https://img.shields.io/badge/substack-0d0d14?style=for-the-badge&logo=substack&logoColor=ff1e3c)](https://substack.com/@cl40world)
-[![wordpress](https://img.shields.io/badge/wordpress-0d0d14?style=for-the-badge&logo=wordpress&logoColor=ff1e3c)](https://chicoloco40.wordpress.com/)
-[![medium](https://img.shields.io/badge/medium-0d0d14?style=for-the-badge&logo=medium&logoColor=ff1e3c)](https://medium.com/@cl40world)
-[![booklabria](https://img.shields.io/badge/booklabria-0d0d14?style=for-the-badge&logo=googlebooks&logoColor=ff1e3c)](https://booklabria.com)
-[![writeupcafe](https://img.shields.io/badge/writeupcafe-0d0d14?style=for-the-badge&logo=ghost&logoColor=ff1e3c)](https://writeupcafe.com/author/chicoloco40)
-[![mumubl](https://img.shields.io/badge/mumubl-0d0d14?style=for-the-badge&logo=mastodon&logoColor=ff1e3c)](https://mumubl.com/members/chicoloco40/profile/)
+[![substack](https://img.shields.io/badge/substack-09090b?style=for-the-badge&logo=substack&logoColor=dc2626)](https://substack.com/@cl40world)
+[![wordpress](https://img.shields.io/badge/wordpress-09090b?style=for-the-badge&logo=wordpress&logoColor=dc2626)](https://chicoloco40.wordpress.com/)
+[![medium](https://img.shields.io/badge/medium-09090b?style=for-the-badge&logo=medium&logoColor=dc2626)](https://medium.com/@cl40world)
+[![booklabria](https://img.shields.io/badge/booklabria-09090b?style=for-the-badge&logo=googlebooks&logoColor=dc2626)](https://booklabria.com)
+[![writeupcafe](https://img.shields.io/badge/writeupcafe-09090b?style=for-the-badge&logo=ghost&logoColor=dc2626)](https://writeupcafe.com/author/chicoloco40)
+[![mumubl](https://img.shields.io/badge/mumubl-09090b?style=for-the-badge&logo=mastodon&logoColor=dc2626)](https://mumubl.com/members/chicoloco40/profile/)
 
-### developer, academic & executive
+### developer, academic & arts
 
-[![roadmap.sh](https://img.shields.io/badge/roadmap.sh-0d0d14?style=flat-square&logo=roadmapdotsh&logoColor=ff1e3c)](https://roadmap.sh/u/cl40world)
-[![google scholar](https://img.shields.io/badge/google_scholar-0d0d14?style=flat-square&logo=googlescholar&logoColor=ff1e3c)](https://scholar.google.com/citations?user=lofDR3kAAAAJ&hl=en&scioq=Samir+Libari)
-[![orcid](https://img.shields.io/badge/orcid-0d0d14?style=flat-square&logo=orcid&logoColor=ff1e3c)](https://orcid.org/0009-0001-4557-4898)
-[![about.me](https://img.shields.io/badge/about.me-0d0d14?style=flat-square&logo=aboutdotme&logoColor=ff1e3c)](https://about.me/samir-libari)
-[![wellfound](https://img.shields.io/badge/wellfound-0d0d14?style=flat-square&logo=wellfound&logoColor=ff1e3c)](https://wellfound.com/u/samir-libari)
-[![ted](https://img.shields.io/badge/ted-0d0d14?style=flat-square&logo=ted&logoColor=ff1e3c)](https://www.ted.com/profiles/52159764)
-
-### visual arts, cinema & store
-
-[![letterboxd](https://img.shields.io/badge/letterboxd-0d0d14?style=flat-square&logo=letterboxd&logoColor=ff1e3c)](https://letterboxd.com/samirlibari/)
-[![senscritique](https://img.shields.io/badge/senscritique-0d0d14?style=flat-square&logo=senscritique&logoColor=ff1e3c)](https://www.senscritique.com/cl40world)
-[![behance](https://img.shields.io/badge/behance-0d0d14?style=flat-square&logo=behance&logoColor=ff1e3c)](https://www.behance.net/cl40world)
-[![deviantart](https://img.shields.io/badge/deviantart-0d0d14?style=flat-square&logo=deviantart&logoColor=ff1e3c)](https://www.deviantart.com/cl40world)
-[![benable](https://img.shields.io/badge/benable-0d0d14?style=flat-square&logo=shopify&logoColor=ff1e3c)](https://benable.com/chicoloco_40)
-[![redbubble](https://img.shields.io/badge/redbubble-0d0d14?style=flat-square&logo=redbubble&logoColor=ff1e3c)](https://www.redbubble.com/people/cl40world/shop)
-
-### legal policies & webhook forms
-
-[![legal policy 1](https://img.shields.io/badge/legal_policy_1-0d0d14?style=flat-square&logo=termius&logoColor=ff1e3c)](https://www.termsfeed.com/live/17b107e2-d672-47a0-b941-e500a59dff48)
-[![eula / legal policy 2](https://img.shields.io/badge/eula_/_legal_policy_2-0d0d14?style=flat-square&logo=termius&logoColor=ff1e3c)](https://www.termsfeed.com/live/24a824fb-3c4c-4d21-94f1-620d724ad834)
-[![formester webhook 1](https://img.shields.io/badge/formester_webhook_1-0d0d14?style=flat-square&logo=webhook&logoColor=ff1e3c)](https://zpifiscs.formester.com/f/BHTHcDKg6)
-[![formester webhook 2](https://img.shields.io/badge/formester_webhook_2-0d0d14?style=flat-square&logo=webhook&logoColor=ff1e3c)](https://zpifiscs.formester.com/f/vjUo40oqQ)
+[![roadmap.sh](https://img.shields.io/badge/roadmap.sh-09090b?style=for-the-badge&logo=roadmapdotsh&logoColor=dc2626)](https://roadmap.sh/u/cl40world)
+[![google scholar](https://img.shields.io/badge/google_scholar-09090b?style=for-the-badge&logo=googlescholar&logoColor=dc2626)](https://scholar.google.com/citations?user=lofDR3kAAAAJ&hl=en&scioq=Samir+Libari)
+[![about.me](https://img.shields.io/badge/about.me-09090b?style=for-the-badge&logo=aboutdotme&logoColor=dc2626)](https://about.me/samir-libari)
+[![wellfound](https://img.shields.io/badge/wellfound-09090b?style=for-the-badge&logo=wellfound&logoColor=dc2626)](https://wellfound.com/u/samir-libari)
+[![ted](https://img.shields.io/badge/ted-09090b?style=for-the-badge&logo=ted&logoColor=dc2626)](https://www.ted.com/profiles/52159764)
+[![letterboxd](https://img.shields.io/badge/letterboxd-09090b?style=for-the-badge&logo=letterboxd&logoColor=dc2626)](https://letterboxd.com/samirlibari/)
+[![senscritique](https://img.shields.io/badge/senscritique-09090b?style=for-the-badge&logo=senscritique&logoColor=dc2626)](https://www.senscritique.com/cl40world)
+[![behance](https://img.shields.io/badge/behance-09090b?style=for-the-badge&logo=behance&logoColor=dc2626)](https://www.behance.net/cl40world)
+[![deviantart](https://img.shields.io/badge/deviantart-09090b?style=for-the-badge&logo=deviantart&logoColor=dc2626)](https://www.deviantart.com/cl40world)
+[![benable](https://img.shields.io/badge/benable-09090b?style=for-the-badge&logo=shopify&logoColor=dc2626)](https://benable.com/chicoloco_40)
+[![redbubble](https://img.shields.io/badge/redbubble-09090b?style=for-the-badge&logo=redbubble&logoColor=dc2626)](https://www.redbubble.com/people/cl40world/shop)
 
 ---
 
@@ -217,11 +116,11 @@ flowchart LR
 
 ## relay stack
 
-![discord](https://img.shields.io/badge/discord-0d0d14?style=flat-square&logo=discord&logoColor=ff1e3c)
-![webhook.site](https://img.shields.io/badge/webhook.site-0d0d14?style=flat-square&logo=webhook&logoColor=ff1e3c)
-![n8n](https://img.shields.io/badge/n8n-0d0d14?style=flat-square&logo=n8n&logoColor=ff1e3c)
-![cloudflare workers](https://img.shields.io/badge/cloudflare_workers-0d0d14?style=flat-square&logo=cloudflare&logoColor=ff1e3c)
-![github actions](https://img.shields.io/badge/github_actions-0d0d14?style=flat-square&logo=githubactions&logoColor=ff1e3c)
+![discord](https://img.shields.io/badge/discord-09090b?style=flat-square&logo=discord&logoColor=dc2626)
+![webhook.site](https://img.shields.io/badge/webhook.site-09090b?style=flat-square&logo=webhook&logoColor=dc2626)
+![n8n](https://img.shields.io/badge/n8n-09090b?style=flat-square&logo=n8n&logoColor=dc2626)
+![cloudflare workers](https://img.shields.io/badge/cloudflare_workers-09090b?style=flat-square&logo=cloudflare&logoColor=dc2626)
+![github actions](https://img.shields.io/badge/github_actions-09090b?style=flat-square&logo=githubactions&logoColor=dc2626)
 
 | layer | role | cost profile |
 |---|---|---|
@@ -229,14 +128,14 @@ flowchart LR
 | webhook.site | instant payload inspection / routing mirror | free tier |
 | cloudflare workers | edge relay, signature check, llm routing key | free / low |
 | n8n | llm calls, formatting, fan-out | low |
-| github actions | cron ticks, `repository_dispatch` triggers | free / low |
+| github actions | cron ticks, `repository_dispatch`, repo scripts: `deploy.ps1` · `run-bots.ps1` · `cl40_world_record.cpp` | free / low |
 
 ## multi-llm routing
 
-![claude](https://img.shields.io/badge/claude-0d0d14?style=flat-square&logo=anthropic&logoColor=ff1e3c)
-![gemini](https://img.shields.io/badge/gemini-0d0d14?style=flat-square&logo=googlegemini&logoColor=ff1e3c)
-![gpt](https://img.shields.io/badge/gpt-0d0d14?style=flat-square&logo=openai&logoColor=ff1e3c)
-![grok](https://img.shields.io/badge/grok-0d0d14?style=flat-square&logo=x&logoColor=ff1e3c)
+![claude](https://img.shields.io/badge/claude-09090b?style=flat-square&logo=anthropic&logoColor=dc2626)
+![gemini](https://img.shields.io/badge/gemini-09090b?style=flat-square&logo=googlegemini&logoColor=dc2626)
+![gpt](https://img.shields.io/badge/gpt-09090b?style=flat-square&logo=openai&logoColor=dc2626)
+![grok](https://img.shields.io/badge/grok-09090b?style=flat-square&logo=x&logoColor=dc2626)
 
 | llm | role | slash command | `llm` key |
 |---|---|---|---|
@@ -249,12 +148,12 @@ flowchart LR
 
 | squad | bots | relay targets |
 |---|---|---|
-| relay & ops | 11 | [official portal](https://cl40.world) · [contact gateway](https://cl40.contact) · [press hub](https://cl40.world) · health + alert bots |
+| relay & ops | 11 | [official portal](https://cl40.world) · [contact gateway](https://cl40.contact) · [press hub](https://cl40.world) · [musicbrainz](https://musicbrainz.org) · health + alert bots |
 | publishing | 22 | [substack](https://substack.com/@cl40world) · [wordpress](https://chicoloco40.wordpress.com/) · [medium](https://medium.com/@cl40world) · [booklabria](https://booklabria.com) · [writeupcafe](https://writeupcafe.com/author/chicoloco40) · [mumubl](https://mumubl.com/members/chicoloco40/profile/) · [quora](https://cl40worldportal.quora.com/) · [internet archive](https://archive.org/details/136b-top-trends-by-cl-40-world) |
 | catalog & rights | 22 | [audiomack](https://audiomack.com/chicoloco40/song/dark-libari-2010) · [soundcloud](https://soundcloud.com/chico-loco-40) · [beatstars](https://www.beatstars.com/chicoloco40) · [genius](https://genius.com/artists/Chico-loco-40) · [songshare](https://songshare.com/artist/a2g7yslh) · [links.fans](https://links.fans/chicoloco40) · spotify · apple music |
 | social & trends | 22 | x (grok) · [letterboxd](https://letterboxd.com/samirlibari/) · [senscritique](https://www.senscritique.com/cl40world) · [behance](https://www.behance.net/cl40world) · [deviantart](https://www.deviantart.com/cl40world) · [benable](https://benable.com/chicoloco_40) · [redbubble](https://www.redbubble.com/people/cl40world/shop) |
 | community | 22 | [discord server](https://discord.gg) · [discord oauth](https://discord.com/oauth2/authorize?client_id=1510455630387740812&response_type=code&redirect_uri=https://cl40.contact/&scope=identify) · [taskade](https://cl40-world-1273.taskade.app/) · [formester 1](https://zpifiscs.formester.com/f/BHTHcDKg6) · [formester 2](https://zpifiscs.formester.com/f/vjUo40oqQ) |
-| identity & academic | 12 | [roadmap.sh](https://roadmap.sh/u/cl40world) · [google scholar](https://scholar.google.com/citations?user=lofDR3kAAAAJ&hl=en&scioq=Samir+Libari) · [orcid](https://orcid.org/0009-0001-4557-4898) · [about.me](https://about.me/samir-libari) · [wellfound](https://wellfound.com/u/samir-libari) · [ted](https://www.ted.com/profiles/52159764) |
+| identity & academic | 12 | [orcid](https://orcid.org/0009-0001-4557-4898) · [roadmap.sh](https://roadmap.sh/u/cl40world) · [google scholar](https://scholar.google.com/citations?user=lofDR3kAAAAJ&hl=en&scioq=Samir+Libari) · [about.me](https://about.me/samir-libari) · [wellfound](https://wellfound.com/u/samir-libari) · [ted](https://www.ted.com/profiles/52159764) · [legal policy 1](https://www.termsfeed.com/live/17b107e2-d672-47a0-b941-e500a59dff48) · [eula](https://www.termsfeed.com/live/24a824fb-3c4c-4d21-94f1-620d724ad834) |
 
 ## omnichannel sync
 
@@ -504,7 +403,7 @@ no keys or tokens are committed to this repository.
 
 ## deploy (browser only)
 
-1. cloudflare dashboard → workers & pages → create worker → paste `relay/worker.js` → add variables → deploy.
+1. cloudflare dashboard → workers & pages → create worker → paste `relay/worker.js` from the code section → add variables → deploy.
 2. discord developer portal → application `1510455630387740812` → general information → interactions endpoint url = worker url. copy the public key into `DISCORD_PUBLIC_KEY`.
 3. n8n → import `n8n/cl40-relay.workflow.json` → set variables + header-auth credential → activate → copy the production webhook url into `N8N_WEBHOOK_URL`.
 4. n8n → run the slash-command registration once.
@@ -515,7 +414,9 @@ no keys or tokens are committed to this repository.
 
 <div align="center">
 
-**cl40 world llc × wr beats music group**
+**cl40 world llc × wr beats music group — new york, usa**
 `dignity above shares`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:dc2626,100:09090b" alt="" width="100%">
 
 </div>
