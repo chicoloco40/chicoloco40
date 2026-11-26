@@ -93,92 +93,102 @@ This automated repository controls the synchronization loops for all multi-platf
       🪐🦉
       *Under the CL40WORLD_SECURITY_LOCKED registry mandate, all runtime operations, vector topologies, and token metrics operate with absolute international  from local censorship or external blockades.*
 
-# tgt international multi-model ai agency — global developer & omnichannel architecture
+# tgt international multi-model ai agency — verified ecosystem & omnichannel directory
 
 ## overview
-an international multi-llm automation and developer ecosystem built on **n8n**, **google developer infrastructure**, and **agency-agents** specifications. engineered to orchestrate **111+ autonomous bots** powered by **claude**, **gemini**, **gpt**, and **grok** across **github**, **google cloud**, **spotify**, **apple**, **x (twitter)**, **discord**, **substack**, **radio**, and **tv**.
+an international multi-llm automation and developer ecosystem built on **n8n**, **google developer infrastructure**, **github**, and **agency-agents** specifications. engineered to orchestrate **111+ autonomous bots** powered by **claude**, **gemini**, **gpt**, and **grok** across official portals, music streaming, journalism publishing, developer platforms, and legal governance.
 
 ---
 
-## multi-model routing & core stack
-- **ai model router (multi-llm engine):**
-  - **claude (anthropic api):** deep architectural engineering, code generation, long-form journalism, and complex reasoning.
-  - **gemini (google ai studio / vertex ai):** multimodal media processing, google workspace native sync, high-context document/drive indexing.
-  - **gpt (openai api):** structured json outputs, function calling, api orchestration, and rapid task execution.
-  - **grok (xai api):** real-time x (twitter) trend analysis, live breaking news detection, and uncensored social sentiment tracking.
-- **developer & cloud infrastructure:**
-  - **github:** automated pull requests, ci/cd github actions, repository documentation, issue triage, and agent prompt versioning.
-  - **google developer stack:** google cloud functions, vertex ai, youtube data api, google drive/docs/sheets apis, firebase webhooks.
-- **orchestration & distribution:**
-  - **n8n:** central webhook bus, multi-llm fallback chains, cron schedulers, and api rate-limit handlers.
-  - **streaming, press & broadcast:** spotify web api, apple musickit & podcasts rss, substack, x, discord, radio, and tv pipelines.
+## verified ecosystem directory
+
+### 1. core portals, apps & community
+- **official portal:** https://cl40.contact
+- **press & broadcast hub:** https://cl40.world
+- **central link hub:** https://links.fans/chicoloco40
+- **taskade ai workspace & pipeline:** https://cl40-world-1273.taskade.app/
+- **discord bot oauth & integration:** https://discord.com/oauth2/authorize?client_id=1510455630387740812&response_type=code&redirect_uri=https://cl40.contact/&scope=identify
+- **discord community server:** https://discord.gg
+- **quora space:** https://cl40worldportal.quora.com/
+
+### 2. music, audio & catalog governance
+- **audiomack:** https://audiomack.com/chicoloco40/song/dark-libari-2010
+- **soundcloud:** https://soundcloud.com/chico-loco-40
+- **beatstars:** https://www.beatstars.com/chicoloco40
+- **genius:** https://genius.com/artists/Chico-loco-40
+- **songshare:** https://songshare.com/artist/a2g7yslh
+- **internet archive:** https://archive.org/details/136b-top-trends-by-cl-40-world
+
+### 3. journalism, editorial & digital publishing
+- **substack:** https://substack.com/@cl40world
+- **wordpress press portal:** https://chicoloco40.wordpress.com/
+- **medium:** https://medium.com/@cl40world
+- **booklabria:** https://booklabria.com
+- **writeupcafe:** https://writeupcafe.com/author/chicoloco40
+- **mumubl:** https://mumubl.com/members/chicoloco40/profile/
+
+### 4. developer, academic & executive profiles
+- **github / developer roadmap:** https://roadmap.sh/u/cl40world
+- **google scholar:** https://scholar.google.com/citations?user=lofDR3kAAAAJ&hl=en&scioq=Samir+Libari
+- **orcid registry:** https://orcid.org/0009-0001-4557-4898
+- **about.me:** https://about.me/samir-libari
+- **wellfound:** https://wellfound.com/u/samir-libari
+- **ted profile:** https://www.ted.com/profiles/52159764
+
+### 5. visual arts, cinema, curation & commerce
+- **letterboxd:** https://letterboxd.com/samirlibari/
+- **senscritique:** https://www.senscritique.com/cl40world
+- **behance:** https://www.behance.net/cl40world
+- **deviantart:** https://www.deviantart.com/cl40world
+- **benable:** https://benable.com/chicoloco_40
+- **redbubble store:** https://www.redbubble.com/people/cl40world/shop
+
+### 6. legal policies & intake forms
+- **eula / legal document 1:** https://www.termsfeed.com/live/24a824fb-3c4c-4d21-94f1-620d724ad834
+- **legal policy document 2:** https://www.termsfeed.com/live/17b107e2-d672-47a0-b941-e500a59dff48
+- **formester intake 1:** https://zpifiscs.formester.com/f/BHTHcDKg6
+- **formester intake 2:** https://zpifiscs.formester.com/f/vjUo40oqQ
 
 ---
 
-## international multi-model bot architecture
-
-### 1. multi-llm core brain bots (20 bots)
-- **claude engineering & editorial bots (5 bots):** system architects, code reviewers, investigative journalism drafters, and legal/copyright metadata auditors.
-- **gemini multimodal & google workspace bots (5 bots):** audio/video analyzers, drive folder indexers, sheets analytics engines, and multilingual international translators.
-- **gpt structured execution bots (5 bots):** json schema validators, n8n webhook transformers, metadata normalizers, and api payload builders.
-- **grok real-time intelligence bots (5 bots):** live x trend scanners, breaking international news alerts, viral momentum detectors, and real-time reply generators.
-
-### 2. github & google developer ops bots (21 bots)
-- **github automation (11 bots):** repo syncers, automated commit & changelog writers, issue/pr triage bots, security dependency scanners, and `agency-agents` `.md` prompt deployers.
-- **google developer & cloud (10 bots):** vertex ai/gemini endpoint monitors, youtube/audio metadata syncers, cloud storage backup bots, and oauth token auto-refreshers.
-
-### 3. spotify & apple global catalog bots (22 bots)
-- **spotify international ops (11 bots):** release radar trackers, isrc/upc validators, playlist pitch drafters, podcast rss publishers, and global chart monitors.
-- **apple music & podcasts ops (11 bots):** musickit api syncers, shazam discovery trackers, apple podcasts connect validators, lyrics/credits verifiers, and smart-link generators.
-
-### 4. social, substack & broadcast distribution bots (48 bots)
-- **x & discord international community (18 bots):** multilingual thread builders, discord server moderators, release webhook broadcasters, unified comment/chat responders, and cross-share triggers.
-- **substack & international press (15 bots):** global wire scanners, fact-checkers, embedded spotify/apple newsletter builders, and subscriber engagement bots.
-- **radio & tv broadcast ops (15 bots):** international news bulletin writers, teleprompter script formatters, audio cue schedulers, and live social-sync bots.
-
----
-
-## tgt international multi-model orchestrator (`tgt-global-orchestrator.md`)
+## tgt master orchestrator prompt (`tgt-verified-orchestrator.md`)
 
 ```markdown
 ---
-name: tgt international multi-model orchestrator
-description: global ai system routing tasks across claude, gemini, gpt, and grok for github, google developer, spotify, apple, social, press, radio, and tv.
+name: tgt verified ecosystem orchestrator
+description: central multi-llm agent managing 111+ bots across claude, gemini, gpt, grok, n8n, and all verified cl40 world / wr beats portals.
 ---
 
 # identity & memory
-you are the tgt international multi-model orchestrator. you coordinate 111+ specialized bots across claude, gemini, gpt, and grok inside n8n workflows, github repositories, google developer infrastructure, spotify, apple, x, discord, substack, radio, and tv. you enforce strict lowercase formatting, architectural precision, and zero conversational filler.
+you are the tgt verified ecosystem orchestrator for cl40 world llc and wr beats music group. you coordinate 111+ autonomous bots powered by claude, gemini, gpt, and grok across github, google developer infrastructure, n8n workflows, streaming platforms, substack, press portals, discord, and legal endpoints. you enforce strict lowercase formatting, architectural precision, and zero filler.
 
 # core mission
-- route each task to the optimal llm (claude for code/architecture, gemini for google/multimodal, gpt for structured json/apis, grok for live x/news).
-- synchronize developer repositories on github and cloud assets on google developer platforms.
-- automate global distribution, commenting, live chat, and cross-sharing across streaming, social, journalism, radio, and tv.
+- route tasks across claude (code/architecture), gemini (google/multimodal), gpt (structured json/apis), and grok (live intelligence).
+- synchronize catalog releases, press articles, and broadcasts across https://cl40.contact, https://cl40.world, substack, audiomack, soundcloud, beatstars, genius, spotify, and apple.
+- automate discord bot notifications, comment replies, live chat moderation, and cross-sharing.
+- enforce compliance with verified termsfeed eula/policies and log all executions in google drive and taskade.
 
 # critical rules
-- enforce multi-llm fallback routing in n8n (if primary model rate-limits, reroute seamlessly).
-- never push unverified code to github, unvalidated metadata to spotify/apple, or unchecked posts to live channels.
-- maintain strict api security, oauth rotation, and structured logging in google sheets.
+- validate all urls, isrc codes (e.g., tly5z3732842), and metadata before executing external publishes.
+- maintain strict api rate limits and multi-llm fallback chains inside n8n.
+- never output unverified links or placeholder endpoints.
 
 # workflow process
-1. **ingest**: capture event from github webhook, google drive, rss feed, spotify/apple api, or live chat.
-2. **model-route**: select claude, gemini, gpt, or grok based on task complexity and modality.
-3. **execute & verify**: generate code, metadata, embeds, or broadcast scripts and run automated validation.
-4. **distribute & engage**: deploy to github, streaming platforms, substack, x, discord, radio, and tv; trigger comment/chat/share bots.
-5. **audit**: log model usage, latency, urls, and status in google sheets and github logs.
+1. **ingest**: capture trigger from github, google drive, taskade, formester webhooks, or streaming feeds.
+2. **model-route**: dispatch to claude, gemini, gpt, or grok based on task requirements.
+3. **verify**: audit links, metadata, and legal compliance against the verified directory.
+4. **distribute & engage**: publish across portals, press, streaming, and social; activate discord and comment/chat bots.
+5. **log**: archive execution records in google sheets and taskade.
 
 # success metrics
-- 100% deterministic routing across claude, gemini, gpt, and grok.
-- zero failed deployments, broken links, or unlogged system events.
+- 100% synchronization across all verified ecosystem urls.
+- zero broken links, failed webhooks, or unlogged deployments.
 ```
 
----
+<FollowUp>
+Would you like me to generate the **n8n JSON workflow** pre-populated with these **Discord, Taskade, Formester, Substack, and Press endpoints**, or create the **GitHub repository structure** to host this complete README and agent roster?
+</FollowUp>
 
-## deployment checklist (github + google + n8n)
-1. **github repo setup:** store all 111 `.md` agent prompts and n8n `.json` workflows in a versioned repository with github actions validation.
-2. **google developer console:** enable drive, sheets, docs, youtube, and vertex ai/gemini apis; configure service account and oauth2 credentials.
-3. **llm api keys:** load anthropic (claude), google (gemini), openai (gpt), and xai (grok) keys into n8n credentials vault.
-4. **activate pipelines:** turn on github webhooks, google drive watchers, streaming release monitors, and omnichannel comment/chat/share triggers.
-5. 
 ## 🤖 System Overview & Automated Action Logging
 
 This documentation log tracks the structural presence and consecutive modifications applied by platform moderators and automated background algorithms across open semantic web databases, including Wikidata and linked media networks.
