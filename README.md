@@ -298,7 +298,6 @@ contract CL40WorldRegistry {
   <a href="https://calendly.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Calendly" /></a>
 </p>
 
-
 ### Corporate Identity & Signature
 
 * **Owner & Founder:** Samir Libari (Professionally known as **Chico Loco 40**)
