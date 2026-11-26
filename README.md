@@ -329,114 +329,32 @@ The documentation of the corporate footprint of Chico Loco 40 and the legacy of 
 
 ## CL40 World LLC - Ecosystem
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chicoloco40/chicoloco40/main/assets/ecosystem-flow.svg" alt="Animated CL40 World ecosystem flow" width="100%" />
-</p>
+<svg xmlns="http://w3.org" viewBox="0 0 880 180" width="880" height="180">
+  <rect width="880" height="180" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  
+  <!-- Row 1: Music & Video -->
+  <rect x="30" y="24" width="125" height="36" rx="6" fill="#1ED760"/><text x="92" y="47" fill="#000" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Spotify</text>
+  <rect x="170" y="24" width="125" height="36" rx="6" fill="#FA243C"/><text x="232" y="47" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Apple Music</text>
+  <rect x="310" y="24" width="125" height="36" rx="6" fill="#FF0000"/><text x="372" y="47" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">YouTube</text>
+  <rect x="450" y="24" width="125" height="36" rx="6" fill="#FF5500"/><text x="512" y="47" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">SoundCloud</text>
+  <rect x="590" y="24" width="125" height="36" rx="6" fill="#FFA200"/><text x="652" y="47" fill="#000" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Audiomack</text>
+  <rect x="730" y="24" width="120" height="36" rx="6" fill="#EB0029"/><text x="790" y="47" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">BeatStars</text>
 
-> The flow connects creative leadership, technology, business development, music production, product management, and global distribution Label Major.
+  <!-- Row 2: Press, Dev & E-Commerce -->
+  <rect x="30" y="72" width="125" height="36" rx="6" fill="#4285F4"/><text x="92" y="95" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Google</text>
+  <rect x="170" y="72" width="125" height="36" rx="6" fill="#FF6719"/><text x="232" y="95" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Substack</text>
+  <rect x="310" y="72" width="125" height="36" rx="6" fill="#21759B"/><text x="372" y="95" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">WordPress</text>
+  <rect x="450" y="72" width="125" height="36" rx="6" fill="#24292F" stroke="#444"/><text x="512" y="95" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">GitHub</text>
+  <rect x="590" y="72" width="125" height="36" rx="6" fill="#95BF47"/><text x="652" y="95" fill="#000" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Shopify</text>
+  <rect x="730" y="72" width="120" height="36" rx="6" fill="#FF424D"/><text x="790" y="95" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Patreon</text>
 
-### LB0025 Official
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chicoloco40/chicoloco40/main/assets/lb0025-ecosystem-flow.svg" alt="Animated LB0025 Official ecosystem flow for Abdelghafour Libari" width="100%" />
-</p>
-
-> Official name: **Abdelghafour Libari**. This profile flow is kept separate from the main CL40 World LLC.
-
-<img width="1254" height="1254" alt="art_pro_cl40_v2" src="https://github.com/user-attachments/assets/47f61c76-2314-493c-b398-75b5565f9d46" />
-<img width="300" height="123" alt="__A__Sales_Projects_______B__CL40_World_Dashboard__" src="https://github.com/user-attachments/assets/470f432a-2657-4d8a-b1a8-6cbf02e8b641" />
-
-## Portal Publishing
-
-<svg xmlns="http://w3.org" viewBox="0 0 900 480" width="900" height="480">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#07131e"/>
-      <stop offset="100%" stop-color="#0d1f30"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect width="900" height="480" rx="14" fill="url(#bgGrad)" stroke="#1e3a5f" stroke-width="2"/>
-
-  <!-- Header -->
-  <text x="450" y="34" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" letter-spacing="2">CL40 WORLD ECOSYSTEM</text>
-  <text x="450" y="52" fill="#8ab4f8" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">International Corporate Holding • 20 Divisions • Global Infrastructure</text>
-
-  <!-- Top Node: Chico Loco 40 -->
-  <rect x="340" y="68" width="220" height="46" rx="8" fill="#1a73e8" filter="url(#glow)">
-    <animate attributeName="opacity" values="0.9;1;0.9" dur="2.5s" repeatCount="indefinite"/>
-  </rect>
-  <text x="450" y="88" fill="#ffffff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Chico Loco 40 (Samir Libari)</text>
-  <text x="450" y="104" fill="#d2e3fc" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Sole Owner • CEO • COO • CTO • CFO • CMO</text>
-
-  <!-- Animated Connector Lines -->
-  <g stroke="#4fc3f7" stroke-width="1.8" fill="none" stroke-dasharray="6,4">
-    <path d="M450,114 L450,132 L160,132 L160,150">
-      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="1.5s" repeatCount="indefinite"/>
-    </path>
-    <path d="M450,114 L450,150">
-      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="1.5s" repeatCount="indefinite"/>
-    </path>
-    <path d="M450,114 L450,132 L740,132 L740,150">
-      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="1.5s" repeatCount="indefinite"/>
-    </path>
-    <line x1="160" y1="202" x2="160" y2="395"/>
-    <line x1="450" y1="202" x2="450" y2="395"/>
-    <line x1="740" y1="202" x2="740" y2="395"/>
-  </g>
-
-  <!-- Row 1: Core Entities -->
-  <rect x="55" y="150" width="210" height="52" rx="8" fill="#0d9488"/>
-  <text x="160" y="173" fill="#ffffff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">CL40 World LLC</text>
-  <text x="160" y="189" fill="#ccfbf1" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Flagship Record Label &amp; Holding</text>
-
-  <rect x="345" y="150" width="210" height="52" rx="8" fill="#059669"/>
-  <text x="450" y="173" fill="#ffffff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">WR Beats Music Group</text>
-  <text x="450" y="189" fill="#d1fae5" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Studio • Publishing • PRO Rights</text>
-
-  <rect x="635" y="150" width="210" height="52" rx="8" fill="#0284c7"/>
-  <text x="740" y="173" fill="#ffffff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Agency AI &amp; CL40 Space</text>
-  <text x="740" y="189" fill="#e0f2fe" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">111+ Bots • Gaming • App 7G</text>
-
-  <!-- Row 2: Music & Press Platforms -->
-  <rect x="55" y="225" width="210" height="56" rx="8" fill="#e11d48"/>
-  <text x="160" y="247" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Global Music &amp; DSPs</text>
-  <text x="160" y="264" fill="#ffe4e6" font-family="Arial, sans-serif" font-size="9.5" text-anchor="middle">Spotify • Apple • YouTube • MusicBrainz</text>
-
-  <rect x="345" y="225" width="210" height="56" rx="8" fill="#db2777"/>
-  <text x="450" y="247" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Press, News &amp; Literature</text>
-  <text x="450" y="264" fill="#fce7f3" font-family="Arial, sans-serif" font-size="9.5" text-anchor="middle">Google • Substack • WordPress • Booklabria</text>
-
-  <rect x="635" y="225" width="210" height="56" rx="8" fill="#7c3aed"/>
-  <text x="740" y="247" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Cinema &amp; Visual IP</text>
-  <text x="740" y="264" fill="#ede9fe" font-family="Arial, sans-serif" font-size="9.5" text-anchor="middle">IMDb Pro • Vimeo • Letterboxd • ArtRights</text>
-
-  <!-- Row 3: Tech, Social & E-Commerce -->
-  <rect x="55" y="305" width="210" height="56" rx="8" fill="#2563eb"/>
-  <text x="160" y="327" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Social &amp; Community</text>
-  <text x="160" y="344" fill="#dbeafe" font-family="Arial, sans-serif" font-size="9.5" text-anchor="middle">X • Instagram • LinkedIn • TikTok • Discord</text>
-
-  <rect x="345" y="305" width="210" height="56" rx="8" fill="#4f46e5"/>
-  <text x="450" y="327" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Engineering &amp; Gaming</text>
-  <text x="450" y="344" fill="#e0e7ff" font-family="Arial, sans-serif" font-size="9.5" text-anchor="middle">GitHub • GitLab • Epic Games • Xbox • ORCID</text>
-
-  <rect x="635" y="305" width="210" height="56" rx="8" fill="#d97706"/>
-  <text x="740" y="327" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">E-Commerce &amp; Finance</text>
-  <text x="740" y="344" fill="#fef3c7" font-family="Arial, sans-serif" font-size="9.5" text-anchor="middle">Shopify • Patreon • Stripe • Wise • Square</text>
-
-  <!-- Animated Pulse Status Bar -->
-  <rect x="180" y="395" width="540" height="32" rx="16" fill="#0f2942" stroke="#38bdf8" stroke-width="1.5"/>
-  <circle cx="205" cy="411" r="5" fill="#22c55e">
-    <animate attributeName="r" values="4;7;4" dur="1.2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="455" y="415" fill="#e0f2fe" font-family="monospace" font-size="11" font-weight="bold" text-anchor="middle">SYSTEM STATUS: ACTIVE • +240B REACH • 20 DIVISIONS SYNCHRONIZED</text>
+  <!-- Row 3: Social, Film & Gaming -->
+  <rect x="30" y="120" width="125" height="36" rx="6" fill="#000000" stroke="#444"/><text x="92" y="143" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">X</text>
+  <rect x="170" y="120" width="125" height="36" rx="6" fill="#E4405F"/><text x="232" y="143" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Instagram</text>
+  <rect x="310" y="120" width="125" height="36" rx="6" fill="#0A66C2"/><text x="372" y="143" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">LinkedIn</text>
+  <rect x="450" y="120" width="125" height="36" rx="6" fill="#5865F2"/><text x="512" y="143" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Discord</text>
+  <rect x="590" y="120" width="125" height="36" rx="6" fill="#F5C518"/><text x="652" y="143" fill="#000" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">IMDb Pro</text>
+  <rect x="730" y="120" width="120" height="36" rx="6" fill="#107C10"/><text x="790" y="143" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Xbox / Epic</text>
 </svg>
 
 * ©️ **Copyright Notice:** © 2026 CL40 World. All Rights Reserved`
