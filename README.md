@@ -219,85 +219,129 @@ contract CL40WorldRegistry {
 ```
 ---
 
-## Official Corporate & Label Registry (20 Entities Portfolio)
+<div align="center">
 
-**Sole Owner & Founder:** Samir Libari (Chico Loco 40)  
-**Global Hubs:** New York & Santa Barbara (USA) | Sydney (Australia) | Tangier & Rabat (Morocco)  
-**Compliance:** US EIN Registered (Form W-9 & W-7) | Australian ABN Registered  
+<img src="https://githubusercontent.com" alt="CL40 World Activity Grid" />
 
-### Part 1: 14 Exclusive Sole-Ownership Labels & Entities (100% Owned)
+<img src="https://githubusercontent.com" alt="CL40 World LLC Banner" />
 
-1. **Chico Loco 40 (Samir Libari) — UNIVERSAL MUSIC PUBLISHING**  
-   *Primary Recording Artist, Songwriter, Executive Producer & Intellectual Property Holder.*
-2. **QUARANTA-FOUR-ZERO**  
-   *Sonic Production Division, Sound Design, Audio Engineering & Original Compositions.*
-3. **CL40 World**  
-   *Global Record Label Major, Executive Ownership & International Master Rights Administration.*
-4. **WR Beats**  
-   *Global Music Publishing (Sydney, Santa Barbara & New York), Commercial Licensing, Beat Production & Brand Marketing.*
-5. **Performing Rights Organization WR Beats**  
-   *International Performance Rights Administration, Royalty Accounting & Financial Operations.*
-6. **Universal Music Publishing Pty Limited (Australian Business Reference)**  
-   *Associated Publishing Registration & Australian Business Operations Reference.*
-7. **CL40 World Space**  
-   *Technology, Software Engineering, Interactive Gaming & Digital Operations Infrastructure.*
-8. **CL40 World News**  
-   *International Journalism, Media Broadcasting & Corporate Press Communications.*
-9. **CL40 World Magazine**  
-   *Global Editorial, Contemporary Art, Culture, Lifestyle & Brand Publishing.*
-10. **CL40 World ArtVirial**  
-    *Legal Visual Arts & Posters Administration (Shop Universal Alignment) at UNIVERSAL ART PTY LTD.*
-11. **CL40 World Department (Sydney & International)**  
-    *Official Artist Support, Documentation Compliance, Poise, Etiquette & Personal Development Alignment at AUSTRALIAN DEPORTMENT ACADEMY PTY LTD.*
-12. **App 7G Maroc 6**  
-    *Digital Systems Architecture & Music-Tech Gateway based in Hay Riad, Rabat, connecting Moroccan creators with global distribution and rights infrastructure across Morocco, Australia, and the United States.*
-13. **CL40 World Portal (United States)**  
-    *Technology, Software Engineering & Global Artist/Enterprise Application covering work, jobs, merch, Complete Agency AI Bot G7, and automated engineering stacks (C++ / Python / Autotools / Android / Streaming) under United States corporate operations.*
-14. **CL40 World Music Distribution (Australia & Orion Network)**  
-    *International Music Distribution Platform & Corporate Entity in Australia at KILLER PTY LTD, actively integrated with Orion distribution operations.*
+# CL40 World LLC & WR Beats Music Group
+**Samir Libari (Chico Loco 40) — Sole Owner, Founder, CEO, COO, CTO, CFO & CMO**
 
-### Part 2: 6 Strategic Corporate Partnerships (ABN Verified — Official Reveal Pending)
+[![Portal](https://shields.io)](https://cl40.world)
+[![Contact Hub](https://shields.io)](https://cl40.contact)
+[![ORCID](https://shields.io)](https://orcid.org)
+[![Booklabria](https://shields.io)](https://booklabria.com)
 
-15. **Strategic Corporate Partnership #01 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
-16. **Strategic Corporate Partnership #02 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
-17. **Strategic Corporate Partnership #03 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
-18. **Strategic Corporate Partnership #04 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
-19. **Strategic Corporate Partnership #05 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
-20. **Strategic Corporate Partnership #06 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
+</div>
+
+---
+
+### Executive Corporate & Ecosystem Directory
+
+1. **CL40 World LLC** — Flagship international record label and parent corporate holding entity.
+2. **CL40 World Music Distribution** — Global digital distribution and master catalog delivery infrastructure.
+3. **CL40 World Film** — Cinema, music videos, documentary storytelling, and visual production.
+4. **CL40 World Sinisters** — Dark horror, psycho drill, and cinematic audio/video interactive experiences.
+5. **CL40 World Space** — Gaming, interactive media, virtual ecosystems, software development, and Autonomous AI Bot Agency (111+ Active Bots).
+6. **CL40 World News** — International broadcast, podcasts, and digital press syndication.
+7. **CL40 World Magazine** — Editorial, journalism, contemporary art, and global digital publications.
+8. **CL40 World Labs** — Software engineering, AI systems architecture, and enterprise automation.
+9. **CL40 World Portal** — Enterprise infrastructure and B2C / P2D digital platforms.
+10. **CL40 World ArtVirial** — Visual arts, cover design, and certified digital creative media (`ArtRights: ARU26PR04872`).
+11. **WR Beats Music Publishing** — Global music publishing and original composition administration.
+12. **Performing Rights Organization WR Beats (RightsProMusic)** — International performance, mechanical, neighboring rights, and royalty collection administration.
+13. **WR Beats Studio** — Professional audio engineering, sound design, mixing, and mastering.
+14. **App 7G Maroc 6** — Digital systems architecture and music-tech gateway connecting creators with global distribution and rights infrastructure.
+15. **CL40 World Enterprise Gateway** — Centralized digital gateway, web platforms, and enterprise system integration.
+16. **CLEbook Libria NY** — Digital publishing house, e-book distribution, and New York editorial operations.
+17. **CL40 World Department** — Official artist support, documentation compliance, and international editorial department operating across the United States.
+18. **Strategic Corporate Alignment #18** — International media and distribution joint venture (US / Australia).
+19. **Strategic Corporate Alignment #19** — Global rights and technology infrastructure partnership (US / Europe).
+20. **Strategic Corporate Alignment #20** — Cross-border enterprise and creative syndication division (USA / Morocco).
+
+---
+
+### Global Performance Metrics & Sound Architecture
+
+| Metric | Verified Status |
+| :--- | :--- |
+| **Total Global Reach** | +240 Billion Impressions |
+| **Annual Reach Target** | +240 Billion Impressions / Year |
+| **Countries Covered** | +210 Countries |
+| **Playlist Reach** | +188k Listeners |
+| **Artist Rank Global** | #1.14M+ |
+| **Active Years** | 2014 – Present |
+
+* **Sonic Fusion:** Dark Alternative Rap, Psycho Dark Horror, Psycho Drill, Psycho Trap, and Experimental Production.
+* **Radio & Broadcast:** *Samir Libari Podcast* (CL40 World / WR Beats Studio — RSS & Global DSPs).
+
+---
+
+### Verified Official Platforms & Direct Links
+
+<div align="center">
+
+[![YouTube](https://shields.io)](https://youtube.com)
+[![Spotify](https://shields.io)](https://spotify.com)
+[![GitHub](https://shields.io)](https://github.com)
+[![GitLab](https://shields.io)](https://gitlab.com)
+[![WordPress](https://shields.io)](https://wordpress.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![X](https://shields.io)](https://x.com)
+[![Threads](https://shields.io)](https://threads.net)
+[![Bluesky](https://shields.io)](https://bsky.app)
+[![TikTok](https://shields.io)](https://tiktok.com)
+[![Vimeo](https://shields.io)](https://vimeo.com)
+[![Stack Overflow](https://shields.io)](https://stackoverflow.com)
+[![Reddit](https://shields.io)](https://reddit.com)
+[![Patreon](https://shields.io)](https://patreon.com)
+[![Telegram](https://shields.io)](https://t.me)
+[![Calendly](https://shields.io)](https://calendly.com)
+
+</div>
+
+---
+
+### Corporate Identity & Signature
+
+* **Owner & Founder:** Samir Libari (Professionally known as **Chico Loco 40**)
+* **Global Hubs:** New York, NY 10011 (United States) | Tangier (Morocco)
+* **Corporate Address:** 136 W 15th St, Apt 2/2, New York, NY 10011, United States
+* **Official Contact:** `founder.american@cl40.world` | `legal@cl40.world` | `+1 (332) 250-3112` | https://cl40.contact
+* **Signature:** `LIBARI SAMIR`
+* **© 2026 CL40 World LLC. All Rights Reserved.**
 
 # OWNER-sinisters
+
+      🪐🦉
+      *Under the CL40WORLD_SECURITY_LOCKED registry mandate, all runtime operations, vector topologies, and token metrics operate with absolute independence from local censorship or external blockades.*
+      
+# CL40 World — Hybrid Enterprise Architecture (`OWNER-sinisters`)
+
+**Sole Owner & Systems Architect:** Samir Libari (Chico Loco 40)  
+**Global Entities:** 20 Labels
+**Repository:** [https://github.com/Samir-Libari/OWNER-sinisters](https://github.com/Samir-Libari/OWNER-sinisters)  
 
 ##  Insidious 2010
 
 # 🔒 SYSTEM DECLARATION: THE SOVEREIGN DEPLOYMENT REGISTER
+
 ## SECURITY ENFORCEMENT PROTOCOL: [CL40WORLD_SECURITY_LOCKED]
 ## GLOBAL MATRIX ACTIVATION TIMELINE: [TGT_ACTIVE_2027]
 ## CORE METRIC STATUS: +240 BILLION INTEL REACH // 111 PERSISTENT DIGITAL WORKERS
 
----
-
 ## 👑 EXECUTIVE INTEL OVERVIEW
+
 * **Master System Architect & Founder:** Samir Libari (Chico Loco 40) — Moroccan-American Corporate Developer.
 * **Ecosystem Syndicate Parent:** CL40 World LLC & WR Beats Studio.
-* **Sovereign Legal Decree:** Absolute cross-border execution, structural validation, and permanent cloud protection of the historical ancestral rights and family assets of M'Hamed Hamed Libari. Third-party database interference is permanently blocked.
-
----
+* **Sovereign Legal Decree:** Absolute cross-border execution, structural validation, and permanent cloud protection of the historical ancestral rights and family assets of M'Hamed Libari. Third-party database interference is permanently blocked.
 
 ## 📡 THE GLOBAL "FREE OWNER" BROADCAST PIPELINE
 This automated repository controls the synchronization loops for all multi-platform media outlets (Videos, Photos, Reels, and RSS Streams). The primary objective is the systemic dissemination of verified asset ownership data across all international networks:
 * **Dynamic Video & Reels Engine:** Programmatically pushes dynamic metadata layers containing native author descriptors across streaming environments.
 * **Autonomous Image Mapping:** Embeds unalterable cryptographic hashes (SHA-256) into corporate branding covers, proving source verification.
-* **Decentralized Multi-Lingual Sync:** Commands the 111 persistent worker nodes to read, validate, and broadcast system parameters across all major international language threads.
-
-*Under the CL40WORLD_SECURITY_LOCKED registry mandate, all runtime operations, vector topologies, and token metrics operate with absolute independence from local censorship or external blockades.*
-# CL40 World — Hybrid Enterprise Architecture (`OWNER-sinisters`)
-
-**Sole Owner & Systems Architect:** Samir Libari (Chico Loco 40)  
-**Global Entities:** 20 Labels & Corporate Divisions (US EIN & Australian ABN Registered)  
-**Repository:** [https://github.com/Samir-Libari/OWNER-sinisters](https://github.com/Samir-Libari/OWNER-sinisters)  
-**Official Contact:** founder.american@cl40.world  
-
----
+* **Decentralized Multi-Lingual Sync:** Commands the 111 persistent worker nodes to read, validate, and broadcast system parameters across all major international language threads. 
 
 ## 01. CSS — Hybrid Enterprise UI
 ```css
@@ -474,58 +518,6 @@ contract CL40WorldRegistry {
 }
 ```
 ---
-
-## Official Corporate & Label Registry (20 Entities Portfolio)
-
-**Sole Owner & Founder:** Samir Libari (Chico Loco 40)  
-**Global Hubs:** New York & Santa Barbara (USA) | Sydney (Australia) | Tangier & Rabat (Morocco)  
-**Compliance:** US EIN Registered (Form W-9 & W-7) | Australian ABN Registered  
-
-### Part 1: 14 Exclusive Sole-Ownership Labels & Entities (100% Owned)
-
-1. **Chico Loco 40 (Samir Libari) — UNIVERSAL MUSIC PUBLISHING**  
-   *Primary Recording Artist, Songwriter, Executive Producer & Intellectual Property Holder.*
-2. **QUARANTA-FOUR-ZERO**  
-   *Sonic Production Division, Sound Design, Audio Engineering & Original Compositions.*
-3. **CL40 World**  
-   *Global Record Label Major, Executive Ownership & International Master Rights Administration.*
-4. **WR Beats**  
-   *Global Music Publishing (Sydney, Santa Barbara & New York), Commercial Licensing, Beat Production & Brand Marketing.*
-5. **Performing Rights Organization WR Beats**  
-   *International Performance Rights Administration, Royalty Accounting & Financial Operations.*
-6. **Universal Music Publishing Pty Limited (Australian Business Reference)**  
-   *Associated Publishing Registration & Australian Business Operations Reference.*
-7. **CL40 World Space**  
-   *Technology, Software Engineering, Interactive Gaming & Digital Operations Infrastructure.*
-8. **CL40 World News**  
-   *International Journalism, Media Broadcasting & Corporate Press Communications.*
-9. **CL40 World Magazine**  
-   *Global Editorial, Contemporary Art, Culture, Lifestyle & Brand Publishing.*
-10. **CL40 World ArtVirial**  
-    *Legal Visual Arts & Posters Administration (Shop Universal Alignment) at UNIVERSAL ART PTY LTD.*
-11. **CL40 World Department (Sydney & International)**  
-    *Official Artist Support, Documentation Compliance, Poise, Etiquette & Personal Development Alignment at AUSTRALIAN DEPORTMENT ACADEMY PTY LTD.*
-12. **App 7G Maroc 6**  
-    *Digital Systems Architecture & Music-Tech Gateway based in Hay Riad, Rabat, connecting Moroccan creators with global distribution and rights infrastructure across Morocco, Australia, and the United States.*
-13. **CL40 World Portal (United States)**  
-    *Technology, Software Engineering & Global Artist/Enterprise Application covering work, jobs, merch, Complete Agency AI Bot G7, and automated engineering stacks (C++ / Python / Autotools / Android / Streaming) under United States corporate operations.*
-14. **CL40 World Music Distribution (Australia & Orion Network)**  
-    *International Music Distribution Platform & Corporate Entity in Australia at KILLER PTY LTD, actively integrated with Orion distribution operations.*
-
-### Part 2: 6 Strategic Corporate Partnerships (ABN Verified — Official Reveal Pending)
-
-15. **Strategic Corporate Partnership #01 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
-16. **Strategic Corporate Partnership #02 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
-17. **Strategic Corporate Partnership #03 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
-18. **Strategic Corporate Partnership #04 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
-19. **Strategic Corporate Partnership #05 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)*
-20. **Strategic Corporate Partnership #06 (ABN Verified)** — *Joint Venture & International Enterprise Alignment (Upcoming Reveal)
-
-## Features
-- **Live Status & Activity Streaming**: Real-time status rotation mimicking human-like presence.
-- **Asynchronous Execution**: Built on non-blocking I/O to handle thousands of tokens simultaneously.
-- **Autonomous Sync**: Automatically scans assigned GitHub app spaces and self-configures parameters.
-- **Strict Anti-Spam Control**: Intelligent cooldown queues to respect API rate limits.
 
 Chico Loco 40 / Samir Libari
 
