@@ -278,7 +278,6 @@ contract CL40WorldRegistry {
 ---
 
 ### Verified Official Platforms & Direct Links
-
 <p align="center">
   <a href="https://youtube.com"><img src="https://githubusercontent.com" width="32" height="32" alt="YouTube" /></a>&nbsp;&nbsp;
   <a href="https://spotify.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Spotify" /></a>&nbsp;&nbsp;
@@ -297,7 +296,6 @@ contract CL40WorldRegistry {
   <a href="https://t.me"><img src="https://githubusercontent.com" width="32" height="32" alt="Telegram" /></a>&nbsp;&nbsp;
   <a href="https://calendly.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Calendly" /></a>
 </p>
-
 ### Corporate Identity & Signature
 
 * **Owner & Founder:** Samir Libari (Professionally known as **Chico Loco 40**)
