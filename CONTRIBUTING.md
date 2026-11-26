@@ -1,6 +1,6 @@
-[README.md.txt](https://github.com/user-attachments/files/30856358/README.md.txt)
-
 # Security Policy — CL40 World
+
+[README.md.txt](https://github.com/user-attachments/files/30856358/README.md.txt)
 
 https://substack.com/@cl40world/note/p-219105516?utm_source=notes-share-action&r=8jmmb4
 
@@ -8,8 +8,7 @@ https://www.beatstars.com/samuuxloco
 
 https://reletter.com/publications/cl40s-substack
 
-
-# Contributing to CL40 World & WR Beats Corporate Ecosystem
+# Security Policy — Contributing to CL40 World LLC & WR Beats Music Grooup, Corporate Ecosystem
 
 Thank you for your interest in contributing to the **CL40 World LLC** and **WR Beats Music Group** repositories. All code, metadata, digital assets, and documentation submitted across our infrastructure are governed by corporate compliance, intellectual property protection, and international rights administration standards.
 
