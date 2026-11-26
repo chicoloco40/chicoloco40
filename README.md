@@ -279,41 +279,32 @@ contract CL40WorldRegistry {
 
 ### Verified Official Platforms & Direct Links
 
-mkdir -p assets/badges && python3 -c '
-badges = [
-  ("youtube", "YouTube", "#FF0000"),
-  ("spotify", "Spotify", "#1ED760"),
-  ("github", "GitHub", "#181717"),
-  ("gitlab", "GitLab", "#FC6D26"),
-  ("wordpress", "WordPress", "#21759B"),
-  ("linkedin", "LinkedIn", "#0A66C2"),
-  ("x", "X", "#000000"),
-  ("threads", "Threads", "#101010"),
-  ("bluesky", "Bluesky", "#0285FF"),
-  ("tiktok", "TikTok", "#000000"),
-  ("vimeo", "Vimeo", "#1AB7EA"),
-  ("stackoverflow", "Stack Overflow", "#F58025"),
-  ("reddit", "Reddit", "#FF4500"),
-  ("patreon", "Patreon", "#FF424D"),
-  ("telegram", "Telegram", "#26A5E4"),
-  ("calendly", "Calendly", "#006BFF")
-]
-for slug, name, color in badges:
-    w = max(95, len(name) * 10 + 30)
-    svg = f"""<svg xmlns="http://w3.org" width="{w}" height="32" viewBox="0 0 {w} 32">
-  <rect width="{w}" height="32" rx="6" fill="{color}"/>
-  <text x="{w/2}" y="21" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">{name}</text>
-</svg>"""
-    open(f"assets/badges/{slug}.svg", "w").write(svg)
-' && git add assets/badges && git commit -m "Add local SVG platform badges" && git push
+<p align="center">
+  <a href="https://youtube.com"><img src="./assets/badges/youtube.svg" alt="YouTube" height="32"/></a>
+  <a href="https://spotify.com"><img src="./assets/badges/spotify.svg" alt="Spotify" height="32"/></a>
+  <a href="https://github.com"><img src="./assets/badges/github.svg" alt="GitHub" height="32"/></a>
+  <a href="https://gitlab.com"><img src="./assets/badges/gitlab.svg" alt="GitLab" height="32"/></a>
+  <a href="https://wordpress.com"><img src="./assets/badges/wordpress.svg" alt="WordPress" height="32"/></a>
+  <a href="https://linkedin.com"><img src="./assets/badges/linkedin.svg" alt="LinkedIn" height="32"/></a>
+  <a href="https://x.com"><img src="./assets/badges/x.svg" alt="X" height="32"/></a>
+  <a href="https://threads.net"><img src="./assets/badges/threads.svg" alt="Threads" height="32"/></a>
+  <a href="https://bsky.app"><img src="./assets/badges/bluesky.svg" alt="Bluesky" height="32"/></a>
+  <a href="https://tiktok.com"><img src="./assets/badges/tiktok.svg" alt="TikTok" height="32"/></a>
+  <a href="https://vimeo.com"><img src="./assets/badges/vimeo.svg" alt="Vimeo" height="32"/></a>
+  <a href="https://stackoverflow.com"><img src="./assets/badges/stackoverflow.svg" alt="Stack Overflow" height="32"/></a>
+  <a href="https://reddit.com"><img src="./assets/badges/reddit.svg" alt="Reddit" height="32"/></a>
+  <a href="https://patreon.com"><img src="./assets/badges/patreon.svg" alt="Patreon" height="32"/></a>
+  <a href="https://t.me"><img src="./assets/badges/telegram.svg" alt="Telegram" height="32"/></a>
+  <a href="https://calendly.com"><img src="./assets/badges/calendly.svg" alt="Calendly" height="32"/></a>
+</p>
 
 ### Corporate Identity & Signature
 
 * **Owner & Founder:** Samir Libari (Professionally known as **Chico Loco 40**)
 * **Global Hubs:** New York, NY 10011 (United States) | Tangier (Morocco)
 * **Corporate Address:** 136 W 15th St, Apt 2/2, New York, NY 10011, United States
-* **Official Contact:** `founder.american@cl40.world` | `legal@cl40.world` | `+1 (332) 250-3112` | https://cl40.contact
-* **Signature:** `LIBARI SAMIR`
+* **Official Contact:** founder.american@cl40.world | legal@cl40.world | +1 (332) 250-3112 | https://cl40.contact
+* **Signature:** LIBARI SAMIR
 * **© 2026 CL40 World LLC. All Rights Reserved.**
 
 # OWNER-sinisters
