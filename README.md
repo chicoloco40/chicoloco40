@@ -279,22 +279,33 @@ contract CL40WorldRegistry {
 
 ### Verified Official Platforms & Direct Links
 
-[![YouTube](https://shields.io)](https://youtube.com)
-[![Spotify](https://shields.io)](https://spotify.com)
-[![GitHub](https://shields.io)](https://github.com)
-[![GitLab](https://shields.io)](https://gitlab.com)
-[![WordPress](https://shields.io)](https://wordpress.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![X](https://shields.io)](https://x.com)
-[![Threads](https://shields.io)](https://threads.net)
-[![Bluesky](https://shields.io)](https://bsky.app)
-[![TikTok](https://shields.io)](https://tiktok.com)
-[![Vimeo](https://shields.io)](https://vimeo.com)
-[![StackOverflow](https://shields.io)](https://stackoverflow.com)
-[![Reddit](https://shields.io)](https://reddit.com)
-[![Patreon](https://shields.io)](https://patreon.com)
-[![Telegram](https://shields.io)](https://t.me)
-[![Calendly](https://shields.io)](https://calendly.com)
+mkdir -p assets/badges && python3 -c '
+badges = [
+  ("youtube", "YouTube", "#FF0000"),
+  ("spotify", "Spotify", "#1ED760"),
+  ("github", "GitHub", "#181717"),
+  ("gitlab", "GitLab", "#FC6D26"),
+  ("wordpress", "WordPress", "#21759B"),
+  ("linkedin", "LinkedIn", "#0A66C2"),
+  ("x", "X", "#000000"),
+  ("threads", "Threads", "#101010"),
+  ("bluesky", "Bluesky", "#0285FF"),
+  ("tiktok", "TikTok", "#000000"),
+  ("vimeo", "Vimeo", "#1AB7EA"),
+  ("stackoverflow", "Stack Overflow", "#F58025"),
+  ("reddit", "Reddit", "#FF4500"),
+  ("patreon", "Patreon", "#FF424D"),
+  ("telegram", "Telegram", "#26A5E4"),
+  ("calendly", "Calendly", "#006BFF")
+]
+for slug, name, color in badges:
+    w = max(95, len(name) * 10 + 30)
+    svg = f"""<svg xmlns="http://w3.org" width="{w}" height="32" viewBox="0 0 {w} 32">
+  <rect width="{w}" height="32" rx="6" fill="{color}"/>
+  <text x="{w/2}" y="21" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">{name}</text>
+</svg>"""
+    open(f"assets/badges/{slug}.svg", "w").write(svg)
+' && git add assets/badges && git commit -m "Add local SVG platform badges" && git push
 
 ### Corporate Identity & Signature
 
