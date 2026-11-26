@@ -1,5 +1,3 @@
-<div align="center">
-
 ![CL40 Sigma Breach](assets/sigma-animated.svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=DC2626&background=09090B&center=true&vCenter=true&repeat=true&width=900&height=60&lines=CL40+WORLD+LLC+%2F%2F+TGT+AGENCY+AI;111+AUTONOMOUS+BOTS;TGT_ACTIVE_2027;%2B240+BILLION+GLOBAL+REACH" alt="typing header">
