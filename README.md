@@ -202,3 +202,211 @@ This documentation log tracks the structural presence and consecutive modificati
 ## 🏛️ Statement of Intent
 
 The documentation of the corporate footprint of Chico Loco 40 and the legacy of the late M'Hamed Hamed Libari is registered strictly as an immutable digital record. Any systematic removal, truncation, or alteration of this structured text by automated scripts or manual moderators is being logged locally under secure version control protocols to maintain digital property records and corporate historical truth.
+
+<style>
+  .cl40-links-wrapper {
+    background-color: #09090b;
+    padding: 32px 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    display: flex;
+    justify-content: center;
+  }
+
+  .cl40-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
+    gap: 12px;
+    max-width: 1000px;
+    width: 100%;
+  }
+
+  .cl40-badge {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #111114;
+    border: 1px solid #27272a;
+    border-radius: 8px;
+    padding: 10px 14px;
+    color: #e4e4e7;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+    text-transform: lowercase;
+    transition: all 0.2s ease;
+  }
+
+  .cl40-badge:hover {
+    border-color: #dc2626;
+    background-color: #18181b;
+    color: #ffffff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(220, 38, 38, 0.18);
+  }
+
+  .cl40-badge img {
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+    flex-shrink: 0;
+    border-radius: 3px;
+  }
+</style>
+
+<div class="cl40-links-wrapper">
+  <div class="cl40-grid">
+    <!-- Core Portals & Community -->
+    <a href="https://cl40.contact" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="cl40 portal">
+      <span>cl40.contact</span>
+    </a>
+    <a href="https://cl40.world" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="press">
+      <span>press.cl40.world</span>
+    </a>
+    <a href="https://links.fans" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="links.fans">
+      <span>links.fans</span>
+    </a>
+    <a href="https://taskade.app" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="taskade">
+      <span>taskade</span>
+    </a>
+    <a href="https://discord.gg" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="discord">
+      <span>discord server</span>
+    </a>
+    <a href="https://discord.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="discord bot">
+      <span>discord bot</span>
+    </a>
+    <a href="https://quora.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="quora">
+      <span>quora</span>
+    </a>
+
+    <!-- Music & Audio -->
+    <a href="https://audiomack.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="audiomack">
+      <span>audiomack</span>
+    </a>
+    <a href="https://soundcloud.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="soundcloud">
+      <span>soundcloud</span>
+    </a>
+    <a href="https://beatstars.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="beatstars">
+      <span>beatstars</span>
+    </a>
+    <a href="https://genius.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="genius">
+      <span>genius</span>
+    </a>
+    <a href="https://songshare.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="songshare">
+      <span>songshare</span>
+    </a>
+    <a href="https://archive.org" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="internet archive">
+      <span>internet archive</span>
+    </a>
+
+    <!-- Journalism & Publishing -->
+    <a href="https://substack.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="substack">
+      <span>substack</span>
+    </a>
+    <a href="https://wordpress.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="wordpress">
+      <span>wordpress</span>
+    </a>
+    <a href="https://medium.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="medium">
+      <span>medium</span>
+    </a>
+    <a href="https://booklabria.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="booklabria">
+      <span>booklabria</span>
+    </a>
+    <a href="https://writeupcafe.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="writeupcafe">
+      <span>writeupcafe</span>
+    </a>
+    <a href="https://mumubl.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="mumubl">
+      <span>mumubl</span>
+    </a>
+
+    <!-- Developer, Academic & Executive -->
+    <a href="https://roadmap.sh" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="roadmap.sh">
+      <span>roadmap.sh</span>
+    </a>
+    <a href="https://google.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="google scholar">
+      <span>google scholar</span>
+    </a>
+    <a href="https://orcid.org" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="orcid">
+      <span>orcid</span>
+    </a>
+    <a href="https://about.me" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="about.me">
+      <span>about.me</span>
+    </a>
+    <a href="https://wellfound.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="wellfound">
+      <span>wellfound</span>
+    </a>
+    <a href="https://ted.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="ted">
+      <span>ted</span>
+    </a>
+
+    <!-- Visual Arts, Cinema & Store -->
+    <a href="https://letterboxd.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="letterboxd">
+      <span>letterboxd</span>
+    </a>
+    <a href="https://senscritique.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="senscritique">
+      <span>senscritique</span>
+    </a>
+    <a href="https://behance.net" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="behance">
+      <span>behance</span>
+    </a>
+    <a href="https://deviantart.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="deviantart">
+      <span>deviantart</span>
+    </a>
+    <a href="https://benable.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="benable">
+      <span>benable</span>
+    </a>
+    <a href="https://redbubble.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://simpleicons.org" alt="redbubble">
+      <span>redbubble</span>
+    </a>
+
+    <!-- Legal & Forms -->
+    <a href="https://termsfeed.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="eula">
+      <span>eula policy</span>
+    </a>
+    <a href="https://termsfeed.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="legal policy">
+      <span>legal policy</span>
+    </a>
+    <a href="https://formester.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="form 1">
+      <span>intake form 1</span>
+    </a>
+    <a href="https://formester.com" target="_blank" rel="noopener" class="cl40-badge">
+      <img src="https://google.com" alt="form 2">
+      <span>intake form 2</span>
+    </a>
+  </div>
+</div>
+
