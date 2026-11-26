@@ -1,6 +1,6 @@
 <div align="center">
 
-![CL40 Sigma Breach](assets/sigma-animated.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,100:dc2626&text=CL40%20WORLD%20LLC&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=TGT%20AGENCY%20AI%20%2F%2F%20111%20AUTONOMOUS%20BOTS&descAlignY=60&descSize=18&animation=twinkling" alt="cl40 world llc // tgt agency ai // 111 autonomous bots" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=DC2626&background=09090B&center=true&vCenter=true&repeat=true&width=900&height=60&lines=CL40+WORLD+LLC+%2F%2F+TGT+AGENCY+AI;111+AUTONOMOUS+BOTS;TGT_ACTIVE_2027;%2B240+BILLION+GLOBAL+REACH" alt="typing header">
 
@@ -12,8 +12,6 @@
 [![founder](https://img.shields.io/badge/founder.american%40cl40.world-09090b?style=flat-square&logo=gmail&logoColor=dc2626)](mailto:founder.american@cl40.world)
 [![legal](https://img.shields.io/badge/legal%40cl40.world-09090b?style=flat-square&logo=gmail&logoColor=dc2626)](mailto:legal@cl40.world)
 
-[![reach](https://img.shields.io/badge/reach-dc2626?style=flat-square)](#reach)
-[![labels](https://img.shields.io/badge/labels-dc2626?style=flat-square)](#labels)
 [![arsenal](https://img.shields.io/badge/arsenal-dc2626?style=flat-square)](#tech-arsenal)
 [![analytics](https://img.shields.io/badge/analytics-dc2626?style=flat-square)](#analytics)
 [![architecture](https://img.shields.io/badge/architecture-dc2626?style=flat-square)](#architecture)
@@ -31,36 +29,10 @@
 |---|---|
 | owner / founder / systems architect | samir libari — **chico loco 40** |
 | parent syndicate | cl40 world llc · wr beats music group |
-| structure | 20 major labels & international divisions · 100% us ein registered |
+| structure | 20 international labels & corporate divisions · 100% united states registered entity · us ein |
 | headquarters | 136 w 15th st, apt 2/2, new york, ny 10011, united states |
 | system | tgt international multi-model ai agency · 111 autonomous bots |
 | tags | `CL40WORLD_SECURITY_LOCKED` · `TGT_ACTIVE_2027` · `111 AUTONOMOUS BOTS` · `+240 BILLION GLOBAL REACH` |
-
----
-
-## reach
-
-<p align="center">
-
-![global reach target](https://img.shields.io/badge/GLOBAL_REACH_TARGET-%2B240%2C000%2C000%2C000%2B_(%2B240_BILLION_IMPRESSIONS)-dc2626?style=for-the-badge&labelColor=09090b&logo=globe&logoColor=white)
-
-![corporate structure](https://img.shields.io/badge/CORPORATE_STRUCTURE-20_MAJOR_LABELS_%26_INTERNATIONAL_DIVISIONS-dc2626?style=for-the-badge&labelColor=09090b&logo=bookstack&logoColor=white)
-
-![us ein](https://img.shields.io/badge/US_EIN-100%25_REGISTERED_--_NEW_YORK%2C_NY_10011-09090b?style=for-the-badge&labelColor=dc2626&logoColor=white)
-
-![autonomous workforce](https://img.shields.io/badge/AUTONOMOUS_WORKFORCE-111_ACTIVE_AI_BOTS-dc2626?style=for-the-badge&labelColor=09090b&logo=probot&logoColor=white)
-
-![countries reached](https://img.shields.io/badge/COUNTRIES_REACHED-%2B210_COUNTRIES-dc2626?style=for-the-badge&labelColor=09090b&logo=googlemaps&logoColor=white)
-
-</p>
-
-| metric | value | bar |
-|---|---|---|
-| global reach target | `+240,000,000,000+` (+240 billion impressions) | `████████████████████ +240B` |
-| corporate structure | 20 major labels & international divisions · 100% us ein registered — new york, ny 10011 | `████████████████████ 20/20` |
-| autonomous workforce | 111 active ai bots (claude, gemini, gpt, grok + n8n + webhook.site + discord) | `████████████████████ 111/111` |
-| countries reached | +210 countries | `████████████████████ +210` |
-| catalog benchmark | *dark libari 2010* · musicbrainz `22fLaOOBnTXVHiM7fe16jZ` · isrc `TLY5Z3732842` | `████████████████████ ref` |
 
 ## catalog reference
 
@@ -72,31 +44,6 @@
 | isrc | `TLY5Z3732842` |
 | release date | `2026-11-18` |
 | stream | [audiomack](https://audiomack.com/chicoloco40/song/dark-libari-2010) |
-
----
-
-## labels
-
-1. **CL40 World LLC** — Major Label Ecosystem: Flagship record label & corporate holding entity
-2. **CL40 World Music Distribution** — Global digital distribution & catalog delivery
-3. **CL40 World Film** — Motion picture, music video & 4K visual production
-4. **CL40 World Sinisters** — Dark horror, psycho drill & cinematic audio-visual gaming
-5. **CL40 World Space** — Interactive media, gaming & automated bot systems (CODES)
-6. **CL40 World News** — International broadcast, podcasts & global press
-7. **CL40 World Magazine** — Editorial journalism & international digital publications
-8. **CL40 World Labs** — Software engineering, AI systems & enterprise automation
-9. **CL40 World Portal** — Centralized digital gateway, web platforms & B2C/P2D integration
-10. **CL40 World ArtVirial** — Visual arts, cover architecture & creative media
-11. **CL40 World Department** — Executive governance, compliance & global operations
-12. **CL40 World 7G MA** — Digital app CFO, architecture & international rights-tech payment
-13. **CLEbook Libria NY** — New York digital publishing house & e-book distribution P2D digital
-14. **WR Music Publishing** — Global music publishing & composition administration
-15. **Rights Organization WR Beats** — Global Rights Entity (PRO)
-16. **WR Beats Studio** — International audio engineering, mixing & mastering
-17. **CL40 World Rights PRO** — International rights PRO complete IRS-USA
-18. **WR Production** — Sound design, composition engineering & original catalog production
-19. **WR Beats Music Group** — Global music group, artist roster administration & licensing
-20. **CL40 World Syndicate Portal** — Global corporate hub & automated distribution pipelines
 
 ---
 
@@ -262,7 +209,7 @@ fleet (111)
 
 ```text
 egress
-├── cl40.world · cl40.contact · press.cl40.world
+├── cl40.world · cl40.contact
 ├── x (twitter)
 ├── substack · wordpress · medium
 ├── musicbrainz · internet archive
@@ -308,9 +255,9 @@ egress
 
 | squad | bots | relay targets |
 |---|---|---|
-| relay & ops | 11 | [official portal](https://cl40.world) · [contact gateway](https://cl40.contact) · [press hub](https://press.cl40.world) · [musicbrainz](https://musicbrainz.org) · health + alert bots |
+| relay & ops | 11 | [official portal](https://cl40.world) · [contact gateway](https://cl40.contact) · [press hub](https://cl40.world) · [musicbrainz](https://musicbrainz.org) · health + alert bots |
 | publishing | 22 | [substack](https://substack.com/@cl40world) · [wordpress](https://chicoloco40.wordpress.com/) · [medium](https://medium.com/@cl40world) · [booklabria](https://booklabria.com) · [writeupcafe](https://writeupcafe.com/author/chicoloco40) · [mumubl](https://mumubl.com/members/chicoloco40/profile/) · [quora](https://cl40worldportal.quora.com/) · [internet archive](https://archive.org/details/136b-top-trends-by-cl-40-world) |
-| catalog & rights | 22 | [audiomack](https://audiomack.com/chicoloco40/song/dark-libari-2010) · [soundcloud](https://soundcloud.com/chico-loco-40) · [beatstars](https://www.beatstars.com/chicoloco40) · [genius](https://genius.com/artists/Chico-loco-40) · [songshare](https://songshare.com/artist/a2g7yslh) · [links.fans](https://links.fans/chicoloco40) · [spotify](https://open.spotify.com) · [apple music](https://music.apple.com) |
+| catalog & rights | 22 | [audiomack](https://audiomack.com/chicoloco40/song/dark-libari-2010) · [soundcloud](https://soundcloud.com/chico-loco-40) · [beatstars](https://www.beatstars.com/chicoloco40) · [genius](https://genius.com/artists/Chico-loco-40) · [songshare](https://songshare.com/artist/a2g7yslh) · [links.fans](https://links.fans/chicoloco40) · spotify · apple music |
 | social & trends | 22 | x (grok) · [letterboxd](https://letterboxd.com/samirlibari/) · [senscritique](https://www.senscritique.com/cl40world) · [behance](https://www.behance.net/cl40world) · [deviantart](https://www.deviantart.com/cl40world) · [benable](https://benable.com/chicoloco_40) · [redbubble](https://www.redbubble.com/people/cl40world/shop) |
 | community | 22 | [discord server](https://discord.gg) · [discord oauth](https://discord.com/oauth2/authorize?client_id=1510455630387740812&response_type=code&redirect_uri=https://cl40.contact/&scope=identify) · [taskade](https://cl40-world-1273.taskade.app/) · [formester 1](https://zpifiscs.formester.com/f/BHTHcDKg6) · [formester 2](https://zpifiscs.formester.com/f/vjUo40oqQ) |
 | identity & academic | 12 | [orcid](https://orcid.org/0009-0001-4557-4898) · [roadmap.sh](https://roadmap.sh/u/cl40world) · [google scholar](https://scholar.google.com/citations?user=lofDR3kAAAAJ&hl=en&scioq=Samir+Libari) · [about.me](https://about.me/samir-libari) · [wellfound](https://wellfound.com/u/samir-libari) · [ted](https://www.ted.com/profiles/52159764) · [legal policy 1](https://www.termsfeed.com/live/17b107e2-d672-47a0-b941-e500a59dff48) · [eula](https://www.termsfeed.com/live/24a824fb-3c4c-4d21-94f1-620d724ad834) |
@@ -346,7 +293,7 @@ egress
 
 [![official portal](https://img.shields.io/badge/official_portal-09090b?style=for-the-badge&logo=googlechrome&logoColor=dc2626)](https://cl40.world)
 [![contact gateway](https://img.shields.io/badge/contact_gateway-09090b?style=for-the-badge&logo=gmail&logoColor=dc2626)](https://cl40.contact)
-[![press hub](https://img.shields.io/badge/press_hub-09090b?style=for-the-badge&logo=googlenews&logoColor=dc2626)](https://press.cl40.world)
+[![press hub](https://img.shields.io/badge/press_hub-09090b?style=for-the-badge&logo=googlenews&logoColor=dc2626)](https://cl40.world)
 [![musicbrainz](https://img.shields.io/badge/musicbrainz-09090b?style=for-the-badge&logo=musicbrainz&logoColor=dc2626)](https://musicbrainz.org)
 [![orcid](https://img.shields.io/badge/orcid-09090b?style=for-the-badge&logo=orcid&logoColor=dc2626)](https://orcid.org/0009-0001-4557-4898)
 [![legal policy 1](https://img.shields.io/badge/legal_policy_1-09090b?style=for-the-badge&logo=termius&logoColor=dc2626)](https://www.termsfeed.com/live/17b107e2-d672-47a0-b941-e500a59dff48)
@@ -364,8 +311,6 @@ egress
 
 ### music & catalog
 
-[![spotify](https://img.shields.io/badge/spotify-09090b?style=for-the-badge&logo=spotify&logoColor=dc2626)](https://open.spotify.com)
-[![apple music](https://img.shields.io/badge/apple_music-09090b?style=for-the-badge&logo=applemusic&logoColor=dc2626)](https://music.apple.com)
 [![audiomack](https://img.shields.io/badge/audiomack-09090b?style=for-the-badge&logo=audiomack&logoColor=dc2626)](https://audiomack.com/chicoloco40/song/dark-libari-2010)
 [![soundcloud](https://img.shields.io/badge/soundcloud-09090b?style=for-the-badge&logo=soundcloud&logoColor=dc2626)](https://soundcloud.com/chico-loco-40)
 [![beatstars](https://img.shields.io/badge/beatstars-09090b?style=for-the-badge&logo=beats&logoColor=dc2626)](https://www.beatstars.com/chicoloco40)
