@@ -278,24 +278,260 @@ contract CL40WorldRegistry {
 ---
 
 ### Verified Official Platforms & Direct Links
-<p align="center">
-  <a href="https://youtube.com"><img src="https://githubusercontent.com" width="32" height="32" alt="YouTube" /></a>&nbsp;&nbsp;
-  <a href="https://spotify.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Spotify" /></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img src="https://githubusercontent.com" width="32" height="32" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://gitlab.com"><img src="https://githubusercontent.com" width="32" height="32" alt="GitLab" /></a>&nbsp;&nbsp;
-  <a href="https://wordpress.com"><img src="https://githubusercontent.com" width="32" height="32" alt="WordPress" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com"><img src="https://githubusercontent.com" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://x.com"><img src="https://githubusercontent.com" width="32" height="32" alt="X" /></a>&nbsp;&nbsp;
-  <a href="https://threads.net"><img src="https://githubusercontent.com" width="32" height="32" alt="Threads" /></a>&nbsp;&nbsp;
-  <a href="https://bsky.app"><img src="https://githubusercontent.com" width="32" height="32" alt="Bluesky" /></a>&nbsp;&nbsp;
-  <a href="https://tiktok.com"><img src="https://githubusercontent.com" width="32" height="32" alt="TikTok" /></a>&nbsp;&nbsp;
-  <a href="https://vimeo.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Vimeo" /></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Stack Overflow" /></a>&nbsp;&nbsp;
-  <a href="https://reddit.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Reddit" /></a>&nbsp;&nbsp;
-  <a href="https://patreon.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Patreon" /></a>&nbsp;&nbsp;
-  <a href="https://t.me"><img src="https://githubusercontent.com" width="32" height="32" alt="Telegram" /></a>&nbsp;&nbsp;
-  <a href="https://calendly.com"><img src="https://githubusercontent.com" width="32" height="32" alt="Calendly" /></a>
-</p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CL40 World LLC — Master Ecosystem Showcase</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #050505;
+    color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  /* Cinematic Stage */
+  .stage {
+    position: relative;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 60px;
+    background: radial-gradient(circle at 30% 50%, #0b2614 0%, #140306 55%, #050505 100%);
+    overflow: hidden;
+  }
+
+  /* Glass Barrier & Beast Shadow Effect */
+  .glass-chamber {
+    position: absolute;
+    right: 6%;
+    top: 10%;
+    width: 42%;
+    height: 78%;
+    border: 2px solid rgba(217, 4, 41, 0.45);
+    border-radius: 16px;
+    background: linear-gradient(135deg, rgba(255,255,255,0.04), rgba(217,4,41,0.08));
+    backdrop-filter: blur(8px);
+    box-shadow: 0 0 50px rgba(217, 4, 41, 0.25), inset 0 0 40px rgba(0, 0, 0, 0.9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .beast-silhouette {
+    width: 240px;
+    height: 280px;
+    background: radial-gradient(circle, #1a0004 20%, #000 75%);
+    border-radius: 50% 50% 40% 40%;
+    position: relative;
+    animation: strikeGlass 2.8s infinite ease-in-out;
+    box-shadow: 0 0 60px #d90429;
+  }
+
+  .beast-eyes {
+    position: absolute;
+    top: 32%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 45px;
+  }
+
+  .eye {
+    width: 18px;
+    height: 8px;
+    background: #ff002b;
+    border-radius: 50%;
+    box-shadow: 0 0 20px #ff002b, 0 0 40px #ff002b;
+    animation: eyePulse 1.4s infinite alternate;
+  }
+
+  .glass-crack {
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(45deg, transparent, transparent 40px, rgba(255,255,255,0.03) 41px, transparent 42px);
+    animation: glassShake 2.8s infinite ease-in-out;
+  }
+
+  @keyframes strikeGlass {
+    0%, 100% { transform: scale(0.92) translateY(10px); filter: blur(4px); }
+    45% { transform: scale(1.14) translateY(-5px); filter: blur(0px); }
+    50% { transform: scale(1.18) translateY(-8px); }
+  }
+
+  @keyframes glassShake {
+    0%, 42%, 56%, 100% { transform: translate(0, 0); }
+    46% { transform: translate(-6px, 4px); }
+    50% { transform: translate(6px, -4px); }
+  }
+
+  @keyframes eyePulse {
+    from { opacity: 0.6; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1.2); }
+  }
+
+  /* Left Brand & Character Overlay */
+  .brand-panel {
+    position: relative;
+    z-index: 5;
+    max-width: 50%;
+  }
+
+  .brand-title {
+    font-size: 3.4rem;
+    font-weight: 800;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-transform: lowercase;
+  }
+
+  .brand-sub {
+    font-size: 1.5rem;
+    font-weight: 300;
+    letter-spacing: 6px;
+    margin-left: 140px;
+    color: #e5e5e5;
+    border-top: 3px solid #d90429;
+    padding-top: 6px;
+    display: inline-block;
+  }
+
+  .exec-tag {
+    margin-top: 22px;
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+    color: #a3a3a3;
+    text-transform: uppercase;
+  }
+
+  .exec-tag span { color: #d90429; font-weight: 700; }
+
+  /* Kinetic Moving Logos Ticker */
+  .ticker-wrap {
+    width: 100%;
+    background: rgba(10, 10, 10, 0.95);
+    border-top: 1px solid rgba(217, 4, 41, 0.4);
+    padding: 16px 0;
+    overflow: hidden;
+    position: relative;
+    z-index: 10;
+  }
+
+  .ticker {
+    display: flex;
+    width: max-content;
+    animation: marquee 28s linear infinite;
+  }
+
+  .logo-pill {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 20px;
+    margin: 0 12px;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #fff;
+    transition: 0.3s;
+    animation: neonGlow 3s infinite alternate;
+  }
+
+  .logo-pill img { width: 20px; height: 20px; filter: brightness(0) invert(1); }
+
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  @keyframes neonGlow {
+    from { border-color: rgba(255,255,255,0.1); box-shadow: none; }
+    to { border-color: rgba(217,4,41,0.6); box-shadow: 0 0 15px rgba(217,4,41,0.25); }
+  }
+</style>
+</head>
+<body>
+
+  <div class="stage">
+    <div class="brand-panel">
+      <div class="brand-title">cl40 world</div>
+      <div class="brand-sub">magazine</div>
+      <div class="exec-tag">
+        <span>CL40 WORLD LLC</span> &bull; WR BEATS MUSIC GROUP &bull; 20 INTERNATIONAL DIVISIONS
+      </div>
+    </div>
+
+    <!-- Animated Beast Behind Glass -->
+    <div class="glass-chamber">
+      <div class="glass-crack"></div>
+      <div class="beast-silhouette">
+        <div class="beast-eyes">
+          <div class="eye"></div>
+          <div class="eye"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Moving Platform Logos Bar -->
+  <div class="ticker-wrap">
+    <div class="ticker" id="logoTicker"></div>
+  </div>
+
+<script>
+  const platforms = [
+    { name: "SPOTIFY", slug: "spotify" },
+    { name: "APPLE MUSIC", slug: "applemusic" },
+    { name: "YOUTUBE", slug: "youtube" },
+    { name: "SOUNDCLOUD", slug: "soundcloud" },
+    { name: "AUDIOMACK", slug: "audiomack" },
+    { name: "BEATSTARS", slug: "beatstars" },
+    { name: "MUSICBRAINZ", slug: "musicbrainz" },
+    { name: "GOOGLE", slug: "google" },
+    { name: "SUBSTACK", slug: "substack" },
+    { name: "WORDPRESS", slug: "wordpress" },
+    { name: "GITHUB", slug: "github" },
+    { name: "GITLAB", slug: "gitlab" },
+    { name: "EPIC GAMES", slug: "epicgames" },
+    { name: "XBOX", slug: "xbox" },
+    { name: "SHOPIFY", slug: "shopify" },
+    { name: "PATREON", slug: "patreon" },
+    { name: "STRIPE", slug: "stripe" },
+    { name: "WISE", slug: "wise" },
+    { name: "IMDB PRO", slug: "imdb" },
+    { name: "VIMEO", slug: "vimeo" },
+    { name: "LETTERBOXD", slug: "letterboxd" },
+    { name: "DISCORD", slug: "discord" },
+    { name: "TELEGRAM", slug: "telegram" },
+    { name: "ORCID", slug: "orcid" }
+  ];
+
+  const ticker = document.getElementById("logoTicker");
+  const items = [...platforms, ...platforms];
+  items.forEach(p => {
+    const div = document.createElement("div");
+    div.className = "logo-pill";
+    div.innerHTML = `<img src="https://simpleicons.org{p.slug}/ffffff" alt="${p.name}"><span>${p.name}</span>`;
+    ticker.appendChild(div);
+  });
+</script>
+
+</body>
+</html>
+
 ### Corporate Identity & Signature
 
 * **Owner & Founder:** Samir Libari (Professionally known as **Chico Loco 40**)
