@@ -280,28 +280,24 @@ contract CL40WorldRegistry {
 
 ### Verified Official Platforms & Direct Links
 
-<div align="center">
-
-[![YouTube](https://shields.io)](https://youtube.com)
-[![Spotify](https://shields.io)](https://spotify.com)
-[![GitHub](https://shields.io)](https://github.com)
-[![GitLab](https://shields.io)](https://gitlab.com)
-[![WordPress](https://shields.io)](https://wordpress.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![X](https://shields.io)](https://x.com)
-[![Threads](https://shields.io)](https://threads.net)
-[![Bluesky](https://shields.io)](https://bsky.app)
-[![TikTok](https://shields.io)](https://tiktok.com)
-[![Vimeo](https://shields.io)](https://vimeo.com)
-[![Stack Overflow](https://shields.io)](https://stackoverflow.com)
-[![Reddit](https://shields.io)](https://reddit.com)
-[![Patreon](https://shields.io)](https://patreon.com)
-[![Telegram](https://shields.io)](https://t.me)
-[![Calendly](https://shields.io)](https://calendly.com)
-
-</div>
-
----
+<p align="center">
+  <a href="https://youtube.com"><img src="https://shields.io" alt="YouTube"/></a>
+  <a href="https://spotify.com"><img src="https://shields.io" alt="Spotify"/></a>
+  <a href="https://github.com"><img src="https://shields.io" alt="GitHub"/></a>
+  <a href="https://gitlab.com"><img src="https://shields.io" alt="GitLab"/></a>
+  <a href="https://wordpress.com"><img src="https://shields.io" alt="WordPress"/></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"/></a>
+  <a href="https://x.com"><img src="https://shields.io" alt="X"/></a>
+  <a href="https://threads.net"><img src="https://shields.io" alt="Threads"/></a>
+  <a href="https://bsky.app"><img src="https://shields.io" alt="Bluesky"/></a>
+  <a href="https://tiktok.com"><img src="https://shields.io" alt="TikTok"/></a>
+  <a href="https://vimeo.com"><img src="https://shields.io" alt="Vimeo"/></a>
+  <a href="https://stackoverflow.com"><img src="https://shields.io" alt="Stack Overflow"/></a>
+  <a href="https://reddit.com"><img src="https://shields.io" alt="Reddit"/></a>
+  <a href="https://patreon.com"><img src="https://shields.io" alt="Patreon"/></a>
+  <a href="https://t.me"><img src="https://shields.io" alt="Telegram"/></a>
+  <a href="https://calendly.com"><img src="https://shields.io" alt="Calendly"/></a>
+</p>
 
 ### Corporate Identity & Signature
 
