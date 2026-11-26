@@ -290,7 +290,7 @@ contract CL40WorldRegistry {
 [![Bluesky](https://shields.io)](https://bsky.app)
 [![TikTok](https://shields.io)](https://tiktok.com)
 [![Vimeo](https://shields.io)](https://vimeo.com)
-[![Stack Overflow](https://shields.io)](https://stackoverflow.com)
+[![StackOverflow](https://shields.io)](https://stackoverflow.com)
 [![Reddit](https://shields.io)](https://reddit.com)
 [![Patreon](https://shields.io)](https://patreon.com)
 [![Telegram](https://shields.io)](https://t.me)
