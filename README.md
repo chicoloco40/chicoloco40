@@ -280,22 +280,22 @@ contract CL40WorldRegistry {
 ### Verified Official Platforms & Direct Links
 
 <p align="center">
-  <a href="https://youtube.com"><img src="./assets/badges/youtube.svg" alt="YouTube" height="32"/></a>
-  <a href="https://spotify.com"><img src="./assets/badges/spotify.svg" alt="Spotify" height="32"/></a>
-  <a href="https://github.com"><img src="./assets/badges/github.svg" alt="GitHub" height="32"/></a>
-  <a href="https://gitlab.com"><img src="./assets/badges/gitlab.svg" alt="GitLab" height="32"/></a>
-  <a href="https://wordpress.com"><img src="./assets/badges/wordpress.svg" alt="WordPress" height="32"/></a>
-  <a href="https://linkedin.com"><img src="./assets/badges/linkedin.svg" alt="LinkedIn" height="32"/></a>
-  <a href="https://x.com"><img src="./assets/badges/x.svg" alt="X" height="32"/></a>
-  <a href="https://threads.net"><img src="./assets/badges/threads.svg" alt="Threads" height="32"/></a>
-  <a href="https://bsky.app"><img src="./assets/badges/bluesky.svg" alt="Bluesky" height="32"/></a>
-  <a href="https://tiktok.com"><img src="./assets/badges/tiktok.svg" alt="TikTok" height="32"/></a>
-  <a href="https://vimeo.com"><img src="./assets/badges/vimeo.svg" alt="Vimeo" height="32"/></a>
-  <a href="https://stackoverflow.com"><img src="./assets/badges/stackoverflow.svg" alt="Stack Overflow" height="32"/></a>
-  <a href="https://reddit.com"><img src="./assets/badges/reddit.svg" alt="Reddit" height="32"/></a>
-  <a href="https://patreon.com"><img src="./assets/badges/patreon.svg" alt="Patreon" height="32"/></a>
-  <a href="https://t.me"><img src="./assets/badges/telegram.svg" alt="Telegram" height="32"/></a>
-  <a href="https://calendly.com"><img src="./assets/badges/calendly.svg" alt="Calendly" height="32"/></a>
+  <a href="https://youtube.com"><img src="https://simpleicons.org" width="36" height="36" alt="YouTube" /></a>&nbsp;&nbsp;
+  <a href="https://spotify.com"><img src="https://simpleicons.org" width="36" height="36" alt="Spotify" /></a>&nbsp;&nbsp;
+  <a href="https://github.com"><img src="https://simpleicons.org" width="36" height="36" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://gitlab.com"><img src="https://simpleicons.org" width="36" height="36" alt="GitLab" /></a>&nbsp;&nbsp;
+  <a href="https://wordpress.com"><img src="https://simpleicons.org" width="36" height="36" alt="WordPress" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com"><img src="https://simpleicons.org" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://x.com"><img src="https://simpleicons.org" width="36" height="36" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://threads.net"><img src="https://simpleicons.org" width="36" height="36" alt="Threads" /></a>&nbsp;&nbsp;
+  <a href="https://bsky.app"><img src="https://simpleicons.org" width="36" height="36" alt="Bluesky" /></a>&nbsp;&nbsp;
+  <a href="https://tiktok.com"><img src="https://simpleicons.org" width="36" height="36" alt="TikTok" /></a>&nbsp;&nbsp;
+  <a href="https://vimeo.com"><img src="https://simpleicons.org" width="36" height="36" alt="Vimeo" /></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com"><img src="https://simpleicons.org" width="36" height="36" alt="Stack Overflow" /></a>&nbsp;&nbsp;
+  <a href="https://reddit.com"><img src="https://simpleicons.org" width="36" height="36" alt="Reddit" /></a>&nbsp;&nbsp;
+  <a href="https://patreon.com"><img src="https://simpleicons.org" width="36" height="36" alt="Patreon" /></a>&nbsp;&nbsp;
+  <a href="https://t.me"><img src="https://simpleicons.org" width="36" height="36" alt="Telegram" /></a>&nbsp;&nbsp;
+  <a href="https://calendly.com"><img src="https://simpleicons.org" width="36" height="36" alt="Calendly" /></a>
 </p>
 
 ### Corporate Identity & Signature
