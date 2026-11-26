@@ -277,8 +277,6 @@ contract CL40WorldRegistry {
 
 ---
 
-### Verified Official Platforms & Direct Links
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
